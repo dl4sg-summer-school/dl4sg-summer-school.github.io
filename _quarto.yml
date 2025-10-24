@@ -8,18 +8,8 @@ website:
     background: '#1a2b48'
     left:
       - text: Home
-        href: index.html#home
-    right:
-      - text: About
-        href: index.html#about
-      - text: Program
-        href: index.html#program
-      - text: Speakers
-        href: index.html#speakers
-      - text: Partners
-        href: index.html#partners
-      - text: Apply
-        href: index.html#apply
+        href: index.html
+
 format:
   html:
     html:
