@@ -8,18 +8,18 @@ website:
     background: '#1a2b48'
     left:
       - text: Home
-        href: index.qmd#home
+        href: index.html#home
     right:
       - text: About
-        href: index.qmd#about
+        href: index.html#about
       - text: Program
-        href: index.qmd#program
+        href: index.html#program
       - text: Speakers
-        href: index.qmd#speakers
+        href: index.html#speakers
       - text: Partners
-        href: index.qmd#partners
+        href: index.html#partners
       - text: Apply
-        href: index.qmd#apply
+        href: index.html#apply
 format:
   html:
     html:

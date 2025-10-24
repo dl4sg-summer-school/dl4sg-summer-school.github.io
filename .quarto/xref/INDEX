@@ -22,5 +22,8 @@
   },
   "footer/index.qmd": {
     "index.html": "89c67ea0"
+  },
+  "home/index.qmd": {
+    "index.html": "dd26eb0b"
   }
 }
