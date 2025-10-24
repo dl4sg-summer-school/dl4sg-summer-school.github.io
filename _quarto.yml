@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  navbar:
+    search: true
+    background: '#1a2b48'
+    left:
+      - text: Home
+        href: index.qmd
+    right:
+      - text: About
+        href: about/index.qmd
+      - text: Program
+        href: program/index.qmd
+      - text: Speakers
+        href: speakers/index.qmd
+      - text: Partners
+        href: org_and_sponsors/index.qmd
+      - text: Apply
+        href: footer/index.qmd
+format:
+  html:
+    html:
+    backgroundcolor: "#F8F9FA" # https://www.figma.com/colors/
+    theme: [styles.scss] # https://quarto.org/docs/output-formats/html-themes.html
+

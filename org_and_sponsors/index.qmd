@@ -1,0 +1,68 @@
+---
+format: html
+page-layout: full 
+---
+
+```{=html}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<div class="page-container">
+
+    <!-- Organising Committee Card -->
+    <div class="content-card">
+        <h2>Organising Committee</h2>
+        <ul>
+            <li><strong>General & Scientific Chair:</strong> Bahman Rostami-Tabar</li>
+            <li><strong>Programme Chair:</strong> Thanos Goltsos</li>
+            <li><strong>Logistics Lead:</strong> Beverly Francis</li>
+            <li><strong>Finance & Sponsorship Lead:</strong> Harsha Halgamuwe Hewage</li>
+            <li><strong>Communication & Publicity Lead:</strong> Udeshi Salgado</li>
+            <li><strong>Registration & Participant Support:</strong> Mustafa Aslan</li>
+            <li><strong>Site Visit Coordinator:</strong> Amir Salimi Babamiri</li>
+        </ul>
+    </div>
+    
+    <!-- Partners & Supporters Section -->
+    <div class="partners-section">
+        <!-- Section Header from image -->
+        <div class="section-header">
+            <h1>Partners & Supporters</h1>
+            <p>This event is organised by the Data Lab for Social Good at Cardiff Business School, with support and sponsorship from a network of academic and civic partners.</p>
+        </div>
+
+        <!-- Potential Organisational Support -->
+        <div>
+            <h2>Organisational Support</h2>
+            <div class="partners-list">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=Welsh+Government](https://placehold.co/160x50/FFFFFF/4A5568?text=Welsh+Government)" alt="Welsh Government Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=Future+Generations+Commissioner](https://placehold.co/160x50/FFFFFF/4A5568?text=Future+Generations+Commissioner)" alt="Future Generations Commissioner Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=Office+for+National+Statistics](https://placehold.co/160x50/FFFFFF/4A5568?text=Office+for+National+Statistics)" alt="Office for National Statistics Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=NHS+Wales](https://placehold.co/160x50/FFFFFF/4A5568?text=NHS+Wales)" alt="NHS Wales Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=UK+Government+Office+for+Science](https://placehold.co/160x50/FFFFFF/4A5568?text=UK+Government+Office+for+Science)" alt="UK Government Office for Science Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=OECD+Strategic+Foresight+Unit](https://placehold.co/160x50/FFFFFF/4A5568?text=OECD+Strategic+Foresight+Unit)" alt="OECD Strategic Foresight Unit Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=World+Economic+Forum](https://placehold.co/160x50/FFFFFF/4A5568?text=World+Economic+Forum)" alt="World Economic Forum Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=ARUP](https://placehold.co/160x50/FFFFFF/4A5568?text=ARUP)" alt="ARUP Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=CIRAD](https://placehold.co/160x50/FFFFFF/4A5568?text=CIRAD)" alt="CIRAD Logo">
+            </div>
+        </div>
+
+        <!-- Sponsors -->
+        <div>
+            <h2>Sponsors</h2>
+            <div class="partners-list">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=Cardiff+Business+School](https://placehold.co/160x50/FFFFFF/4A5568?text=Cardiff+Business+School)" alt="Cardiff Business School Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=Doctoral+Academy](https://placehold.co/160x50/FFFFFF/4A5568?text=Doctoral+Academy)" alt="Doctoral Academy Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=The+Learned+Society+of+Wales](https://placehold.co/160x50/FFFFFF/4A5568?text=The+Learned+Society+of+Wales)" alt="The Learned Society of Wales Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=WGSSS](https://placehold.co/160x50/FFFFFF/4A5568?text=WGSSS)" alt="WGSSS Logo">
+                <img src="httpsÃ://placehold.co/160x50/FFFFFF/4A5568?text=IMA+Small+Grant+Scheme" alt="IMA Small Grant Scheme Logo">
+                <img src="[https://placehold.co/160x50/FFFFFF/4A5568?text=GW4](https://placehold.co/160x50/FFFFFF/4A5568?text=GW4)" alt="GW4 Logo">
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+```
