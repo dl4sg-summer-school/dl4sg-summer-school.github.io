@@ -11,15 +11,15 @@ website:
         href: index.qmd
     right:
       - text: About
-        href: about/index.qmd
+        href: index.qmd#about
       - text: Program
-        href: program/index.qmd
+        href: index.qmd#program
       - text: Speakers
-        href: speakers/index.qmd
+        href: index.qmd#speakers
       - text: Partners
-        href: org_and_sponsors/index.qmd
+        href: index.qmd#partners
       - text: Apply
-        href: footer/index.qmd
+        href: index.qmd#apply
 format:
   html:
     html:

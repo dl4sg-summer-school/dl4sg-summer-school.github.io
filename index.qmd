@@ -124,18 +124,24 @@ page-layout: full
 ```
 
 
+::: {#about}
 {{< include about/index.qmd >}}
+:::
 
-
+::: {#program}
 {{< include program/index.qmd >}}
+:::
 
-
+::: {#speakers}
 {{< include speakers/index.qmd >}}
+:::
 
-
+::: {#partners}
 {{< include org_and_sponsors/index.qmd >}}
+:::
 
-
+::: {#apply}
 {{< include footer/index.qmd >}}
+:::
 
 
