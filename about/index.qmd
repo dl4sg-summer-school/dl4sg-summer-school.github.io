@@ -17,7 +17,27 @@ page-layout: full
         <p>It will also feature policy dialogues with practitioners and a field trip in Wales, linking theory to lived experiences of uncertainty. A cohort of forty PhD students, postdoctoral researchers, early-career academics, and practitioners will be selected through a competitive application process to ensure disciplinary diversity and breadth of perspectives.</p>
 
         <p><strong>Participation is limited to 40 people</strong>, and applications will be assessed to ensure balance across disciplines, geographies, and career stages.</p>
+        
+        <p>Various interdisicplainairy topcis will be covered incluidng but not limited to the following topics:</p>
+        <ul>
+            <li>Equip participants with conceptual and methodological tools to understand, model, communicate, and act on uncertainty in relation to possible futures.</li>
+            <li>Quantifying uncertainty</li>
+            <li>Communicating and visualising uncertainty</li>
+            <li>Epistemologies of Uncertainty</li>
+            <li>Uncertainty, History and the Future</li>
+            <li>Uncertainty in Complex Systems</li>
+            <li>Uncertainty, and forecasting</li>
+            <li>Uncertainty, and foresight</li>
+            <li>Decision-Making under Uncertainty</li>
+            <li>Uncertainty, and participatory & co-creative approaches</li>
+            <li>Uncertainty, emerging issues and signal sharing</li>
+            <li>Uncertainty, policy and practice interfaces</li>
+            <li>Uncertainty & interdisciplinary collaboration</li>
+            <li>Uncertainty, responsibility & ethics</li>
+            <li>Uncertainty, resilience, and antifragility</li>
+        </ul>
     </div>
+    
 
     <div class="content-card">
         <h2>Summer School Aims</h2>
