@@ -19,8 +19,9 @@ page-layout: full
 
 <!-- Footer Section -->
 <div class="footer-section">
-    <p>An event by the <strong>Data Lab for Social Good Research Group</strong>, Cardiff Business School.</p>
-    <p class="university-name">CARDIFF UNIVERSITY | PRIFYSGOL CAERDYD</p>
+    <p>Hosted by the Data Lab for Social Good Research Group, Cardiff Business School
+and the Uncertainty and Future Theme, Digital Transformation and Innovation Institute (DTII).</p>
+    <p class="university-name">Data Lab for Social Good © 2025</p>
 </div>
 
 
