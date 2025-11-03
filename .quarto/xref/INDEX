@@ -25,5 +25,20 @@
   },
   "home/index.qmd": {
     "index.html": "dd26eb0b"
+  },
+  "panels/index.qmd": {
+    "index.html": "aee402fd"
+  },
+  "participants/index.qmd": {
+    "index.html": "1a16194c"
+  },
+  "registration/index.qmd": {
+    "index.html": "cd43e54f"
+  },
+  "travel/index.qmd": {
+    "index.html": "6d30149c"
+  },
+  "workshop/index.qmd": {
+    "index.html": "92d5ee30"
   }
 }

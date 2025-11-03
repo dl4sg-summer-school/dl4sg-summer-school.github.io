@@ -16,7 +16,7 @@ page-layout: full
 
         <p>It will also feature policy dialogues with practitioners and a field trip in Wales, linking theory to lived experiences of uncertainty. A cohort of forty PhD students, postdoctoral researchers, early-career academics, and practitioners will be selected through a competitive application process to ensure disciplinary diversity and breadth of perspectives.</p>
 
-        <p><strong>Participation is limited to 40 people</strong>, and applications will be assessed to ensure balance across disciplines, geographies, and career stages.</p>
+        <p><strong>Participation is limited to 30 people</strong>, and applications will be assessed to ensure balance across disciplines, geographies, and career stages.</p>
         
         <p>Various interdisicplainairy topcis will be covered incluidng but not limited to the following topics:</p>
         <ul>
@@ -48,6 +48,31 @@ page-layout: full
             <li>Generate tangible outputs, including collaborative research proposals and think pieces on emerging issues.</li>
             <li>Build long-term capacity for interdisciplinary, uncertainty & futures-oriented research across diverse fields.</li>
         </ul>
+    </div>
+    
+    <div class="content-card">
+        <h2>What to Expect</h2>
+
+        <p>The six-day international programme comprises five intensive workshop days (09:00-16:00 daily) and a field excursion in Wales. The structure will combine training, dialogue, and experimentation:</p>
+        
+        <ul>
+            <li><strong>Thematic Keynotes</strong> from leading scholars and practitioners.</li>
+            <li><strong>Research Spotlights</strong> where PhDs and ECRs present their work.</li>
+            <li><strong>Workshops & Tutorials</strong> on probabilistic modelling, scenario planning, foresight, and speculative futures.</li>
+            <li><strong>Interdisciplinary Case Studies</strong> on challenges like climate adaptation or AI governance.</li>
+            <li><strong>Creativity Sessions</strong> using improvisation, art, storytelling, and signal sharing.</li>
+            <li><strong>Ethics & Policy Dialogues</strong> connecting research to government and industry.</li>
+            <li><strong>Day 6 Excursion in Wales</strong> for site visits and outdoor reflection.</li>
+        </ul>
+
+
+    </div>
+
+    <div class="content-card">
+        <h2>Who Should Apply</h2>
+        <p>The summer school is aimed at PhD students, postdoctoral researchers, practitioners, and early-career academics from across disciplines. The cohort will consist of up to 30 participants, selected to ensure diversity and depth of engagement.</p>
+        
+        <p>To strengthen local capacity, around <strong>one-third of places will be reserved for Cardiff postgraduate researchers (PGRs) and early career researchers (ECRs)</strong>, while international recruitment will ensure broad cross-cultural exchange. Participants will also connect with the Hwb Dyfodol network of futures practitioners in Wales.</p>
     </div>
 
 </div>

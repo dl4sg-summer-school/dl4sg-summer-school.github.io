@@ -11,15 +11,25 @@ website:
         href: index.html
     right:
       - text: About
-        href: index.html#about
+        href: about/index.qmd
       - text: Program
-        href: index.html#program
+        menu:
+          - text: Full Program
+            href: program/index.qmd
+          - text: Workshops
+            href: workshop/index.qmd
+          - text: Panels
+            href: panels/index.qmd
       - text: Speakers
         href: index.html#speakers
-      - text: Partners
-        href: index.html#partners
+      - text: Travel
+        href: travel/index.qmd
+      - text: Participants
+        href: participants/index.qmd
       - text: Apply
         href: index.html#apply
+      - text: Registration
+        href: registration/index.qmd
 format:
   html:
     html:

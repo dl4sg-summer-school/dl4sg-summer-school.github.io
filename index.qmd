@@ -7,15 +7,6 @@ page-layout: full
 {{< include home/index.qmd >}}
 :::
 
-
-::: {#about}
-{{< include about/index.qmd >}}
-:::
-
-::: {#program}
-{{< include program/index.qmd >}}
-:::
-
 ::: {#speakers}
 {{< include speakers/index.qmd >}}
 :::

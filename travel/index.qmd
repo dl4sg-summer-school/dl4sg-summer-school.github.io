@@ -1,0 +1,36 @@
+---
+format: html
+page-layout: full 
+---
+
+```{=html}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<div class="page-container">
+
+    <div class="content-card">
+        <h2>Venue</h2>
+        <p>The summer school will be held at [Cardiff University](https://www.cardiff.ac.uk/visit/map#map), using its modern seminar rooms and collaborative spaces. Accommodation will be arranged in university residences, with catering provided for lunches and breaks.</p>
+    </div>
+    
+    <div class="content-card">
+        <h2>Things to do in Cardiff</h2>
+        <p>Cardiff is our dynamic capital, seamlessly blending our rich Welsh heritage with modern city life. The city centre is fairly compact - so really easy get around, with good public transport to Cardiff Bay and the nearby countryside. Whether you’re interested in history, sports, nature, or just looking for a fun and relaxing day out, Cardiff has something to offer for everyone.</p>
+    </div>  
+    
+    <div class="content-card">
+        <h2>Travel</h2>
+        <p>Will be added soon.</p>
+    </div>  
+    
+    <div class="content-card">
+        <h2>Local Attractions</h2>
+        <p>Will be added soon.</p>
+    </div>  
+
+</div>
+
+
+
+```

@@ -521,3 +521,21 @@ body {
     color: #ffffff; /* White */
     font-weight: 600;
 }
+
+/* change the dropdown menu background */
+.navbar .dropdown-menu {
+  background-color: #00674F !important;
+}
+
+/* change the text colour of links in the dropdown */
+.navbar .dropdown-item {
+  color: #fff !important;
+}
+
+/* change hover/focus states */
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus {
+  background-color: #16203a !important;
+  color: #fff !important;
+}
+

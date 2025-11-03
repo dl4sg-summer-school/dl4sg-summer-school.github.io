@@ -15,11 +15,9 @@ page-layout: full
         <ul>
             <li><strong>General & Scientific Chair:</strong> Bahman Rostami-Tabar</li>
             <li><strong>Programme Chair:</strong> Thanos Goltsos</li>
-            <li><strong>Logistics Lead:</strong> Beverly Francis</li>
-            <li><strong>Finance & Sponsorship Lead:</strong> Harsha Halgamuwe Hewage</li>
-            <li><strong>Communication & Publicity Lead:</strong> Udeshi Salgado</li>
-            <li><strong>Registration & Participant Support:</strong> Mustafa Aslan</li>
-            <li><strong>Site Visit Coordinator:</strong> Amir Salimi Babamiri</li>
+            <li><strong>Progamme Manager:</strong> Harsha Halgamuwe Hewage</li>
+            <li><strong>Organizing Committee Member:</strong> Peter Madden</li>
+            <li><strong>Organizing Committee Member:</strong> Beverly Francis</li>
         </ul>
     </div>
     

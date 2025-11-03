@@ -13,7 +13,7 @@ page-layout: full
     <p>Applications for our 2026 Summer School are now open. Join a diverse cohort of 40 participants in Cardiff for an intensive week of collaboration, learning, and creative exploration.</p>
     <a href="https://forms.gle/VChKXLDcmK4aAKmQA" class="btn-custom">Apply Now</a>
     <p class="contact-info">
-        Questions? Contact <strong>Mustafa Aslan [add email]</strong> (Registration & Participant Support).
+        Questions? Please contact <a href="mailto:halgamuwehewagehr@cardiff.ac.uk">halgamuwehewagehr@cardiff.ac.uk</a>.
     </p>
 </div>
 
