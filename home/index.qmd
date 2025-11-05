@@ -110,11 +110,11 @@ page-layout: full
                     <td class="event">Welcome reception drink</td>
                 </tr>
                 <tr>
-                    <td class="date">06–11 July 2026</td>
+                    <td class="date">06–10 July 2026</td>
                     <td class="event">Summer school</td>
                 </tr>
                 <tr>
-                    <td class="date">12 July 2026</td>
+                    <td class="date">11 July 2026</td>
                     <td class="event">Site visit</td>
                 </tr>
             </tbody>

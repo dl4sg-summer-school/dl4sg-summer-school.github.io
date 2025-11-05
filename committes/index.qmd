@@ -11,12 +11,12 @@ page-layout: full
 
     <!-- Organising Committee Card -->
     <div class="content-card">
-        <h2>Director and Academic Chair: Prof. Bahman Rostami-Tabar</h2>
-        <h2>Programme Manager: Mr. Harsha Halgamuwe Hewage</h2>
+        <h3>Director and Academic Chair: Prof. Bahman Rostami-Tabar</h3>
+        <h3>Programme Manager: Mr. Harsha Halgamuwe Hewage</h3>
         <h2>Organising Committee</h2>
         <ul>
             <li></strong> Prof. Peter Madden</li>
-            <li><</strong>Dr. Thanos Goltsos</li>
+            <li></strong>Dr. Thanos Goltsos</li>
             <li></strong> Mrs. Beverly Francis</li>
         </ul>
     </div>
@@ -25,9 +25,10 @@ page-layout: full
     <div class="content-card">
         <h2>Advisory Board</h2>
         <ul>
+            <li></strong> Prof. Bahman Rostami-Tabar</li>
             <li></strong> Prof. Peter Madden</li>
-            <li><</strong>Dr. Thanos Goltsos</li>
-            <li></strong> Mrs. Beverly Francis</li>
+            <li><</strong>Prof. Caucher Borkar</li>
+            <li></strong> More to be added</li>
         </ul>
     </div>
 ```
