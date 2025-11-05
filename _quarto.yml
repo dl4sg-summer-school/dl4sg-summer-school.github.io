@@ -10,26 +10,29 @@ website:
       - text: Home
         href: index.html
     right:
-      - text: About
-        href: about/index.qmd
+        menu:
+          - text: About
+            href: about/index.qmd
+          - text: Committes
+            href: committes/index.qmd
+          - text: Travel tips
+            href: travel/index.qmd
+      - text: Apply
+        href: index.html#apply
+      - text: Registration
+        href: registration/index.qmd
+      - text: Speakers
+        href: index.html#speakers
       - text: Program
         menu:
-          - text: Full Program
+          - text: Schdule
             href: program/index.qmd
           - text: Workshops
             href: workshop/index.qmd
           - text: Panels
             href: panels/index.qmd
-      - text: Speakers
-        href: index.html#speakers
-      - text: Travel
-        href: travel/index.qmd
       - text: Participants
         href: participants/index.qmd
-      - text: Apply
-        href: index.html#apply
-      - text: Registration
-        href: registration/index.qmd
 format:
   html:
     html:

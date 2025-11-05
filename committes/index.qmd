@@ -1,0 +1,33 @@
+---
+format: html
+page-layout: full 
+---
+
+```{=html}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<div class="page-container">
+
+    <!-- Organising Committee Card -->
+    <div class="content-card">
+        <h2>Director and Academic Chair: Prof. Bahman Rostami-Tabar</h2>
+        <h2>Programme Manager: Mr. Harsha Halgamuwe Hewage</h2>
+        <h2>Organising Committee</h2>
+        <ul>
+            <li></strong> Prof. Peter Madden</li>
+            <li><</strong>Dr. Thanos Goltsos</li>
+            <li></strong> Mrs. Beverly Francis</li>
+        </ul>
+    </div>
+
+    <!-- Advisory Committee Card -->
+    <div class="content-card">
+        <h2>Advisory Board</h2>
+        <ul>
+            <li></strong> Prof. Peter Madden</li>
+            <li><</strong>Dr. Thanos Goltsos</li>
+            <li></strong> Mrs. Beverly Francis</li>
+        </ul>
+    </div>
+```
