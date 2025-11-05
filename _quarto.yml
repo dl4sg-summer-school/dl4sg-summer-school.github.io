@@ -10,12 +10,13 @@ website:
       - text: Home
         href: index.html
     right:
-        menu:
+      - text: About
+      - menu:
           - text: About
             href: about/index.qmd
           - text: Committes
             href: committes/index.qmd
-          - text: Travel tips
+          - text: Travel
             href: travel/index.qmd
       - text: Apply
         href: index.html#apply
@@ -25,7 +26,7 @@ website:
         href: index.html#speakers
       - text: Program
         menu:
-          - text: Schdule
+          - text: Schedule
             href: program/index.qmd
           - text: Workshops
             href: workshop/index.qmd
@@ -33,9 +34,8 @@ website:
             href: panels/index.qmd
       - text: Participants
         href: participants/index.qmd
+
 format:
   html:
-    html:
     backgroundcolor: "#F8F9FA" # https://www.figma.com/colors/
     theme: [styles.scss] # https://quarto.org/docs/output-formats/html-themes.html
-

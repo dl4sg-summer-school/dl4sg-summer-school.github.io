@@ -7,12 +7,19 @@ page-layout: full
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+<div class="cta-section">
+    <h2>Registration</h2>
+    <p>If you are offered a place, you must register to confirm your participation.</p>
+    <a href="https://forms.gle/VChKXLDcmK4aAKmQA" class="btn-custom">Register here</a>
+</div>
+
 <div class="page-container">
 
-    <!-- Card: Registration & Fees -->
+    <!-- Card: Registration Fees -->
     <div class="content-card">
       <h2>Registration & Fees</h2>
-      <p>Secure your place at the Summer School. All fees are in GBP and include access to all lectures, materials, coffee breaks, and the welcome reception.</p>
+          
+      <p>All fees are in GBP and include access to all lectures, materials, coffee breaks, and the welcome reception.</p>
       <table class="key-dates-table fees-table">
         <thead>
           <tr>
@@ -23,11 +30,11 @@ page-layout: full
         <tbody>
           <tr>
             <td class="category">PhD Students &amp; Early Career Researchers</td>
-            <td class="fee">£400</td>
+            <td class="fee">£250</td>
           </tr>
           <tr>
             <td class="category">Practitioners</td>
-            <td class="fee">£600</td>
+            <td class="fee">£350</td>
           </tr>
         </tbody>
       </table>

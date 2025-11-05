@@ -21,29 +21,31 @@ page-layout: full
         <!-- Speaker 1 -->
         <div class="speaker-profile">
             <div class="img-placeholder">Photo</div>
-            <h3>Prof. Bahman Rostami-Tabar</h3>
-            <p>Cardiff University, UK (General Chair)</p>
+            <h3>Sir David Spiegelhalter</h3>
+            <p>Emeritus Professor of Statistics, University of Cambridge</p>
         </div>
 
         <!-- Speaker 2 -->
         <div class="speaker-profile">
             <div class="img-placeholder">Photo</div>
-            <h3>Prof. Rob Hyndman</h3>
-            <p>Monash University, Australia</p>
+            <h3>Prof. Michelle D. Lazarus</h3>
+            <p>Professor of Anatomy & Developmental Biology, Monash University </p>
         </div>
+        
+
 
         <!-- Speaker 3 -->
         <div class="speaker-profile">
             <div class="img-placeholder">Photo</div>
-            <h3>Prof. Patrick Caron</h3>
-            <p>CIRAD, France</p>
+            <h3>Bill Sharpe</h3>
+            <p>Independent Researcher in Science, Technology, and Society</p>
         </div>
         
         <!-- Speaker 4 -->
         <div class="speaker-profile">
             <div class="img-placeholder">Photo</div>
-            <h3>Prof. Jennifer Gidley</h3>
-            <p>University of Tasmania, Australia</p>
+            <h3>TBC</h3>
+            <p></p>
         </div>
 
     </div> <!-- End grid-container -->
