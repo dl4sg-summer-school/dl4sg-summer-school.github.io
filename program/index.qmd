@@ -41,10 +41,6 @@ page-layout: full
                     </tr>
                     <tr>
                         <td class="date">11 July 2026</td>
-                        <td class="event">PROGRAM</td>
-                    </tr>
-                    <tr>
-                        <td class="date">12 July 2026</td>
                         <td class="event">Site visit</td>
                     </tr>
                 </tbody>
