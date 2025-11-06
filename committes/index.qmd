@@ -30,13 +30,7 @@ page-layout: full
 <div class="page-container">
 
     <div class="content-card">
-        <h2>Panels</h2>
-
-        <p>Will be added soon</p>
-    </div>
-
-    <div class="content-card">
-        <h2>Scientific Committee</h2>
+        <h2>Advisory Board</h2>
         <ul>
           <li><strong>Prof. Caucher Birkar</strong>, Tsinghua University, China.</li>
           <li><strong>Prof. Bahman Rostami-Tabar</strong>, Cardiff Business School, Cardiff University, UK.</li>

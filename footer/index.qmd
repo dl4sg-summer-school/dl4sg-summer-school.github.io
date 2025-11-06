@@ -12,6 +12,11 @@ page-layout: full
     <h1>Ready to Shape the Future?</h1>
     <p>Applications for our 2026 Summer School are now open. Join a diverse cohort of 40 participants in Cardiff for an intensive week of collaboration, learning, and creative exploration.</p>
     <a href="https://forms.gle/VChKXLDcmK4aAKmQA" class="btn-custom">Apply Now</a>
+
+<br>
+
+<p>The summer school is aimed at PhD students, postdoctoral researchers, and early-career academics and practitioners from across disciplines.</p>
+
     <p class="contact-info">
         Questions? Please contact <a href="mailto:halgamuwehewagehr@cardiff.ac.uk">halgamuwehewagehr@cardiff.ac.uk</a>.
     </p>
