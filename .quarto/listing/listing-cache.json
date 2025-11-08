@@ -2,6 +2,9 @@
   "listingMap": {
     "speakers\\index.qmd": [
       "/"
+    ],
+    "participants/index.qmd": [
+      "speakers.yml"
     ]
   }
 }

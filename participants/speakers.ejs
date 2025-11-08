@@ -1,0 +1,37 @@
+```{=html}
+<div class='speakersFooter'>
+<div class="card-columns">
+  <% for (const item of items) { %>
+    <div class="card">
+      <img class="card-img-top" src="<%- item.thumbnail %>" alt="<%= item.name %> picture">
+      <div class="card-body">
+        <h5 class="card-title"><%= item.name %></h5>
+        <p class="card-text"><%= item.affiliation %></p>
+        <ul>
+  		  	<% for (const tile of item.social) { %>
+  		  	  <li class="socialIcons">
+  		  	  <% if (tile.website) { %> 
+                <a class="" href="<%- tile.website %>" >
+                  <i class="bi bi-globe" ></i> 
+                </a>
+            <% } %>
+            <% if (tile.github) { %>
+                <a class="" href="<%- tile.github %>" >
+                  <i class="bi bi-github" ></i> 
+                </a>
+            <% } %>
+           <% if (tile.linkedin) { %> 
+                <a class="" href="<%- tile.linkedin %>" >
+                  <i class="bi bi-linkedin"></i> 
+                </a>
+  		  	 <% } %>
+  		  	 </li>
+  		  <% } %>
+        </ul>
+      </div>
+    </div>
+  <% } %>
+</div>
+</div>
+```
+

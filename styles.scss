@@ -540,3 +540,113 @@ body {
   color: #fff !important;
 }
 
+
+/*added Bahman */
+
+.speakersFooter, .sponsorsFooter {
+  width: 100%;
+  height: auto;
+  padding: 10px 0 10px;
+  margin-top: 0px;
+  z-index: 1 !important;
+  text-align: center !important;
+}
+
+.speakersFooter ul li .socialIcons, .sponsorsFooter ul li .socialIcons{
+  margin: 2px 5px 0px;
+	display: inline-block;
+	list-style: none !important;
+}
+
+.card-columns {
+  column-count: 4; // default for XL and up
+  margin: 0 25px;
+
+@media (max-width: 991px) {
+  column-count: 2;
+}
+}
+
+
+.card {
+  flex-direction: row;
+  margin-bottom: 20px;
+  width: 120%; /* Increased by 20% */
+}
+.card img {
+  width: 200px;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+
+.card-body ul {
+  list-style-type: none !important;
+  padding-left: 0 !important;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
+
+
+/* Responsive Images */
+.img_block {
+  min-height: auto;
+  min-width: 100%; /* Allow images to shrink */
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Adjust image margin and alignment for mobile */
+.img_margin {
+  margin-right: 5%;
+  align-items: center;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Grid System Responsive Adjustments */
+@media (max-width: 768px) {
+  .grid {
+    display: block;
+  }
+
+  .text_block, .full_text_block {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 15px;
+  }
+
+  .img_margin {
+    margin-right: 0;
+  }
+
+  #banner_small h1, #banner_small h2, #banner h1, #banner h2 {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+
+  /* Reduce padding for smaller screens */
+  #banner, #banner_small {
+    padding: 20px;
+    min-height: 250px;
+  }
+
+  /* Full width adjustment for mobile */
+  .schedule_column_time, .schedule_column_talk {
+    float: none;
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Prevent overflow on grid columns */
+.g-col-6, .g-col-12 {
+  max-width: 100%;
+  overflow: hidden;
+}

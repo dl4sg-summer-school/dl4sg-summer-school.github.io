@@ -1,21 +1,21 @@
 ---
-format: html
-page-layout: full 
+pagetitle: "Participants"
+
+listing:
+  - id: speakers
+    template: speakers.ejs
+    contents: speakers.yml
 ---
 
-```{=html}
+:::::: grid
+::: {#sponsors_banner .g-col-12 .title}
+# Participants
+:::
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+::: {#speakers .g-col-12}
+:::
 
-<div class="page-container">
+<div>
 
-    <div class="content-card">
-        <h2>Participants</h2>
-
-        <p>Will be added soon</p>
-    </div>
 </div>
-
-
-
-```
+::::::
