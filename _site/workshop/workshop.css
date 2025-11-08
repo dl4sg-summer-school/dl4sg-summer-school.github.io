@@ -24,7 +24,7 @@
   color: #333;
   margin-bottom: 2rem;
   padding-bottom: 0.5rem;
-  border-bottom: 3px solid #0077b5;
+  border-bottom: 3px solid #DA2C43;
 }
 
 /* Instructors Heading */
@@ -146,7 +146,7 @@
   content: "✓";
   position: absolute;
   left: 0;
-  color: #0077b5;
+  color: #DA2C43;
   font-weight: bold;
 }
 

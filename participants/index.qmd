@@ -28,7 +28,6 @@ css: participants-cards.css
 <div class="page-container">
     <!-- Participants Section -->
     <div class="content-card">
-        <h2>Participants</h2>
         <div class="participants-grid">
             
             <!-- Participant 1 -->

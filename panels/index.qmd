@@ -9,8 +9,6 @@ css: panels.css
 
 <div class="panels-container">
   
-  <h1 class="page-title">Panel Sessions</h1>
-  
   <!-- Panel Session 1 -->
   <div class="panel-section">
     <h2 class="panel-title">Panel 1: Uncertainty in Public Policy</h2>

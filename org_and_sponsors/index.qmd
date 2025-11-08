@@ -4,7 +4,14 @@ format:
     css: sponsors.css
 ---
 
-We are grateful for the support of our sponsors:
+```{=html}
+
+<div class="section-header">
+<br>
+            <p>We are grateful for the support of our sponsors:</p>
+        </div>
+        
+```
 
 ::: {.sponsors-grid}
 
