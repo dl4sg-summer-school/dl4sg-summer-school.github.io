@@ -7,11 +7,7 @@ page-layout: full
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-<div class="cta-section">
-    <h2>Registration</h2>
-    <p>If you are offered a place, you must register to confirm your participation.</p>
-    <a href="https://forms.gle/VChKXLDcmK4aAKmQA" class="btn-custom">Register here</a>
-</div>
+
 
 <div class="page-container">
 
@@ -45,9 +41,16 @@ page-layout: full
         <li>The event is in-person only at Cardiff University; no virtual attendance option.</li>
         <li>For any queries, please contact <a href="mailto:halgamuwehewagehr@cardiff.ac.uk">halgamuwehewagehr@cardiff.ac.uk</a>.</li>
       </ul>
+      
+      <p>If you are offered a place, you must register to confirm your participation.</p>
+      
+      <a href="https://forms.gle/VChKXLDcmK4aAKmQA" class="btn-custom btn-primary"> 
+      <i class="fas fa-external-link-alt"></i> Register here</a>
+    
     </div>
 
 </div>
+
 
 
 

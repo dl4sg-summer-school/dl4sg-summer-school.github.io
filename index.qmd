@@ -3,6 +3,13 @@ format: html
 page-layout: full 
 ---
 
+```{=html}
+<div class="logo-container">
+  <img src="images/cardiff.svg" alt="Cardiff University Logo">
+  <img src="images/dl4sg.svg" alt="Data Lab Logo">
+</div>
+```
+
 ::: {#home}
 {{< include home/index.qmd >}}
 :::

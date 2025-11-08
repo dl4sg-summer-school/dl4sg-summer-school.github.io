@@ -5,7 +5,7 @@ website:
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   navbar:
     search: true
-    background: '#1a2b48'
+    background: '#252525'
     left:
       - text: Home
         href: index.html

@@ -11,7 +11,7 @@ page-layout: full
 
 <div class="hero-split">
   <div class="hero-left">
-    <img src="images/logo_empty.svg" alt="Summer School Logo" class="hero-logo">
+    <img src="images/logo_empty_cardiff.svg" alt="Summer School Logo" class="hero-logo">
   </div>
   <div class="hero-right">
     <h1> </h1>

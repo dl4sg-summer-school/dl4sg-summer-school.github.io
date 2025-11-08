@@ -16,7 +16,7 @@ body {
   text-transform: uppercase;
   
   &:hover {
-    color: lighten(#A8C3BC, 15%);
+    color: lighten(#780606, 15%);
     transition-duration: 0.25s;
   }
 }
@@ -26,7 +26,7 @@ body {
 
 /* --- LAYOUT & CARDS --- */
 .page-container {
-    max-width: 2600px; /* Standard content width */
+    max-width: 3600px; /* Standard content width */
     margin: 0 auto;
     padding: 0 1rem 2.5rem 1rem; /* Padding bottom for space */
 }
@@ -68,7 +68,7 @@ body {
     font-weight: 800;
     line-height: 1.1;
     margin-bottom: 1rem;
-    color: #121212; /* Dark navy title */
+    color: #353839; /* Dark navy title */
 }
 .hero-right p.subtitle {
     font-size: 1.25rem; 
@@ -94,7 +94,7 @@ body {
     font-size: 1.05em;
 }
 .hero-detail-item i {
-    color: #E4251B; /* Green icons */
+    color: #CA224B; /* Green icons */
 }
 .hero-detail-separator {
     color: #ccc; /* Lighter separator */
@@ -114,13 +114,13 @@ body {
   gap: 8px;
 }
 .btn-primary {
-  background-color: #E4251B; /* Green background */
+  background-color: #CA224B; /* Green background */
   color: #ffffff; /* White text */
-  border: 2px solid #E4251B; 
+  border: 2px solid #CA224B; 
 }
 .btn-primary:hover {
-  background-color: #E4251B; /* Darker green hover */
-  border-color: #E4251B;
+  background-color: #DA2C43; /* Darker green hover */
+  border-color: #DA2C43;
   transform: translateY(-2px);
   color: #ffffff; 
 }
@@ -139,7 +139,7 @@ body {
 .content-card h2 {
     font-size: 2em;
     font-weight: 700;
-    color: #121212;
+    color: #353839;
     margin-bottom: 1.5rem;
     border-bottom: 2px solid #e9ecef;
     padding-bottom: 0.75rem;
@@ -170,7 +170,7 @@ body {
 .key-dates-table .date {
     font-size: 1.1em;
     font-weight: 600;
-    color: #E4251B; /* Theme green */
+    color: #CA224B; /* Theme green */
     width: 200px; /* Give date a consistent width */
 }
 
@@ -239,7 +239,7 @@ body {
 .section-header h1 {
     font-size: 2.8rem;
     font-weight: 800;
-    color: #121212;
+    color: #353839;
     margin-bottom: 1rem;
 }
 .section-header p {
@@ -268,13 +268,13 @@ body {
 .info-card h3 {
     font-size: 1.5em; /* Card title */
     font-weight: 700;
-    color: #121212;
+    color: #353839;
     margin-bottom: 1rem;
 }
 .info-card p {
     font-size: 1.05em;
     line-height: 1.7; 
-    color: #121212;
+    color: #353839;
 }
 
 
@@ -320,7 +320,7 @@ body {
 .content-card h2 {
     font-size: 2em;
     font-weight: 700;
-    color: #121212;
+    color: #353839;
     margin-bottom: 1.5rem;
     border-bottom: 2px solid #e9ecef;
     padding-bottom: 0.75rem;
@@ -331,7 +331,7 @@ body {
 .content-card li {
     font-size: 1.1em;
     line-height: 1.8; 
-    color: #121212;
+    color: #353839;
 }
 .content-card ul {
     list-style: none; 
@@ -350,47 +350,7 @@ body {
     position: absolute;
     left: 0;
     top: 0.1em; 
-    color: #E4251B; /* Green accent color */
-}
-
-/* speakers style */
-
-/* --- GRID SYSTEM FOR "Speakers" --- */
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 columns */
-    gap: 1.5rem; /* Gap between cards */
-}
-
-/* --- SPEAKER PROFILE STYLING --- */
-.speaker-profile {
-    text-align: center;
-}
-.speaker-profile .img-placeholder {
-    width: 160px; /* Corresponds to h-40 w-40 */
-    height: 160px;
-    border-radius: 50%; /* Makes it circular */
-    background-color: #e2e8f0; /* gray-200 */
-    color: #4A5568; /* gray-600 */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: 600;
-    font-size: 1.5rem;
-    margin: 0 auto 1.5rem auto; /* Center block and add margin bottom */
-    box-shadow: 0 4px 6px rgba(0,0,0,0.05); /* Subtle shadow */
-}
-.speaker-profile h3 {
-    font-size: 1.5em; /* Speaker Name */
-    font-weight: 700;
-    color: #121212;
-    margin-bottom: 0.5rem;
-}
-.speaker-profile p {
-    font-size: 1.05em;
-    line-height: 1.7; 
-    color: #E4251B; /* Use brand green for affiliation */
-    font-weight: 600;
+    color: #CA224B; /* Green accent color */
 }
 
 
@@ -425,7 +385,7 @@ body {
 .partners-section h2 {
     font-size: 1.5rem;
     font-weight: 700;
-    color: #121212;
+    color: #353839;
     margin-top: 2.5rem; /* Space above subheadings */
     margin-bottom: 1.5rem;
 }
@@ -454,7 +414,7 @@ body {
 /* --- CTA & FOOTER SECTION (from image) --- */
 .cta-section {
     background-color: #CCCCCC; /* Brand Navy */
-    color: #121212;
+    color: #353839;
     text-align: center;
     padding: 4rem 1.5rem;
 }
@@ -465,7 +425,7 @@ body {
 }
 .cta-section p {
     font-size: 1.25rem; 
-    color: #121212; /* Lighter white (gray-200) */
+    color: #353839; /* Lighter white (gray-200) */
     max-width: 700px;
     margin: 0 auto 2rem auto;
     line-height: 1.7;
@@ -481,32 +441,32 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    background-color: #E4251B; /* Green background */
+    background-color: #CA224B; /* Green background */
     color: #ffffff; /* White text */
-    border: 2px solid #E4251B; 
+    border: 2px solid #CA224B; 
     margin-bottom: 2rem; /* Space below button */
 }
 .cta-section .btn-custom:hover {
-    background-color: #E4251B; /* Darker green hover */
-    border-color: #E4251B;
+    background-color: #DA2C43; /* Darker green hover */
+    border-color: #DA2C43;
     transform: translateY(-2px);
     color: #ffffff; 
 }
 .cta-section .contact-info {
     font-size: 1rem;
-    color: #121212;
+    color: #353839;
 }
 .cta-section .contact-info strong {
-    color: #121212;
+    color: #353839;
     font-weight: 600;
 }
 
 .footer-section {
     background-color: #CCCCCC; /* Brand Navy */
-    color: #121212; /* gray-400 */
+    color: #353839; /* gray-400 */
     text-align: center;
     padding: 2rem 1.5rem;
-    border-top: 3px solid #E4251B; /* Green top border */
+    border-top: 3px solid #CA224B; /* Green top border */
 }
 .footer-section p {
     margin: 0.5rem 0;
@@ -515,7 +475,7 @@ body {
 .footer-section p.university-name {
     font-size: 1em;
     font-weight: 600;
-    color: #121212; /* Lighter white */
+    color: #353839; /* Lighter white */
     margin-top: 1rem;
 }
 .footer-section strong {
@@ -650,3 +610,114 @@ body {
   max-width: 100%;
   overflow: hidden;
 }
+
+
+
+
+/* Speaker Section Styles */
+.speaker-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.speaker-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 30px;
+}
+
+.speaker-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.speaker-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.speaker-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 20px;
+  display: block;
+  border: 3px solid #e0e0e0;
+}
+
+.speaker-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.speaker-org {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.speaker-social {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.speaker-social a {
+  color: #555;
+  font-size: 24px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.speaker-social a:hover {
+  color: #0077b5;
+}
+
+.speaker-social a:nth-child(1):hover {
+  color: #4CAF50; /* Website - green */
+}
+
+.speaker-social a:nth-child(2):hover {
+  color: #333; /* GitHub - dark */
+}
+
+.speaker-social a:nth-child(3):hover {
+  color: #0077b5; /* LinkedIn - blue */
+}
+
+/* Responsive */
+@media (max-width: 1200px) {
+  .speaker-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .speaker-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* --- Logo Container --- */
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-container img {
+  height: 70px;   /* fixed visual height for all logos */
+  width: auto;    /* preserve aspect ratio */
+  display: block; /* remove descender gap */
+}
+
