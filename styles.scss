@@ -401,8 +401,6 @@ body {
     max-height: 50px; /* Control logo height */
     max-width: 160px; /* Control logo width */
     object-fit: contain; /* Maintain aspect ratio */
-    filter: grayscale(100%); /* Make logos uniform */
-    opacity: 0.7;
     transition: all 0.3s ease;
 }
 .partners-list img:hover {
