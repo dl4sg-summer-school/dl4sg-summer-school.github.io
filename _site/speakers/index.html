@@ -128,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Registration</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../index.html#speakers"> 
+    <a class="nav-link active" href="../speakers/index.html" aria-current="page"> 
 <span class="menu-text">Speakers</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -167,74 +167,71 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Hear from Leading Experts</h1></header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 style="text-align: center; margin-bottom: 20px;" class="title display-7">Hear from Leading Experts</h1></header>
 
 
 
 
-<div class="page-container">
-    <!-- Section Header -->
-    <div class="section-header">
-        
-        <p>The summer school features keynote addresses from globally recognised scholars and practitioners.</p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+
+<div id="speakers" class="speaker-container">
+  
+  <p style="text-align: center; color: #666; margin-bottom: 40px;">The summer school features keynote addresses from globally recognised scholars and practitioners.</p>
+  
+  <h2 style="margin-bottom: 30px;" class="anchored">Keynote Speakers</h2>
+  
+  <div class="speaker-grid">
+    
+    <div class="speaker-card">
+      <img src="img/sir_david.jpg" alt="Sir David Spiegelhalter" class="speaker-photo">
+      <div class="speaker-name">Sir David Spiegelhalter</div>
+      <div class="speaker-org">University of Cambridge</div>
+      <div class="speaker-social">
+        <a href="#"><i class="bi bi-globe"></i></a>
+        <a href="#"><i class="bi bi-github"></i></a>
+        <a href="#"><i class="bi bi-linkedin"></i></a>
+      </div>
     </div>
-        
-        <h2 class="anchored">Keynote Speakers</h2>
-        <div class="committee-grid">
-            <!-- Speaker 1 -->
-            <div class="member-card">
-                <img src="img/sir_david.jpg" alt="Sir David Spiegelhalter" class="member-avatar">
-                <div class="member-name">Sir David Spiegelhalter</div>
-                <div class="member-affiliation">University of Cambridge</div>
-                <ul class="member-links">
-                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
-                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
-                </ul>
-            </div>
-            
-            <!-- Speaker 2 -->
-            <div class="member-card">
-                <img src="img/michelle.jpg" alt="Prof. Michelle D. Lazarus" class="member-avatar">
-                <div class="member-name">Prof. Michelle D. Lazarus</div>
-                <div class="member-affiliation">Monash University</div>
-                <ul class="member-links">
-                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
-                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
-                </ul>
-            </div>
-            
-            <!-- Speaker 3 -->
-            <div class="member-card">
-                <img src="img/bill_sharpe.jpg" alt="Bill Sharpe" class="member-avatar">
-                <div class="member-name">Bill Sharpe</div>
-                <div class="member-affiliation">Independent Researcher</div>
-                <ul class="member-links">
-                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
-                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
-                </ul>
-            </div>
-            
-            <!-- Speaker 4 -->
-            <div class="member-card">
-                <img src="https://via.placeholder.com/150" alt="TBC" class="member-avatar">
-                <div class="member-name">TBC</div>
-                <div class="member-affiliation">To Be Announced</div>
-                <ul class="member-links">
-                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
-                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
+
+    <div class="speaker-card">
+      <img src="img/michelle.jpg" alt="Prof. Michelle D. Lazarus" class="speaker-photo">
+      <div class="speaker-name">Prof. Michelle D. Lazarus</div>
+      <div class="speaker-org">Monash University</div>
+      <div class="speaker-social">
+        <a href="#"><i class="bi bi-globe"></i></a>
+        <a href="#"><i class="bi bi-github"></i></a>
+        <a href="#"><i class="bi bi-linkedin"></i></a>
+      </div>
     </div>
-</main></div>
+
+    <div class="speaker-card">
+      <img src="img/bill_sharpe.jpg" alt="Bill Sharpe" class="speaker-photo">
+      <div class="speaker-name">Bill Sharpe</div>
+      <div class="speaker-org">Independent Researcher</div>
+      <div class="speaker-social">
+        <a href="#"><i class="bi bi-globe"></i></a>
+        <a href="#"><i class="bi bi-github"></i></a>
+        <a href="#"><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+
+    <div class="speaker-card">
+      <img src="https://via.placeholder.com/150" alt="TBC" class="speaker-photo">
+      <div class="speaker-name">TBC</div>
+      <div class="speaker-org">To Be Announced</div>
+      <div class="speaker-social">
+        <a href="#"><i class="bi bi-globe"></i></a>
+        <a href="#"><i class="bi bi-github"></i></a>
+        <a href="#"><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 
 
- <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -635,7 +632,7 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
- <!-- /content -->
+</div> <!-- /content -->
 
 
 
