@@ -70,6 +70,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="speakers.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -287,54 +288,71 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div id="speakers">
+---
+format: html
+page-layout: full
+css: committe-cards.css
+---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
+{=html}
 <div class="page-container">
-
-    <!-- Section Header from image -->
-    <div class="section-header">
+    <!-- Speakers Section -->
+    <div class="content-card">
         <h1>Hear from Leading Experts</h1>
-        <p>The summer school features keynote addresses from globally recognised scholars and practitioners.</p>
+        <p class="section-intro">The summer school features keynote addresses from globally recognised scholars and practitioners.</p>
+        
+        <h2 class="anchored">Keynote Speakers</h2>
+        <div class="committee-grid">
+            <!-- Speaker 1 -->
+            <div class="member-card">
+                <img src="img/sir_david.jpg" alt="Sir David Spiegelhalter" class="member-avatar">
+                <div class="member-name">Sir David Spiegelhalter</div>
+                <div class="member-affiliation">University of Cambridge</div>
+                <ul class="member-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Speaker 2 -->
+            <div class="member-card">
+                <img src="img/michelle.jpg" alt="Prof. Michelle D. Lazarus" class="member-avatar">
+                <div class="member-name">Prof. Michelle D. Lazarus</div>
+                <div class="member-affiliation">Monash University</div>
+                <ul class="member-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Speaker 3 -->
+            <div class="member-card">
+                <img src="img/bill_sharpe.jpg" alt="Bill Sharpe" class="member-avatar">
+                <div class="member-name">Bill Sharpe</div>
+                <div class="member-affiliation">Independent Researcher</div>
+                <ul class="member-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Speaker 4 -->
+            <div class="member-card">
+                <img src="https://via.placeholder.com/150" alt="TBC" class="member-avatar">
+                <div class="member-name">TBC</div>
+                <div class="member-affiliation">To Be Announced</div>
+                <ul class="member-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
     </div>
-
-    <!-- Grid for the four speaker cards -->
-    <div class="grid-container">
-
-        <!-- Speaker 1 -->
-        <div class="speaker-profile">
-            <div class="img-placeholder">Photo</div>
-            <h3 class="anchored">Sir David Spiegelhalter</h3>
-            <p>Emeritus Professor of Statistics, University of Cambridge</p>
-        </div>
-
-        <!-- Speaker 2 -->
-        <div class="speaker-profile">
-            <div class="img-placeholder">Photo</div>
-            <h3 class="anchored">Prof. Michelle D. Lazarus</h3>
-            <p>Professor of Anatomy &amp; Developmental Biology, Monash University </p>
-        </div>
-        
-
-
-        <!-- Speaker 3 -->
-        <div class="speaker-profile">
-            <div class="img-placeholder">Photo</div>
-            <h3 class="anchored">Bill Sharpe</h3>
-            <p>Independent Researcher in Science, Technology, and Society</p>
-        </div>
-        
-        <!-- Speaker 4 -->
-        <div class="speaker-profile">
-            <div class="img-placeholder">Photo</div>
-            <h3 class="anchored">TBC</h3>
-            <p></p>
-        </div>
-
-    </div> <!-- End grid-container -->
-
 </div>
-
 </div>
 <div id="partners">
 
