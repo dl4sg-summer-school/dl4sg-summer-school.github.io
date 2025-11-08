@@ -1,48 +1,152 @@
 ---
 format: html
-page-layout: full 
+page-layout: full
+css: committe-cards.css
 ---
 
 ```{=html}
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 <div class="page-container">
-
-    <!-- Organising Committee Card -->
+    <!-- Leadership Section -->
     <div class="content-card">
-        <h3>Director and Academic Chair: Prof. Bahman Rostami-Tabar</h3>
-        <h3>Programme Manager: Mr. Harsha Halgamuwe Hewage</h3>
-        <h2>Organising Committee</h2>
-        <ul>
-            <li></strong> Prof. Peter Madden</li>
-            <li></strong>Dr. Thanos Goltsos</li>
-            <li></strong> Mrs. Beverly Francis</li>
-        </ul>
+        <h2>Leadership</h2>
+        <div class="committee-grid">
+            <!-- Director and Academic Chair -->
+            <div class="member-card">
+                <img src="img/bahman.jpg" alt="Prof. Bahman Rostami-Tabar" class="member-avatar">
+                <div class="member-name">Prof. Bahman Rostami-Tabar</div>
+                <div class="member-role">Director and Academic Chair</div>
+                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://www.cardiff.ac.uk/people/view/rostami-tabarb" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/bahmanrt" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Programme Manager -->
+            <div class="member-card">
+                <img src="img/harsha.avif" alt="Mr. Harsha Halgamuwe Hewage" class="member-avatar">
+                <div class="member-name">Harsha Halgamuwe Hewage</div>
+                <div class="member-role">Programme Manager</div>
+                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://www.cardiff.ac.uk/people/view/example" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/harshahewage" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 
-```
+    <!-- Organising Committee Section -->
+    <div class="content-card">
+        <h2>Organising Committee</h2>
+        <div class="committee-grid">
+            <!-- Member 1 -->
+            <div class="member-card">
+                <img src="img/peter.avif" alt="Prof. Peter Madden" class="member-avatar">
+                <div class="member-name">Prof. Peter Madden</div>
+                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://www.cardiff.ac.uk/people/view/123456-madden-peter" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/petermadden" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Member 2 -->
+            <div class="member-card">
+                <img src="img/thanos.jpeg" alt="Dr. Thanos Goltsos" class="member-avatar">
+                <div class="member-name">Dr. Thanos Goltsos</div>
+                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://www.cardiff.ac.uk/people/view/123456-goltsos-thanos" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/thanosgoltsos" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Member 3 -->
+            <div class="member-card">
+                <img src="img/beverly.avif" alt="Mrs. Beverly Francis" class="member-avatar">
+                <div class="member-name">Mrs. Beverly Francis</div>
+                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://www.cardiff.ac.uk/people/view/123456-francis-beverly" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/beverlyfrancis" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 
-
-```{=html}
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<div class="page-container">
-
+    <!-- Advisory Board Section -->
     <div class="content-card">
         <h2>Advisory Board</h2>
-        <ul>
-          <li><strong>Prof. Caucher Birkar</strong>, Tsinghua University, China.</li>
-          <li><strong>Prof. Bahman Rostami-Tabar</strong>, Cardiff Business School, Cardiff University, UK.</li>
-          <li><strong>Prof. Patrick Caron</strong>, Senior Researcher, CIRAD, France.</li>
-          <li><strong>Prof. Rob Hyndman</strong>, Professor of Statistics, Monash University, Australia.</li>
-          <li><strong>Prof. Mohammed Amin Mohammed</strong>, The Strategy Unit, UK.</li>
-          <li><strong>Add more</strong>, Coming soon.</li>
-
-
-
+        <div class="committee-grid">
+            <!-- Advisory Member 1 -->
+            <div class="member-card">
+                <img src="img/caucher.jpeg" alt="Prof. Caucher Birkar" class="member-avatar">
+                <div class="member-name">Prof. Caucher Birkar</div>
+                <div class="member-affiliation">Tsinghua University, China</div>
+                <ul class="member-links">
+                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/caucherbirkar" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Advisory Member 2 -->
+            <div class="member-card">
+                <img src="img/bahman.jpg" alt="Prof. Bahman Rostami-Tabar" class="member-avatar">
+                <div class="member-name">Prof. Bahman Rostami-Tabar</div>
+                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://www.cardiff.ac.uk/people/view/rostami-tabarb" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/bahmanrt" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Advisory Member 3 -->
+            <div class="member-card">
+                <img src="img/patrick.jpeg" alt="Prof. Patrick Caron" class="member-avatar">
+                <div class="member-name">Prof. Patrick Caron</div>
+                <div class="member-affiliation">Senior Researcher, CIRAD, France</div>
+                <ul class="member-links">
+                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/patrickcaron" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Advisory Member 4 -->
+            <div class="member-card">
+                <img src="img/rob.png" alt="Prof. Rob Hyndman" class="member-avatar">
+                <div class="member-name">Prof. Rob Hyndman</div>
+                <div class="member-affiliation">Professor of Statistics, Monash University, Australia</div>
+                <ul class="member-links">
+                    <li><a href="https://robjhyndman.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/robhyndman" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            
+            <!-- Advisory Member 5 -->
+            <div class="member-card">
+                <img src="https://via.placeholder.com/150" alt="" class="member-avatar">
+                <div class="member-name">Prof. Mohammed Amin Mohammed</div>
+                <div class="member-affiliation">The Strategy Unit, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/mohammedamin" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+            <!-- Advisory Member 6 -->
+            <div class="member-card">
+                <img src="img/laura.png" alt="" class="member-avatar">
+                <div class="member-name">Prof. Laura Albert</div>
+                <div class="member-affiliation">University of Wisconsin Madison, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/mohammedamin" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>                    
+                </ul>
+            </div>
+        </div>
     </div>
-
 </div>
 ```
 
