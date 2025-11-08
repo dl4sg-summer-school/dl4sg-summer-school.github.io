@@ -33,7 +33,7 @@
   color: #333;
   margin-bottom: 2.5rem;
   padding-bottom: 0.5rem;
-  border-bottom: 3px solid #d97706;
+  border-bottom: 3px solid #CA224B;
 }
 
 /* Facilitator Section */
@@ -60,7 +60,7 @@
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(217, 119, 6, 0.2);
   transition: transform 0.2s, box-shadow 0.2s;
-  border: 2px solid #d97706;
+  border: 2px solid #CA224B;
   max-width: 300px;
 }
 
@@ -75,7 +75,7 @@
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
-  border: 3px solid #d97706;
+  border: 3px solid #CA224B;
 }
 
 .facilitator-name {
@@ -106,7 +106,7 @@
 }
 
 .facilitator-social a:hover {
-  color: #d97706;
+  color: #CA224B;
 }
 
 .facilitator-social a:nth-child(1):hover {
@@ -118,7 +118,7 @@
 }
 
 .facilitator-social a:nth-child(3):hover {
-  color: #d97706; /* LinkedIn - orange */
+  color: #CA224B; /* LinkedIn - orange */
 }
 
 /* Panelists Section */

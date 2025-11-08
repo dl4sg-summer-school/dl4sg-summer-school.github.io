@@ -1,33 +1,48 @@
 ---
-format: html
-page-layout: full
-css: sponsors.css
+title: "Our Sponsors"
+format: 
+  html:
+    css: sponsors.css
 ---
 
-```{=html}
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<!-- Sponsors -->
-<section class="sponsors-section">
-  <h2>Sponsors</h2>
-  <div class="partners-list">
-    <a href="https://www.cardiff.ac.uk/business-school" target="_blank" rel="noopener">
-      <img src="img/carbs_logo1.jpg" alt="Cardiff Business School Logo">
-    </a>
-    <a href="https://www.cardiff.ac.uk/doctoral-academy" target="_blank" rel="noopener">
-      <img src="img/doctoral_academy.png" alt="Doctoral Academy Logo">
-    </a>
-    <a href="https://www.learnedsociety.wales" target="_blank" rel="noopener">
-      <img src="img/LSW-logo.jpg" alt="The Learned Society of Wales Logo">
-    </a>
-    <a href="https://wgsss.ac.uk" target="_blank" rel="noopener">
-      <img src="img/cardiff.svg" alt="WGSSS Logo">
-    </a>
-    <a href="https://ima.org.uk" target="_blank" rel="noopener">
-      <img src="img/ima.png" alt="IMA Small Grant Scheme Logo">
-    </a>
-    <a href="https://gw4.ac.uk" target="_blank" rel="noopener">
-      <img src="img/gw4.png" alt="GW4 Logo">
-    </a>
-  </div>
-</section>
-```
+We are grateful for the support of our sponsors:
+
+::: {.sponsors-grid}
+
+::: {.sponsor-item}
+[![](img/cardiff.svg){.sponsor-logo}](https://www.cardiff.ac.uk/)
+:::
+
+::: {.sponsor-item}
+[![](img/carbs_logo1.jpg){.sponsor-logo}](https://www.cardiff.ac.uk/business-school)
+:::
+
+::: {.sponsor-item}
+[![](img/doctoral_academy.png){.sponsor-logo}](https://www.cardiff.ac.uk/study/postgraduate/research/doctoral-academy)
+:::
+
+::: {.sponsor-item}
+[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor4.com)
+:::
+
+::: {.sponsor-item}
+[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor5.com)
+:::
+
+::: {.sponsor-item}
+[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor6.com)
+:::
+
+::: {.sponsor-item}
+[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor7.com)
+:::
+
+::: {.sponsor-item}
+[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor8.com)
+:::
+
+::: {.sponsor-item}
+[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor9.com)
+:::
+
+:::
