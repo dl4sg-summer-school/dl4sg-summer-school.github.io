@@ -1,5 +1,4 @@
 ---
-title: "Our Sponsors"
 format: 
   html:
     css: sponsors.css

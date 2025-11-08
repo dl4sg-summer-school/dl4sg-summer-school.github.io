@@ -2,36 +2,103 @@
 format: html
 page-layout: full 
 ---
-
 ```{=html}
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 <div class="page-container">
-
     <div class="content-card">
         <h2>Venue</h2>
-        <p>The summer school will be held at [Cardiff University](https://www.cardiff.ac.uk/visit/map#map), using its modern seminar rooms and collaborative spaces. Accommodation will be arranged in university residences, with catering provided for lunches and breaks.</p>
+        <p>The summer school will be held at <a href="https://www.cardiff.ac.uk/visit/map#map" target="_blank">Cardiff University</a>, using its modern seminar rooms and collaborative spaces. Accommodation will be arranged in university residences, with catering provided for lunches and breaks.</p>
+    </div>
+    
+    <div class="content-card">
+        <h2><i class="fas fa-hotel"></i> Accommodation</h2>
+        <p>There are numerous hotels in the city centre, all within walking distance of Cardiff University:</p>
+        
+        <ul>
+            <li><strong>Jurys Inn Cardiff</strong> - 1 Park Pl, Cardiff CF10 3UD | Tel: +44 161 774 2983 | <a href="https://www.jurysinns.com/hotels/Cardiff" target="_blank">Website</a></li>
+            <li><strong>Hilton Hotel Cardiff</strong> - Kingsway, Greyfriars Rd, Cardiff CF10 3HH | Tel: +44-2920-646-300 | <a href="http://www3.hilton.com/en/hotels/united-kingdom/hilton-Cardiff" target="_blank">Website</a></li>
+            <li><strong>Park Plaza Hotel Cardiff</strong> - Greyfriars Road, Cardiff CF10 3AL | Tel: +44 (0) 2920 111 111 | <a href="https://www.parkplazacardiff.com" target="_blank">Website</a></li>
+            <li><strong>Holiday Inn Cardiff City Centre</strong> - Castle Street, Cardiff CF10 1XD | Tel: 0800 80 80 0800 | <a href="https://www.ihg.com/holidayinn/hotels/us/en/cardiff/cdfcy/hoteldetail" target="_blank">Website</a></li>
+            <li><strong>Angel Hotel</strong> - Castle St, Cardiff CF10 1SZ | <a href="https://www.thecairncollection.co.uk/hotels/the-angel/" target="_blank">Website</a></li>
+            <li><strong>Parkgate Hotel</strong> - Westgate St, Cardiff CF10 1DA | Tel: 02922745595 | <a href="https://www.theparkgatehotel.wales/" target="_blank">Website</a></li>
+        </ul>
     </div>
     
     <div class="content-card">
         <h2>How to get to Cardiff</h2>
-        <p>Will be added soon.</p>
+        
+        <h3><i class="fas fa-plane"></i> By Air</h3>
+        
+        <h4>Heathrow / Gatwick Airports</h4>
+        <p>National Express (Tel: 08705 808080) coach company and various rail companies (Tel: 08457 484950) operate direct services to Cardiff Central Station from London's Heathrow and Gatwick airports.</p>
+        <p><strong>Useful links:</strong> <a href="https://www.traveline-cymru.org.uk" target="_blank">Rail service information</a> | <a href="https://www.nationalexpress.com" target="_blank">National Express</a></p>
+        
+        <h4>Bristol Airport</h4>
+        <p>Bristol airport is 50 miles (80 km) from Cardiff. Journey time is approximately 2 hours.</p>
+        
+        <p><strong>By Coach:</strong> The Greyhound UK coach service runs every 2 hours from Bristol Airport to Cardiff Bus Station. Single fare: £6. Tickets can be bought online at <a href="https://www.greyhounduk.com/" target="_blank">www.greyhounduk.com</a></p>
+        
+        <p><strong>By Train:</strong> Take the Bristol International Flyer from the airport to Bristol Temple Meads train station (£7). From Bristol Temple Meads, trains to Cardiff Central run every 30 minutes. One-way ticket: approximately £10.</p>
+        
+        <p><strong>Alternative:</strong> Take the Bristol International Flyer bus (runs every 10 minutes) to Bristol city center or Bristol Bus Station, then catch a National Express coach to Cardiff (runs every 2 hours, £10).</p>
+        
+        <h4>Cardiff International Airport</h4>
+        <p>The airport is 11 miles from the city centre. Visit <a href="https://www.cwlfly.com" target="_blank">www.cwlfly.com</a> for more information.</p>
+        
+        <h3><i class="fas fa-train"></i> By Rail</h3>
+        <p>High speed InterCity trains provide frequent services between all major British cities. The Cardiff-London InterCity service from London Paddington runs approximately seventeen times a day, with a journey time of less than two hours.</p>
+        
+        <p><strong>Frequent regional network trains connect Cardiff with:</strong></p>
+        <ul>
+            <li>Bristol (50 mins)</li>
+            <li>Birmingham (2 hrs 10 mins)</li>
+            <li>Southampton (2 hrs 30 mins)</li>
+            <li>Manchester (3 hrs)</li>
+            <li>Liverpool (3 hrs)</li>
+        </ul>
+        
+        <p><strong>Rail Enquiries:</strong> 0870 6082608 | <a href="https://www.nationalrail.co.uk" target="_blank">www.nationalrail.co.uk</a></p>
+        
+        <h3><i class="fas fa-car"></i> By Road</h3>
+        <p>Cardiff is served by the M4 and is easily accessible from all parts of Britain.</p>
+        
+        <p><strong>From the southwest:</strong> Take the M5<br>
+        <strong>From the south of England:</strong> Follow major A roads to the M4<br>
+        <strong>From Scotland, north of England, and the Midlands:</strong> Travel via the M50 to the M4</p>
+        
+        <p><strong>Travelling east on the M4:</strong> Leave at Junction 32, follow the A470 (signposted City Centre) into the Cathays area of the city.</p>
+        
+        <p><strong>Travelling west on the M4:</strong> Leave at Junction 29, follow the A48(M)/A48 (signposted Cardiff East and South) to the A470. Follow the A470 signposted City Centre.</p>
+        
+        <h4>Car Parking</h4>
+        <p>There are several short- and long-stay public car parks located in the city centre. Cardiff is a very compact city and can easily be explored on foot, with most attractions, shops, restaurants, hotels, and parklands all within a few minutes of each other. Cardiff Bay is 1 km from the city center and an easy walk. Alternatively, there is a cycle path along Lloyd George Avenue or a Bendy Bus which runs every 10 minutes.</p>
     </div>  
-
     
     <div class="content-card">
         <h2>Things to do in Cardiff</h2>
-        <p>Cardiff is our dynamic capital, seamlessly blending our rich Welsh heritage with modern city life. The city centre is fairly compact - so really easy get around, with good public transport to Cardiff Bay and the nearby countryside. Whether you’re interested in history, sports, nature, or just looking for a fun and relaxing day out, Cardiff has something to offer for everyone.</p>
-    </div>  
+        <p>Cardiff, the capital of Wales, is a vibrant, cosmopolitan city and one of the UK's top conference and event destinations. It blends historic landmarks with modern architecture and technology, offering a dynamic mix of culture and innovation. The lively city centre is just steps from tranquil parks and castle grounds, creating a unique backdrop for visitors.</p>
+        
+        <p>For full details, visit the official Cardiff visitor website: <a href="https://www.visitcardiff.com" target="_blank">www.visitcardiff.com</a></p>
+        
+        <h3>City Centre</h3>
+        <p>Many attractions are located in the city centre, making it easy to visit <strong>Cardiff Castle</strong>, the <strong>National Museum</strong>, and the <strong>Millennium Stadium</strong>. Everything from parks, luxury and budget hotels, shopping malls, Victorian arcades, and a variety of dining options are within a 5-minute walk.</p>
+        
+        <h3>Dining & Shopping</h3>
+        <p>In central Cardiff, the <strong>Brewery Quarter</strong> and <strong>Mill Lane</strong> offer international cuisine and local Welsh produce in both indoor and al fresco settings. Nearby, <strong>Queen Street</strong> and <strong>St. David's 2</strong> are packed with designer brands, major retailers, and independent boutiques. The city's arcades preserve Victorian and Edwardian charm, housing stylish stores and quirky cafés.</p>
+        
+        <h3>Cardiff Bay</h3>
+        <p>Just minutes from the city centre is <strong>Mermaid Quay</strong> in Cardiff Bay, a waterfront hub filled with restaurants, cafés, and activities on and around a 200-hectare freshwater lake. Visit the <strong>Senedd</strong> (Welsh Parliament) and the iconic <strong>Wales Millennium Centre</strong>, a premier performing arts venue.</p>
+    </div>
     
     <div class="content-card">
-        <h2>Local Attractions</h2>
-        <p>Will be added soon.</p>
-    </div>  
-
+        <h2><i class="fas fa-mountain"></i> Exploring the Beauty of Wales</h2>
+        <p>Beyond Cardiff, Wales offers breathtaking landscapes and unforgettable experiences. From stunning coastlines to majestic mountains, there's something for every nature lover and adventurer.</p>
+        
+        <p>Explore the rugged beauty of <strong>Snowdonia National Park</strong>, home to Wales' highest peak, Mount Snowdon, or discover the picturesque beaches and coastal paths of <strong>Pembrokeshire</strong>. The <strong>Brecon Beacons</strong> offer spectacular hiking trails, waterfalls, and dark sky reserves perfect for stargazing.</p>
+        
+        <p>Charming towns like <strong>Hay-on-Wye</strong>, famous for its bookshops and literary festival, and <strong>Tenby</strong>, with its colorful harbor and medieval walls, showcase Wales' unique character. Don't miss the historic castles dotting the landscape, including <strong>Caerphilly Castle</strong> and <strong>Conwy Castle</strong>, which tell stories of Wales' rich history.</p>
+        
+        <p>Whether you're seeking outdoor adventures, cultural experiences, or peaceful countryside retreats, Wales has it all within easy reach of Cardiff.</p>
+    </div>
 </div>
-
-
-
 ```
