@@ -1,241 +1,94 @@
-/* External stylesheets */
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
-@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css');
 
-.content-card h1 {
-  margin-bottom: 1rem;
-  font-size: 2.5rem;
-  color: #333;
-  text-align: center;
-}
 
-.section-intro {
-  text-align: center;
-  font-size: 1.1rem;
-  color: #666;
-  margin-bottom: 2.5rem;
-  line-height: 1.6;
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Team cards styles */
-.page-container {
+/* Speaker Section Styles */
+.speaker-container {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 40px 20px;
 }
 
-.content-card {
-  margin-bottom: 3rem;
-}
-
-.content-card h2 {
-  margin-bottom: 2rem;
-  font-size: 2rem;
-  color: #333;
-}
-
-/* 4 columns grid for committees and speakers */
-.committee-grid {
+.speaker-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 2rem;
-  margin-top: 2rem;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 30px;
 }
 
-.member-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.speaker-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 30px 20px;
   text-align: center;
-  padding: 1.5rem;
-  background: #fff;
-  border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s, box-shadow 0.2s;
+  transition: all 0.3s ease;
 }
 
-.member-card:hover {
+.speaker-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
-.member-avatar {
+.speaker-photo {
   width: 150px;
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 1rem;
+  margin: 0 auto 20px;
+  display: block;
   border: 3px solid #e0e0e0;
 }
 
-.member-name {
+.speaker-name {
   font-size: 1.2rem;
-  font-weight: 600;
+  font-weight: bold;
   color: #333;
-  margin-bottom: 0.3rem;
+  margin-bottom: 8px;
 }
 
-.member-role {
-  font-size: 0.9rem;
-  color: #0077b5;
-  font-weight: 500;
-  margin-bottom: 0.5rem;
-}
-
-.member-affiliation {
+.speaker-org {
   font-size: 0.95rem;
   color: #666;
-  margin-bottom: 1rem;
-  line-height: 1.4;
+  margin-bottom: 20px;
 }
 
-.member-links {
+.speaker-social {
   display: flex;
-  gap: 1rem;
-  margin-top: 0.5rem;
-  list-style: none !important;
-  padding: 0 !important;
-  margin-left: 0 !important;
+  justify-content: center;
+  gap: 15px;
 }
 
-.member-links li {
-  list-style: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-}
-
-.member-links li::before {
-  content: none !important;
-}
-
-.member-links a {
-  color: #666;
-  font-size: 1.5rem;
-  transition: color 0.2s;
+.speaker-social a {
+  color: #555;
+  font-size: 24px;
   text-decoration: none;
-  display: inline-block;
+  transition: color 0.3s;
 }
 
-.member-links a:hover {
+.speaker-social a:hover {
   color: #0077b5;
 }
 
-.member-links a.website:hover {
-  color: #4CAF50;
+.speaker-social a:nth-child(1):hover {
+  color: #4CAF50; /* Website - green */
 }
 
-/* Participants Grid - 4 columns */
-.participants-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1.5rem;
-  margin-top: 2rem;
+.speaker-social a:nth-child(2):hover {
+  color: #333; /* GitHub - dark */
 }
 
-.participant-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: 1.2rem;
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s, box-shadow 0.2s;
+.speaker-social a:nth-child(3):hover {
+  color: #0077b5; /* LinkedIn - blue */
 }
 
-.participant-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
-}
-
-.participant-avatar {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 0.8rem;
-  border: 3px solid #e0e0e0;
-}
-
-.participant-name {
-  font-size: 1rem;
-  font-weight: 600;
-  color: #333;
-  margin-bottom: 0.3rem;
-}
-
-.participant-affiliation {
-  font-size: 0.85rem;
-  color: #666;
-  margin-bottom: 0.8rem;
-  line-height: 1.3;
-}
-
-.participant-links {
-  display: flex;
-  gap: 0.8rem;
-  list-style: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
-.participant-links li {
-  list-style: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-}
-
-.participant-links li::before {
-  content: none !important;
-}
-
-.participant-links a {
-  color: #666;
-  font-size: 1.3rem;
-  transition: color 0.2s;
-  text-decoration: none;
-  display: inline-block;
-}
-
-.participant-links a:hover {
-  color: #0077b5;
-}
-
-.participant-links a.github:hover {
-  color: #333;
-}
-
-.participant-links a.website:hover {
-  color: #4CAF50;
-}
-
-/* Responsive design */
+/* Responsive */
 @media (max-width: 1200px) {
-  .committee-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  
-  .participants-grid {
-    grid-template-columns: repeat(3, 1fr);
+  .speaker-grid {
+    grid-template-columns: 1fr 1fr;
   }
 }
 
-@media (max-width: 768px) {
-  .committee-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .participants-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 480px) {
-  .participants-grid {
+@media (max-width: 600px) {
+  .speaker-grid {
     grid-template-columns: 1fr;
   }
 }
