@@ -1,21 +1,517 @@
 ---
-pagetitle: "Participants"
+format: html
+page-layout: full
+css: participants-cards.css
 
-listing:
-  - id: speakers
-    template: speakers.ejs
-    contents: speakers.yml
 ---
 
-:::::: grid
-::: {#sponsors_banner .g-col-12 .title}
-# Participants
-:::
+<!-- pagetitle: "Participants" -->
 
-::: {#speakers .g-col-12}
-:::
+<!-- listing: -->
+<!--   - id: speakers -->
+<!--     template: speakers.ejs -->
+<!--     contents: speakers.yml -->
+<!-- :::::: grid -->
+<!-- ::: {#sponsors_banner .g-col-12 .title} -->
+<!-- # Participants -->
+<!-- ::: -->
 
-<div>
+<!-- ::: {#speakers .g-col-12} -->
+<!-- ::: -->
 
+<!-- <div> -->
+
+<!-- </div> -->
+<!-- :::::: -->
+
+```{=html}
+<div class="page-container">
+    <!-- Participants Section -->
+    <div class="content-card">
+        <h2>Participants</h2>
+        <div class="participants-grid">
+            
+            <!-- Participant 1 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 2 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 3 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 4 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 5 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 6 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 7 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 8 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 9 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 10 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 11 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 12 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 13 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 14 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 15 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 16 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 17 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 18 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 19 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 20 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 21 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 22 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 23 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 24 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 25 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 26 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 27 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 28 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 29 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 30 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 31 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 32 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 33 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 34 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 35 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 36 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 37 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 38 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 39 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+            <!-- Participant 40 -->
+            <div class="participant-card">
+                <img src="https://via.placeholder.com/120" alt="Full Name" class="participant-avatar">
+                <div class="participant-name">Full Name</div>
+                <div class="participant-affiliation">University</div>
+                <ul class="participant-links">
+                    <li><a href="#" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="#" target="_blank" class="github" title="GitHub"><i class="bi bi-github"></i></a></li>
+                    <li><a href="#" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
 </div>
-::::::
+```
