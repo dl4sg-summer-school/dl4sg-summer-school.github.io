@@ -1,0 +1,63 @@
+/* Sponsors section styling */
+.sponsors-section {
+  background-color: #f7f8fa;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.sponsors-section h2 {
+  font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 40px;
+  color: #2d3748;
+  border-bottom: 2px solid #e2e8f0;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+/* Three columns per row, but wider grid and smaller gaps */
+.partners-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  column-gap: 40px;   /* was 80px */
+  row-gap: 40px;      /* was 60px */
+  justify-items: center;
+  align-items: center;
+  max-width: 800px;  /* was 1100px, or you can remove this line */
+  margin: 0 auto;
+}
+
+/* Logo styling */
+.partners-list a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.partners-list img {
+  width: 1000%;        /* was 80% */
+  max-width: 2600px;   /* allow logos to grow a bit more */
+  height: auto;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  filter: grayscale(20%);
+}
+
+/* Hover effect */
+.partners-list a:hover img {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  filter: grayscale(0%);
+}
+
+/* Responsive layout */
+@media (max-width: 900px) {
+  .partners-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .partners-list {
+    grid-template-columns: 1fr;
+  }
+}

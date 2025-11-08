@@ -18,6 +18,8 @@ website:
             href: committes/index.qmd
           - text: Travel
             href: travel/index.qmd
+          - text: Sponsers
+            href: org_and_sponsors/index.qmd
       - text: Apply
         href: index.html#apply
       - text: Registration
