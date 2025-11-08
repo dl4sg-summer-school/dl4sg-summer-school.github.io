@@ -1,0 +1,162 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css');
+
+/* Workshops Container */
+.workshops-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Individual Workshop Section */
+.workshop-section {
+  margin-bottom: 4rem;
+  padding-bottom: 3rem;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.workshop-section:last-child {
+  border-bottom: none;
+}
+
+/* Workshop Title */
+.workshop-title {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid #0077b5;
+}
+
+/* Instructors Heading */
+.instructors-heading {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+/* Instructors Grid - Flexible for multiple instructors */
+.instructors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Instructor Card */
+.instructor-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.instructor-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+/* Instructor Photo */
+.instructor-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid #e0e0e0;
+}
+
+/* Instructor Name */
+.instructor-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.3rem;
+}
+
+/* Instructor Organization */
+.instructor-org {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+/* Social Media Icons */
+.instructor-social {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.instructor-social a {
+  color: #666;
+  font-size: 1.5rem;
+  transition: color 0.2s;
+  text-decoration: none;
+}
+
+.instructor-social a:hover {
+  color: #0077b5;
+}
+
+.instructor-social a:nth-child(1):hover {
+  color: #4CAF50; /* Website - green */
+}
+
+.instructor-social a:nth-child(2):hover {
+  color: #333; /* GitHub - dark */
+}
+
+.instructor-social a:nth-child(3):hover {
+  color: #0077b5; /* LinkedIn - blue */
+}
+
+/* Workshop Details Section */
+.workshop-details {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+
+.workshop-details h3 {
+  font-size: 1.3rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.workshop-details ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.workshop-details li {
+  padding-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  position: relative;
+  line-height: 1.6;
+}
+
+.workshop-details li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #0077b5;
+  font-weight: bold;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .workshop-title {
+    font-size: 1.5rem;
+  }
+  
+  .instructors-grid {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,21 +1,164 @@
 ---
 format: html
-page-layout: full 
+page-layout: full
+css: panels.css
 ---
 
 ```{=html}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<div class="page-container">
-
-    <div class="content-card">
-        <h2>Panels</h2>
-
-        <p>Will be added soon</p>
+<div class="panels-container">
+  
+  <h1 class="page-title">Panel Sessions</h1>
+  
+  <!-- Panel Session 1 -->
+  <div class="panel-section">
+    <h2 class="panel-title">Panel 1: Uncertainty in Public Policy</h2>
+    
+<div class="panel-summary">
+      <p>This panel brings together leading experts to discuss the critical role of uncertainty in public policy decision-making. Panelists will explore how governments and policymakers can better incorporate probabilistic thinking, risk assessment, and scenario planning into policy design. Topics include communicating uncertainty to the public, navigating political constraints when dealing with uncertain information, and case studies from healthcare, climate policy, and economic forecasting.</p>
     </div>
+    
+    <h3 class="facilitator-heading">Facilitator</h3>
+    <div class="facilitator-container">
+      <div class="facilitator-card">
+        <img src="img/facilitator1.jpg" alt="Facilitator Name" class="facilitator-photo">
+        <div class="facilitator-name">Full Name</div>
+        <div class="facilitator-org">University</div>
+        <div class="facilitator-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div>
+    
+    <h3 class="panelists-heading">Panelists</h3>
+    <div class="panelists-grid">
+      <!-- Panelist 1 -->
+      <div class="panelist-card">
+        <img src="img/panelist1.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <!-- Panelist 2 -->
+      <div class="panelist-card">
+        <img src="img/panelist2.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <!-- Panelist 3 -->
+      <div class="panelist-card">
+        <img src="img/panelist3.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <!-- Panelist 4 -->
+      <div class="panelist-card">
+        <img src="img/panelist4.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Panel Session 2 -->
+  <div class="panel-section">
+    <h2 class="panel-title">Panel 2: AI and Uncertainty Quantification</h2>
+
+<div class="panel-summary">
+      <p>As artificial intelligence systems become increasingly prevalent in high-stakes decision-making, understanding and quantifying their uncertainty is crucial. This panel examines the challenges and opportunities in building AI systems that can express confidence levels, handle ambiguous inputs, and provide reliable uncertainty estimates. Experts will discuss techniques from Bayesian deep learning, conformal prediction, ensemble methods, and explainable AI, along with practical applications in autonomous systems, medical diagnosis, and financial modeling.</p>
+    </div>
+    
+    <h3 class="facilitator-heading">Facilitator</h3>
+    <div class="facilitator-container">
+      <div class="facilitator-card">
+        <img src="img/facilitator2.jpg" alt="Facilitator Name" class="facilitator-photo">
+        <div class="facilitator-name">Full Name</div>
+        <div class="facilitator-org">University</div>
+        <div class="facilitator-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div>
+    
+    <h3 class="panelists-heading">Panelists</h3>
+    <div class="panelists-grid">
+      <!-- Panelist 1 -->
+      <div class="panelist-card">
+        <img src="img/panelist5.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <!-- Panelist 2 -->
+      <div class="panelist-card">
+        <img src="img/panelist6.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <!-- Panelist 3 -->
+      <div class="panelist-card">
+        <img src="img/panelist7.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <!-- Panelist 4 -->
+      <div class="panelist-card">
+        <img src="img/panelist8.jpg" alt="Panelist Name" class="panelist-photo">
+        <div class="panelist-name">Full Name</div>
+        <div class="panelist-org">University</div>
+        <div class="panelist-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
-
-
-
 ```
+

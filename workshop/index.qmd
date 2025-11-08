@@ -1,21 +1,173 @@
 ---
 format: html
-page-layout: full 
+page-layout: full
+css: workshop.css
 ---
 
 ```{=html}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<div class="workshops-container">
+  
+  <!-- Workshop 1 -->
+  <div class="workshop-section">
+    <h2 class="workshop-title">Workshop 1: Uncertainty and Decision Quality</h2>
+    
+    <h3 class="instructors-heading">Instructor(s)</h3>
+    <div class="instructors-grid">
+      <div class="instructor-card">
+        <img src="img/instructor1.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
 
-<div class="page-container">
-
-    <div class="content-card">
-        <h2>Workshops</h2>
-
-        <p>Will be added soon</p>
+      <div class="instructor-card">
+        <img src="img/instructor1.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      <!-- Add more instructors if needed -->
     </div>
+    
+    <div class="workshop-details">
+      <h3>Learning Outcomes</h3>
+      <ul>
+        <li>Understand the role of uncertainty in decision-making processes</li>
+        <li>Learn frameworks for assessing decision quality under uncertainty</li>
+        <li>Apply probabilistic thinking to real-world scenarios</li>
+        <li>Develop strategies for making robust decisions despite uncertainty</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Workshop 2 -->
+  <div class="workshop-section">
+    <h2 class="workshop-title">Workshop 2: Communicating and Visualising Future Uncertainty</h2>
+    
+    <h3 class="instructors-heading">Instructor(s)</h3>
+    <div class="instructors-grid">
+      <div class="instructor-card">
+        <img src="img/instructor2.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <div class="instructor-card">
+        <img src="img/instructor2b.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="workshop-details">
+      <h3>Learning Outcomes</h3>
+      <ul>
+        <li>Master effective techniques for visualising uncertainty in data</li>
+        <li>Learn best practices for communicating probabilistic information to diverse audiences</li>
+        <li>Create clear and intuitive uncertainty visualisations</li>
+        <li>Avoid common pitfalls in uncertainty communication</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Workshop 3 -->
+  <div class="workshop-section">
+    <h2 class="workshop-title">Workshop 3: Quantifying Uncertainty</h2>
+    
+    <h3 class="instructors-heading">Instructor(s)</h3>
+    <div class="instructors-grid">
+      <div class="instructor-card">
+        <img src="img/instructor3.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      <div class="instructor-card">
+        <img src="img/instructor3.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="workshop-details">
+      <h3>Learning Outcomes</h3>
+      <ul>
+        <li>Understand statistical and probabilistic methods for quantifying uncertainty</li>
+        <li>Learn to estimate and propagate uncertainty through models</li>
+        <li>Apply Bayesian and frequentist approaches to uncertainty quantification</li>
+        <li>Interpret confidence intervals and prediction intervals correctly</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Workshop 4 -->
+  <div class="workshop-section">
+    <h2 class="workshop-title">Workshop 4: Future Methodologies</h2>
+    
+    <h3 class="instructors-heading">Instructor(s)</h3>
+    <div class="instructors-grid">
+      <div class="instructor-card">
+        <img src="img/instructor4.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+      
+      <div class="instructor-card">
+        <img src="img/instructor4b.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Full Name</div>
+        <div class="instructor-org">University</div>
+        <div class="instructor-social">
+          <a href="#"><i class="bi bi-globe"></i></a>
+          <a href="#"><i class="bi bi-github"></i></a>
+          <a href="#"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="workshop-details">
+      <h3>Learning Outcomes</h3>
+      <ul>
+        <li>Explore cutting-edge methodologies for forecasting and scenario planning</li>
+        <li>Learn emerging techniques in uncertainty analysis and risk assessment</li>
+        <li>Understand applications of machine learning to uncertainty quantification</li>
+        <li>Develop skills in participatory and collaborative futures thinking</li>
+      </ul>
+    </div>
+  </div>
+
 </div>
-
-
-
 ```
