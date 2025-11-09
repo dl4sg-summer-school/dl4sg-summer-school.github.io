@@ -8,7 +8,7 @@ format:
 
 <div class="section-header">
 <br>
-            <p>We are grateful for the support of our sponsors:</p>
+            <h3>We are grateful for the support of our sponsors:</h3>
         </div>
         
 ```
