@@ -94,14 +94,14 @@ css: committe-cards.css
             
             <!-- Advisory Member 2 -->
             <div class="member-card">
-                <img src="img/bahman.jpg" alt="Prof. Bahman Rostami-Tabar" class="member-avatar">
-                <div class="member-name">Prof. Bahman Rostami-Tabar</div>
-                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <img src="img/laura.png" alt="" class="member-avatar">
+                <div class="member-name">Prof. Laura Albert</div>
+                <div class="member-affiliation">University of Wisconsin Madison, UK</div>
                 <ul class="member-links">
-                    <li><a href="https://www.cardiff.ac.uk/people/view/rostami-tabarb" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="https://linkedin.com/in/bahmanrt" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                    <li><a href="https://engineering.wisc.edu/directory/profile/laura-albert/" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/lauraalbertphd/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
-            </div>
+            </div>     
             
             <!-- Advisory Member 3 -->
             <div class="member-card">
@@ -135,16 +135,18 @@ css: committe-cards.css
                     <li><a href="https://linkedin.com/in/mohammedamin" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>
+
             <!-- Advisory Member 6 -->
             <div class="member-card">
-                <img src="img/laura.png" alt="" class="member-avatar">
-                <div class="member-name">Prof. Laura Albert</div>
-                <div class="member-affiliation">University of Wisconsin Madison, UK</div>
+                <img src="img/bahman.jpg" alt="Prof. Bahman Rostami-Tabar" class="member-avatar">
+                <div class="member-name">Prof. Bahman Rostami-Tabar</div>
+                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
                 <ul class="member-links">
-                    <li><a href="https://engineering.wisc.edu/directory/profile/laura-albert/" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/lauraalbertphd/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                    <li><a href="https://www.cardiff.ac.uk/people/view/rostami-tabarb" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://linkedin.com/in/bahmanrt" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
-            </div>                    
+            </div>
+            
             <!-- Advisory Member 7 -->
             <div class="member-card">
                 <img src="img/laura.png" alt="" class="member-avatar">
