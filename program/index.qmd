@@ -15,11 +15,6 @@ execute:
 
 
 ```{r}
-#| include: false
-library(readr)
-library(dplyr)
-library(knitr)
-
 emoji_map <- c(
   "Opening" = "🎓 Opening",
   "Keynote" = "🎤 Keynote",
@@ -36,8 +31,8 @@ emoji_map <- c(
 )
 
 load_day <- function(path) {
-  read_csv(path, show_col_types = FALSE) %>%
-    mutate(Type = emoji_map[Type])
+  readr::read_csv(path, show_col_types = FALSE) |> 
+    dplyr::mutate(Type = emoji_map[Type])
 }
 ```
 
@@ -50,7 +45,7 @@ load_day <- function(path) {
 
 ```{r}
 day1 <- load_day("data/day1.csv")
-kable(day1)
+knitr::kable(day1)
 ```
 
 :::
@@ -65,7 +60,7 @@ kable(day1)
 
 ```{r}
 day2 <- load_day("data/day2.csv")
-kable(day2)
+knitr::kable(day2)
 ```
 
 :::
@@ -80,7 +75,7 @@ kable(day2)
 
 ```{r}
 day3 <- load_day("data/day3.csv")
-kable(day3)
+knitr::kable(day3)
 ```
 
 :::
@@ -95,7 +90,7 @@ kable(day3)
 
 ```{r}
 day4 <- load_day("data/day4.csv")
-kable(day4)
+knitr::kable(day4)
 ```
 
 :::
@@ -110,7 +105,7 @@ kable(day4)
 
 ```{r}
 day5 <- load_day("data/day5.csv")
-kable(day5)
+knitr::kable(day5)
 ```
 
 :::
@@ -125,7 +120,7 @@ kable(day5)
 
 ```{r}
 day6 <- load_day("data/day6.csv")
-kable(day6)
+knitr::kable(day6)
 ```
 
 :::
