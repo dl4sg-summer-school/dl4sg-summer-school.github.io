@@ -1,54 +1,132 @@
 ---
-format: html
-page-layout: full 
+title: "Summer School Schedule"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: schedule.css
+page-layout: full
+execute:
+  echo: false
+  warning: false
+  message: false
 ---
 
-```{=html}
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+```{r}
+#| include: false
+library(readr)
+library(dplyr)
+library(knitr)
 
-<div class="page-container">
-    
-    <!-- Full Programme Table -->
-        <div class="content-card">
-            <h2>Full Programme Table</h2>
-            <p> Full program will be released on 01 April 2026. </p>
-            <table class="key-dates-table">
-                <tbody>
-                    <tr>
-                        <td class="date">05 July 2026</td>
-                        <td class="event">Welcome reception</td>
-                    </tr>
-                    <tr>
-                        <td class="date">06 July 2026</td>
-                        <td class="event">PROGRAM</td>
-                    </tr>
-                    <tr>
-                        <td class="date">07 July 2026</td>
-                        <td class="event">PROGRAM</td>
-                    </tr>
-                    <tr>
-                        <td class="date">08 July 2026</td>
-                        <td class="event">PROGRAM</td>
-                    </tr>
-                    <tr>
-                        <td class="date">09 July 2026</td>
-                        <td class="event">PROGRAM</td>
-                    </tr>
-                    <tr>
-                        <td class="date">10 July 2026</td>
-                        <td class="event">PROGRAM</td>
-                    </tr>
-                    <tr>
-                        <td class="date">11 July 2026</td>
-                        <td class="event">Site visit</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+emoji_map <- c(
+  "Opening" = "🎓 Opening",
+  "Keynote" = "🎤 Keynote",
+  "Break" = "☕ Break",
+  "Lunch" = "🍽️ Lunch",
+  "Talk" = "🗣️ Talk",
+  "Workshop" = "🧪 Workshop",
+  "Panel" = "🗳️ Panel",
+  "Discussion" = "💬 Discussion",
+  "Social" = "🎉 Social",
+  "Visit" = "🌄 Visit",
+  "Transport" = "🚌 Transport",
+  "Activity" = "🌊 Activity"
+)
 
-</div>
-
-
-
+load_day <- function(path) {
+  read_csv(path, show_col_types = FALSE) %>%
+    mutate(Type = emoji_map[Type])
+}
 ```
+
+---
+
+## Day 1 — Monday, 6 July 2026
+
+::: {.accordion}
+::: {.accordion-body}
+
+```{r}
+day1 <- load_day("data/day1.csv")
+kable(day1)
+```
+
+:::
+:::
+
+---
+
+## Day 2 — Tuesday, 7 July 2026
+
+::: {.accordion}
+::: {.accordion-body}
+
+```{r}
+day2 <- load_day("data/day2.csv")
+kable(day2)
+```
+
+:::
+:::
+
+---
+
+## Day 3 — Wednesday, 8 July 2026
+
+::: {.accordion}
+::: {.accordion-body}
+
+```{r}
+day3 <- load_day("data/day3.csv")
+kable(day3)
+```
+
+:::
+:::
+
+---
+
+## Day 4 — Thursday, 9 July 2026
+
+::: {.accordion}
+::: {.accordion-body}
+
+```{r}
+day4 <- load_day("data/day4.csv")
+kable(day4)
+```
+
+:::
+:::
+
+---
+
+## Day 5 — Friday, 10 July 2026
+
+::: {.accordion}
+::: {.accordion-body}
+
+```{r}
+day5 <- load_day("data/day5.csv")
+kable(day5)
+```
+
+:::
+:::
+
+---
+
+## Site visit — Saturday, 11 July 2026
+
+::: {.accordion}
+::: {.accordion-body}
+
+```{r}
+day6 <- load_day("data/day6.csv")
+kable(day6)
+```
+
+:::
+:::

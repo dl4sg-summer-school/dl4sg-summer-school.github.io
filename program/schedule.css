@@ -1,0 +1,74 @@
+/* Make content wider */
+.page-content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Make tables use full width */
+table {
+  width: 100% !important;
+}
+
+
+th, td {
+  padding: 12px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+/* More generous column spacing */
+th:nth-child(1), td:nth-child(1) { width: 14%; }   /* Time */
+th:nth-child(2), td:nth-child(2) { width: 33%; }   /* Session */
+th:nth-child(3), td:nth-child(3) { width: 15%; }   /* Type */
+th:nth-child(4), td:nth-child(4) { width: 23%; }   /* Speaker */
+th:nth-child(5), td:nth-child(5) { width: 15%; }   /* Links */
+
+/* Table styling */
+.table-scroll {
+  overflow-x: auto;
+  margin-bottom: 2rem;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+th {
+  background-color: #003366;
+  color: white;
+  padding: 12px;
+  text-align: left;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) td {
+  background-color: #f7f9fc;
+}
+
+tr:hover td {
+  background-color: #eef3fa;
+}
+
+/* Accordion styling */
+details.accordion > summary {
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding: 0.6rem;
+  cursor: pointer;
+  background: #e8eef7;
+  border-radius: 6px;
+}
+
+details.accordion[open] > summary {
+  background: #d8e4f2;
+}
+
+.accordion-body {
+  padding-top: 0.7rem;
+  padding-bottom: 1.2rem;
+}

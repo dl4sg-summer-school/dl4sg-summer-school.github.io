@@ -9,9 +9,9 @@
   {
     "objectID": "program/index.html",
     "href": "program/index.html",
-    "title": "",
+    "title": "Summer School Schedule",
     "section": "",
-    "text": "Full Programme Table\n             Full program will be released on 01 April 2026. \n            \n\n\n\n05 July 2026\nWelcome reception\n\n\n06 July 2026\nPROGRAM\n\n\n07 July 2026\nPROGRAM\n\n\n08 July 2026\nPROGRAM\n\n\n09 July 2026\nPROGRAM\n\n\n10 July 2026\nPROGRAM\n\n\n11 July 2026\nSite visit"
+    "text": "library(readr)\nlibrary(dplyr)\nlibrary(knitr)\n\nemoji_map &lt;- c(\n  \"Opening\" = \"🎓 Opening\",\n  \"Keynote\" = \"🎤 Keynote\",\n  \"Break\" = \"☕ Break\",\n  \"Lunch\" = \"🍽️ Lunch\",\n  \"Talk\" = \"🗣️ Talk\",\n  \"Workshop\" = \"🧪 Workshop\",\n  \"Panel\" = \"🗳️ Panel\",\n  \"Discussion\" = \"💬 Discussion\",\n  \"Social\" = \"🎉 Social\",\n  \"Visit\" = \"🌄 Visit\",\n  \"Transport\" = \"🚌 Transport\",\n  \"Activity\" = \"🌊 Activity\"\n)\n\nload_day &lt;- function(path) {\n  read_csv(path, show_col_types = FALSE) %&gt;%\n    mutate(Type = emoji_map[Type])\n}"
   },
   {
     "objectID": "index.html",
@@ -81,7 +81,7 @@
     "href": "committes/index.html",
     "title": "",
     "section": "",
-    "text": "Leadership\n        \n            \n            \n                \n                Prof. Bahman Rostami-Tabar\n                Director and Academic Chair\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Harsha Halgamuwe Hewage\n                Programme Manager\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n        \n    \n\n    \n    \n        Organising Committee\n        \n            \n            \n                \n                Prof. Peter Madden\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Dr. Thanos Goltsos\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Mrs. Beverly Francis\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n        \n    \n\n    \n    \n        Advisory Board\n        \n            \n            \n                \n                Prof. Caucher Birkar\n                Tsinghua University, China\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Bahman Rostami-Tabar\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Patrick Caron\n                Senior Researcher, CIRAD, France\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Rob Hyndman\n                Professor of Statistics, Monash University, Australia\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Mohammed Amin Mohammed\n                The Strategy Unit, UK\n                \n                    \n                    \n                \n            \n            \n            \n                \n                Prof. Laura Albert\n                University of Wisconsin Madison, UK"
+    "text": "Leadership\n        \n            \n            \n                \n                Prof. Bahman Rostami-Tabar\n                 Founding Director and Academic Chair\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Harsha Halgamuwe Hewage\n                Programme Manager\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n        \n    \n\n    \n    \n        Organising Committee\n        \n            \n            \n                \n                Prof. Peter Madden\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n\n            \n            \n            \n                \n                Mrs. Beverly Francis\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n\n                \n            \n            \n            \n            \n                \n                Dr. Thanos Goltsos\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n\n        \n    \n\n    \n    \n        Advisory Board\n        \n            \n            \n                \n                Prof. Caucher Birkar\n                Tsinghua University, China\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Laura Albert\n                University of Wisconsin Madison, UK\n                \n                    \n                    \n                \n                 \n            \n            \n            \n                \n                Prof. Patrick Caron\n                Senior Researcher, CIRAD, France\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Pierre Pinson\n                Professor of Data-centric Design Engineering,  Imperial College London, UK\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Mohammed Amin Mohammed\n                The Strategy Unit, UK\n                \n                    \n                    \n                \n            \n\n            \n            \n                \n                Prof. Bahman Rostami-Tabar\n                Cardiff Business School, Cardiff University, UK\n                \n                    \n                    \n                \n            \n            \n            \n            \n                \n                Prof. Laura Albert\n                University of Wisconsin Madison, UK\n                \n                    \n                    \n                \n              \n            \n            \n                \n                Prof. Laura Albert\n                University of Wisconsin Madison, UK\n                \n                    \n                    \n                \n              \n            \n            \n                \n                Prof. Laura Albert\n                University of Wisconsin Madison, UK"
   },
   {
     "objectID": "org_and_sponsors/index.html",
@@ -89,5 +89,103 @@
     "title": "",
     "section": "",
     "text": "We are grateful for the support of our sponsors:"
+  },
+  {
+    "objectID": "program/index.html#day-1-monday-6-july-2026",
+    "href": "program/index.html#day-1-monday-6-july-2026",
+    "title": "Summer School Schedule",
+    "section": "Day 1 — Monday, 6 July 2026",
+    "text": "Day 1 — Monday, 6 July 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker\nLinks\n\n\n\n\n09:00–09:15\nWelcome Remarks\n🎓 Opening\nChair\nBio\n\n\n09:15–10:30\nKeynote 1\n🎤 Keynote\nDr. L. Walker\nAbstract\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\nNA\n—\n\n\n11:00–11:25\nPresentation 1\n🗣️ Talk\nSpeaker\nAbstract\n\n\n11:25–11:50\nPresentation 2\n🗣️ Talk\nSpeaker\nAbstract\n\n\n11:50–12:15\nPresentation 3\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:15–12:30\nPresentation 4\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Lunch\nNA\n—\n\n\n13:30–14:45\nWorkshop 1 – Session 1\n🧪 Workshop\nDr. S. Noor\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\nNA\n—\n\n\n15:15–16:30\nWorkshop 1 – Session 2\n🧪 Workshop\nDr. S. Noor\nDescription\n\n\n16:30–16:55\nPresentation 5\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:55–17:00\nDay Closing\n🎓 Opening\nChair\n—"
+  },
+  {
+    "objectID": "program/index.html#day-2-tuesday-7-july-2026",
+    "href": "program/index.html#day-2-tuesday-7-july-2026",
+    "title": "Summer School Schedule",
+    "section": "Day 2 — Tuesday, 7 July 2026",
+    "text": "Day 2 — Tuesday, 7 July 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker\nLinks\n\n\n\n\n09:00–10:15\nKeynote 2\n🎤 Keynote\nProf. E. Duarte\nAbstract\n\n\n10:15–10:30\nPresentation 6\n🗣️ Talk\nSpeaker\nAbstract\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\nNA\n—\n\n\n11:00–12:15\nWorkshop 2 – Session 1\n🧪 Workshop\nDr. C. Laurent\nDescription\n\n\n12:15–12:30\nPresentation 7\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Lunch\nNA\n—\n\n\n13:30–14:45\nWorkshop 2 – Session 2\n🧪 Workshop\nDr. C. Laurent\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\nNA\n—\n\n\n15:15–16:30\nPanel 1\n🗳️ Panel\nModerator + Panelists\nBios\n\n\n16:30–16:50\nPresentation 8\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:50–17:00\nPresentation 9\n🗣️ Talk\nSpeaker\nAbstract"
+  },
+  {
+    "objectID": "program/index.html#day-3-wednesday-8-july-2026",
+    "href": "program/index.html#day-3-wednesday-8-july-2026",
+    "title": "Summer School Schedule",
+    "section": "Day 3 — Wednesday, 8 July 2026",
+    "text": "Day 3 — Wednesday, 8 July 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker\nLinks\n\n\n\n\n09:00–10:15\nKeynote 3\n🎤 Keynote\nProf. G. Arendt\nAbstract\n\n\n10:15–10:30\nPresentation 10\n🗣️ Talk\nSpeaker\nAbstract\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\nNA\n—\n\n\n11:00–12:15\nWorkshop 3 – Session 1\n🧪 Workshop\nDr. J. Singh\nDescription\n\n\n12:15–12:30\nPresentation 11\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Lunch\nNA\n—\n\n\n13:30–14:45\nWorkshop 3 – Session 2\n🧪 Workshop\nDr. J. Singh\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\nNA\n—\n\n\n15:15–16:30\nPanel 2\n🗳️ Panel\nModerator + Panelists\nBios\n\n\n16:30–16:45\nPresentation 12\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:45–17:00\nPresentation 13\n🗣️ Talk\nSpeaker\nAbstract"
+  },
+  {
+    "objectID": "program/index.html#day-4-thursday-9-july-2026",
+    "href": "program/index.html#day-4-thursday-9-july-2026",
+    "title": "Summer School Schedule",
+    "section": "Day 4 — Thursday, 9 July 2026",
+    "text": "Day 4 — Thursday, 9 July 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker\nLinks\n\n\n\n\n09:00–09:25\nPresentation 14\n🗣️ Talk\nSpeaker\nAbstract\n\n\n09:25–09:50\nPresentation 15\n🗣️ Talk\nSpeaker\nAbstract\n\n\n09:50–10:15\nPresentation 16\n🗣️ Talk\nSpeaker\nAbstract\n\n\n10:15–10:30\nTransition\n☕ Break\nNA\n—\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\nNA\n—\n\n\n11:00–12:15\nWorkshop 4 – Session 1\n🧪 Workshop\nDr. F. Zhou\nDescription\n\n\n12:15–12:30\nPresentation 17\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Lunch\nNA\n—\n\n\n13:30–14:45\nWorkshop 4 – Session 2\n🧪 Workshop\nDr. F. Zhou\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\nNA\n—\n\n\n15:15–15:40\nPresentation 18\n🗣️ Talk\nSpeaker\nAbstract\n\n\n15:40–16:05\nPresentation 19\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:05–17:00\nOpen Discussion Session\n💬 Discussion\nCommittee\n—"
+  },
+  {
+    "objectID": "program/index.html#day-5-friday-10-july-2026",
+    "href": "program/index.html#day-5-friday-10-july-2026",
+    "title": "Summer School Schedule",
+    "section": "Day 5 — Friday, 10 July 2026",
+    "text": "Day 5 — Friday, 10 July 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker\nLinks\n\n\n\n\n09:00–10:15\nWorkshop 5 – Session 1\n🧪 Workshop\nDr. M. Ortega\nDescription\n\n\n10:15–10:30\nTransition\n☕ Break\nNA\n—\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\nNA\n—\n\n\n11:00–12:15\nWorkshop 5 – Session 2\n🧪 Workshop\nDr. M. Ortega\nDescription\n\n\n12:15–12:30\nReflection Discussion\n💬 Discussion\nFacilitator Team\n—\n\n\n12:30–13:30\nLunch\n🍽️ Lunch\nNA\n—\n\n\n13:30–15:00\nNetworking & Posters\n🎉 Social\nCommittee\n—\n\n\n15:00–15:30\nRefreshment Break\n☕ Break\nNA\n—\n\n\n15:30–17:00\nClosing Ceremony\n🎓 Opening\nChair\nBios"
+  },
+  {
+    "objectID": "program/index.html#day-6-saturday-11-july-2026-wales-visit",
+    "href": "program/index.html#day-6-saturday-11-july-2026-wales-visit",
+    "title": "Summer School Schedule",
+    "section": "Day 6 — Saturday, 11 July 2026 🌄 Wales Visit",
+    "text": "Day 6 — Saturday, 11 July 2026 🌄 Wales Visit\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker/Facilitator\nLinks\n\n\n\n\n09:00–10:00\nDeparture from Campus\n🚌 Transport\nTrip Coordinator\nInfo\n\n\n10:00–12:30\nGuided Tour of Welsh Heritage Site\n🌄 Visit\nLocal Guide\nDetails\n\n\n12:30–13:30\nLunch in Wales\n🍽️ Break\n—\n—\n\n\n13:30–15:30\nCoastal Walk / Cultural Exploration\n🌊 Activity\nTour Team\n—\n\n\n15:30–16:30\nGroup Social & Refreshments\n🎉 Social\nStaff\n—\n\n\n16:30–17:30\nReturn to Campus\n🚌 Transport\nTrip Coordinator\n—"
+  },
+  {
+    "objectID": "program/index.html#day-1-schedule",
+    "href": "program/index.html#day-1-schedule",
+    "title": "Summer School Schedule",
+    "section": "Day 1 — Schedule 🎓",
+    "text": "Day 1 — Schedule 🎓\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker/Facilitator\nLinks\n\n\n\n\n09:00–09:15\nWelcome Remarks\n🎓 Opening\nChair\nBio\n\n\n09:15–10:30\nKeynote 1\n🎤 Keynote\nDr. L. Walker\nAbstract\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\n—\n—\n\n\n11:00–11:25\nPresentation 1\n🗣️ Talk\nSpeaker\nAbstract\n\n\n11:25–11:50\nPresentation 2\n🗣️ Talk\nSpeaker\nAbstract\n\n\n11:50–12:15\nPresentation 3\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:15–12:30\nPresentation 4\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Break\n—\n—\n\n\n13:30–14:45\nWorkshop 1 – Session 1\n🧪 Workshop\nDr. S. Noor\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\n—\n—\n\n\n15:15–16:30\nWorkshop 1 – Session 2\n🧪 Workshop\nDr. S. Noor\nDescription\n\n\n16:30–16:55\nPresentation 5\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:55–17:00\nDay Closing\n🎓 Closing\nChair\n—"
+  },
+  {
+    "objectID": "program/index.html#day-2-schedule",
+    "href": "program/index.html#day-2-schedule",
+    "title": "Summer School Schedule",
+    "section": "Day 2 — Schedule 🎤",
+    "text": "Day 2 — Schedule 🎤\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker/Facilitator\nLinks\n\n\n\n\n09:00–10:15\nKeynote 2\n🎤 Keynote\nProf. E. Duarte\nAbstract\n\n\n10:15–10:30\nPresentation 6\n🗣️ Talk\nSpeaker\nAbstract\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\n—\n—\n\n\n11:00–12:15\nWorkshop 2 – Session 1\n🧪 Workshop\nDr. C. Laurent\nDescription\n\n\n12:15–12:30\nPresentation 7\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Break\n—\n—\n\n\n13:30–14:45\nWorkshop 2 – Session 2\n🧪 Workshop\nDr. C. Laurent\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\n—\n—\n\n\n15:15–16:30\nPanel 1\n🗳️ Panel\nModerator + Panelists\nBios\n\n\n16:30–16:50\nPresentation 8\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:50–17:00\nPresentation 9\n🗣️ Talk\nSpeaker\nAbstract"
+  },
+  {
+    "objectID": "program/index.html#day-3-schedule",
+    "href": "program/index.html#day-3-schedule",
+    "title": "Summer School Schedule",
+    "section": "Day 3 — Schedule 🗳️",
+    "text": "Day 3 — Schedule 🗳️\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker/Facilitator\nLinks\n\n\n\n\n09:00–10:15\nKeynote 3\n🎤 Keynote\nProf. G. Arendt\nAbstract\n\n\n10:15–10:30\nPresentation 10\n🗣️ Talk\nSpeaker\nAbstract\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\n—\n—\n\n\n11:00–12:15\nWorkshop 3 – Session 1\n🧪 Workshop\nDr. J. Singh\nDescription\n\n\n12:15–12:30\nPresentation 11\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Break\n—\n—\n\n\n13:30–14:45\nWorkshop 3 – Session 2\n🧪 Workshop\nDr. J. Singh\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\n—\n—\n\n\n15:15–16:30\nPanel 2\n🗳️ Panel\nModerator + Panelists\nBios\n\n\n16:30–16:45\nPresentation 12\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:45–17:00\nPresentation 13\n🗣️ Talk\nSpeaker\nAbstract"
+  },
+  {
+    "objectID": "program/index.html#day-4-schedule",
+    "href": "program/index.html#day-4-schedule",
+    "title": "Summer School Schedule",
+    "section": "Day 4 — Schedule 🧪",
+    "text": "Day 4 — Schedule 🧪\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker/Facilitator\nLinks\n\n\n\n\n09:00–09:25\nPresentation 14\n🗣️ Talk\nSpeaker\nAbstract\n\n\n09:25–09:50\nPresentation 15\n🗣️ Talk\nSpeaker\nAbstract\n\n\n09:50–10:15\nPresentation 16\n🗣️ Talk\nSpeaker\nAbstract\n\n\n10:15–10:30\nTransition\n—\n—\n—\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\n—\n—\n\n\n11:00–12:15\nWorkshop 4 – Session 1\n🧪 Workshop\nDr. F. Zhou\nDescription\n\n\n12:15–12:30\nPresentation 17\n🗣️ Talk\nSpeaker\nAbstract\n\n\n12:30–13:30\nLunch\n🍽️ Break\n—\n—\n\n\n13:30–14:45\nWorkshop 4 – Session 2\n🧪 Workshop\nDr. F. Zhou\nDescription\n\n\n14:45–15:15\nRefreshment Break\n☕ Break\n—\n—\n\n\n15:15–15:40\nPresentation 18\n🗣️ Talk\nSpeaker\nAbstract\n\n\n15:40–16:05\nPresentation 19\n🗣️ Talk\nSpeaker\nAbstract\n\n\n16:05–17:00\nOpen Discussion Session\n💬 Discussion\nCommittee\n—"
+  },
+  {
+    "objectID": "program/index.html#day-5-schedule",
+    "href": "program/index.html#day-5-schedule",
+    "title": "Summer School Schedule",
+    "section": "Day 5 — Schedule 🎓",
+    "text": "Day 5 — Schedule 🎓\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker/Facilitator\nLinks\n\n\n\n\n09:00–10:15\nWorkshop 5 – Session 1\n🧪 Workshop\nDr. M. Ortega\nDescription\n\n\n10:15–10:30\nTransition\n—\n—\n—\n\n\n10:30–11:00\nRefreshment Break\n☕ Break\n—\n—\n\n\n11:00–12:15\nWorkshop 5 – Session 2\n🧪 Workshop\nDr. M. Ortega\nDescription\n\n\n12:15–12:30\nReflection Discussion\n💬 Discussion\nFacilitator Team\n—\n\n\n12:30–13:30\nLunch\n🍽️ Break\n—\n—\n\n\n13:30–15:00\nNetworking & Posters\n🎉 Social\nCommittee\n—\n\n\n15:00–15:30\nRefreshment Break\n☕ Break\n—\n—\n\n\n15:30–17:00\nClosing Ceremony\n🎓 Closing\nChair\nBios"
+  },
+  {
+    "objectID": "program/index.html#day-6-wales-visit",
+    "href": "program/index.html#day-6-wales-visit",
+    "title": "Summer School Schedule",
+    "section": "Day 6 — Wales Visit 🌄",
+    "text": "Day 6 — Wales Visit 🌄\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker/Facilitator\nLinks\n\n\n\n\n09:00–10:00\nDeparture from Campus\n🚌 Transport\nTrip Coordinator\nInfo\n\n\n10:00–12:30\nGuided Tour of Welsh Heritage Site\n🌄 Visit\nLocal Guide\nDetails\n\n\n12:30–13:30\nLunch in Wales\n🍽️ Break\n—\n—\n\n\n13:30–15:30\nCoastal Walk / Cultural Exploration\n🌊 Activity\nTour Team\n—\n\n\n15:30–16:30\nGroup Social & Refreshments\n🎉 Social\nStaff\n—\n\n\n16:30–17:30\nReturn to Campus\n🚌 Transport\nTrip Coordinator\n—"
+  },
+  {
+    "objectID": "program/index.html#day-6-saturday-11-july-2026",
+    "href": "program/index.html#day-6-saturday-11-july-2026",
+    "title": "Summer School Schedule",
+    "section": "Day 6 — Saturday, 11 July 2026",
+    "text": "Day 6 — Saturday, 11 July 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker\nLinks\n\n\n\n\n09:00–10:00\nDeparture from Campus\n🚌 Transport\nTrip Coordinator\nInfo\n\n\n10:00–12:30\nGuided Tour of Welsh Heritage Site\n🌄 Visit\nLocal Guide\nDetails\n\n\n12:30–13:30\nLunch in Wales\n🍽️ Lunch\nNA\n—\n\n\n13:30–15:30\nCoastal Walk / Cultural Exploration\n🌊 Activity\nTour Team\n—\n\n\n15:30–16:30\nGroup Social & Refreshments\n🎉 Social\nStaff\n—\n\n\n16:30–17:30\nReturn to Campus\n🚌 Transport\nTrip Coordinator\n—"
+  },
+  {
+    "objectID": "program/index.html#site-visit-saturday-11-july-2026",
+    "href": "program/index.html#site-visit-saturday-11-july-2026",
+    "title": "Summer School Schedule",
+    "section": "Site visit — Saturday, 11 July 2026",
+    "text": "Site visit — Saturday, 11 July 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nType\nSpeaker\nLinks\n\n\n\n\n09:00–10:00\nDeparture from Campus\n🚌 Transport\nTrip Coordinator\nInfo\n\n\n10:00–12:30\nGuided Tour of Welsh Heritage Site\n🌄 Visit\nLocal Guide\nDetails\n\n\n12:30–13:30\nLunch in Wales\n🍽️ Lunch\nNA\n—\n\n\n13:30–15:30\nCoastal Walk / Cultural Exploration\n🌊 Activity\nTour Team\n—\n\n\n15:30–16:30\nGroup Social & Refreshments\n🎉 Social\nStaff\n—\n\n\n16:30–17:30\nReturn to Campus\n🚌 Transport\nTrip Coordinator\n—"
   }
 ]
