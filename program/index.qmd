@@ -13,6 +13,16 @@ execute:
   message: false
 ---
 
+```{r}
+required <- c("dplyr", "readr", "knitr")
+
+for (pkg in required) {
+  if (!require(pkg, character.only = TRUE)) {
+    install.packages(pkg, repos = "https://cloud.r-project.org")
+    library(pkg, character.only = TRUE)
+  }
+}
+```
 
 ```{r}
 emoji_map <- c(
