@@ -14,6 +14,7 @@ execute:
 ---
 
 ```{r}
+#| include: false
 required <- c("dplyr", "readr", "knitr")
 
 for (pkg in required) {
