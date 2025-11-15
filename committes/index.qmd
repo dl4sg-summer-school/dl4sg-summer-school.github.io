@@ -10,7 +10,7 @@ css: committe-cards.css
     <div class="content-card">
         <h2>Leadership</h2>
         <div class="committee-grid">
-            <!-- Director and Academic Chair -->
+            <!-- Founding Director and Academic Chair -->
             <div class="member-card">
                 <img src="img/bahman.jpg" alt="Prof. Bahman Rostami-Tabar" class="member-avatar">
                 <div class="member-name">Prof. Bahman Rostami-Tabar</div>
@@ -81,11 +81,11 @@ css: committe-cards.css
         <div class="committee-grid">
             <!-- Advisory Member 1 -->
             <div class="member-card">
-                <img src="img/caucher.jpeg" alt="Prof. Caucher Birkar" class="member-avatar">
+                <img src="img/caucher.jpg" alt="Prof. Caucher Birkar" class="member-avatar">
                 <div class="member-name">Prof. Caucher Birkar</div>
                 <div class="member-affiliation">Tsinghua University, China</div>
                 <ul class="member-links">
-                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://ymsc.tsinghua.edu.cn/en/info/1031/1892.htm" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
                     <li><a href="https://linkedin.com/in/caucherbirkar" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>
@@ -107,19 +107,19 @@ css: committe-cards.css
                 <div class="member-name">Prof. Patrick Caron</div>
                 <div class="member-affiliation">Senior Researcher, CIRAD, France</div>
                 <ul class="member-links">
-                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="https://linkedin.com/in/patrickcaron" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                    <li><a href="https://www.cgiar.org/patrick-caron/" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/patrick-caron-452118115/?locale=en_US" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>
             
             <!-- Advisory Member 4 -->
             <div class="member-card">
-                <img src="img/rob.png" alt="Prof. Rob Hyndman" class="member-avatar">
+                <img src="img/rob.png" alt="Prof. Pierre Pinson" class="member-avatar">
                 <div class="member-name">Prof. Rob Hyndman</div>
-                <div class="member-affiliation">Professor of Statistics, Monash University, Australia</div>
+                <div class="member-affiliation">Professor of Data-centric Design Engineering,  Imperial College London, UK</div>
                 <ul class="member-links">
-                    <li><a href="https://robjhyndman.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="https://linkedin.com/in/robhyndman" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                    <li><a href="https://profiles.imperial.ac.uk/p.pinson" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/pierrepinson/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>
             
@@ -129,7 +129,7 @@ css: committe-cards.css
                 <div class="member-name">Prof. Mohammed Amin Mohammed</div>
                 <div class="member-affiliation">The Strategy Unit, UK</div>
                 <ul class="member-links">
-                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.strategyunitwm.nhs.uk/author/mohammed-amin-mohammed" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
                     <li><a href="https://linkedin.com/in/mohammedamin" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>
@@ -139,10 +139,41 @@ css: committe-cards.css
                 <div class="member-name">Prof. Laura Albert</div>
                 <div class="member-affiliation">University of Wisconsin Madison, UK</div>
                 <ul class="member-links">
-                    <li><a href="https://example.com" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
-                    <li><a href="https://linkedin.com/in/mohammedamin" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                    <li><a href="https://engineering.wisc.edu/directory/profile/laura-albert/" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/lauraalbertphd/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>                    
+            <!-- Advisory Member 7 -->
+            <div class="member-card">
+                <img src="img/laura.png" alt="" class="member-avatar">
+                <div class="member-name">Prof. Laura Albert</div>
+                <div class="member-affiliation">University of Wisconsin Madison, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://engineering.wisc.edu/directory/profile/laura-albert/" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/lauraalbertphd/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>  
+            <!-- Advisory Member 8 -->
+            <div class="member-card">
+                <img src="img/laura.png" alt="" class="member-avatar">
+                <div class="member-name">Prof. Laura Albert</div>
+                <div class="member-affiliation">University of Wisconsin Madison, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://engineering.wisc.edu/directory/profile/laura-albert/" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/lauraalbertphd/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>  
+            <!-- Advisory Member 9 -->
+            <div class="member-card">
+                <img src="img/laura.png" alt="" class="member-avatar">
+                <div class="member-name">Prof. Laura Albert</div>
+                <div class="member-affiliation">University of Wisconsin Madison, UK</div>
+                <ul class="member-links">
+                    <li><a href="https://engineering.wisc.edu/directory/profile/laura-albert/" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/lauraalbertphd/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+                </ul>
+            </div>  
+
                 </ul>
             </div>
         </div>
