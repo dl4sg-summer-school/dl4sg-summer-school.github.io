@@ -34,8 +34,6 @@ website:
             href: workshop/index.qmd
           - text: Panels
             href: panels/index.qmd
-      - text: Participants
-        href: participants/index.qmd
 
 format:
   html:
