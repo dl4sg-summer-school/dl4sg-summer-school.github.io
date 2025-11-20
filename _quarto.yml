@@ -19,7 +19,7 @@ website:
           - text: Travel
             href: travel/index.qmd
           - text: Sponsers
-            href: org_and_sponsors/index.qmd
+            href: index.html#partners
       - text: Apply
         href: index.html#apply
       - text: Registration
