@@ -42,11 +42,8 @@ page-layout: full
         <li>For any queries, please contact <a href="mailto:halgamuwehewagehr@cardiff.ac.uk">halgamuwehewagehr@cardiff.ac.uk</a>.</li>
       </ul>
       
-      <p>If you are offered a place, you must register to confirm your participation (note: Registration will open on 01 April 2026).</p>
-      
-      <a href="##" class="btn-custom btn-primary"> 
-      <i class="fas fa-external-link-alt"></i> Register here</a>
-    
+      <p>If you are offered a place, you must register to confirm your participation (Note: Registration will open on 01 January 2026).</p>
+
     </div>
 
 </div>
