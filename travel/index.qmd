@@ -25,6 +25,47 @@ page-layout: full
     </div>
     
     <div class="content-card">
+        <h2><i class="fas fa-university"></i> University Accommodation</h2>
+          <p>We have secured a limited allocation of <strong>25 spaces</strong> at Cardiff University residences. We offer <strong>Single Ensuite</strong> rooms at the following locations:</p>
+  
+      <ul>
+          <li><strong>Talybont North</strong> – Single En-suite (S/C)</li>
+          <li><strong>Talybont Gate</strong> – Single En-suite (S/C)</li>
+      </ul>
+  
+      <div style="background-color: #f9f9f9; padding: 15px; border-left: 5px solid #DA2C43; margin-top: 20px;">
+          <h4 style="margin-top: 0;">Pricing & Booking</h4>
+          <p><strong>Note:</strong> A minimum booking of 2 nights is required. Prices exclude VAT.</p>
+          
+          <table style="width: 100%; text-align: left; border-collapse: collapse;">
+              <thead>
+                  <tr style="border-bottom: 2px solid #ddd;">
+                      <th style="padding: 8px;">Room Type</th>
+                      <th style="padding: 8px;">Location</th>
+                      <th style="padding: 8px;">Price (Exc. VAT)</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr style="border-bottom: 1px solid #eee;">
+                      <td style="padding: 8px;">Single En-suite</td>
+                      <td style="padding: 8px;">Talybont North</td>
+                      <td style="padding: 8px;"><strong>£53.00</strong> per night</td>
+                  </tr>
+                  <tr>
+                      <td style="padding: 8px;">Single En-suite</td>
+                      <td style="padding: 8px;">Talybont Gate</td>
+                      <td style="padding: 8px;"><strong>£53.00</strong> per night</td>
+                  </tr>
+              </tbody>
+          </table>
+  
+          <p style="margin-top: 15px;">
+              <a href="https://www.cardiff.ac.uk/visit/accommodation/locations/talybont" class="btn-booking" target="_blank"><strong>Click here for more information</strong></a>
+          </p>
+      </div>
+    </div>
+    
+    <div class="content-card">
         <h2>How to get to Cardiff</h2>
         
         <h3><i class="fas fa-plane"></i> By Air</h3>
