@@ -11,20 +11,6 @@ page-layout: full
     </div>
     
     <div class="content-card">
-        <h2><i class="fas fa-hotel"></i> Accommodation</h2>
-        <p>There are numerous hotels in the city centre, all within walking distance of Cardiff University:</p>
-        
-        <ul>
-            <li><strong>Jurys Inn Cardiff</strong> - 1 Park Pl, Cardiff CF10 3UD | Tel: +44 161 774 2983 | <a href="https://www.jurysinns.com/hotels/Cardiff" target="_blank">Website</a></li>
-            <li><strong>Hilton Hotel Cardiff</strong> - Kingsway, Greyfriars Rd, Cardiff CF10 3HH | Tel: +44-2920-646-300 | <a href="http://www3.hilton.com/en/hotels/united-kingdom/hilton-Cardiff" target="_blank">Website</a></li>
-            <li><strong>Park Plaza Hotel Cardiff</strong> - Greyfriars Road, Cardiff CF10 3AL | Tel: +44 (0) 2920 111 111 | <a href="https://www.parkplazacardiff.com" target="_blank">Website</a></li>
-            <li><strong>Holiday Inn Cardiff City Centre</strong> - Castle Street, Cardiff CF10 1XD | Tel: 0800 80 80 0800 | <a href="https://www.ihg.com/holidayinn/hotels/us/en/cardiff/cdfcy/hoteldetail" target="_blank">Website</a></li>
-            <li><strong>Angel Hotel</strong> - Castle St, Cardiff CF10 1SZ | <a href="https://www.thecairncollection.co.uk/hotels/the-angel/" target="_blank">Website</a></li>
-            <li><strong>Parkgate Hotel</strong> - Westgate St, Cardiff CF10 1DA | Tel: 02922745595 | <a href="https://www.theparkgatehotel.wales/" target="_blank">Website</a></li>
-        </ul>
-    </div>
-    
-    <div class="content-card">
         <h2><i class="fas fa-university"></i> University Accommodation</h2>
           <p>We have secured a limited allocation of <strong>25 spaces</strong> at Cardiff University residences. We offer <strong>Single Ensuite</strong> rooms at the following locations:</p>
   
@@ -64,6 +50,21 @@ page-layout: full
           </p>
       </div>
     </div>
+    
+    <div class="content-card">
+        <h2><i class="fas fa-hotel"></i> Hotels</h2>
+        <p>There are numerous hotels in the city centre, all within walking distance of Cardiff University:</p>
+        
+        <ul>
+            <li><strong>Jurys Inn Cardiff</strong> - 1 Park Pl, Cardiff CF10 3UD | Tel: +44 161 774 2983 | <a href="https://www.jurysinns.com/hotels/Cardiff" target="_blank">Website</a></li>
+            <li><strong>Hilton Hotel Cardiff</strong> - Kingsway, Greyfriars Rd, Cardiff CF10 3HH | Tel: +44-2920-646-300 | <a href="http://www3.hilton.com/en/hotels/united-kingdom/hilton-Cardiff" target="_blank">Website</a></li>
+            <li><strong>Park Plaza Hotel Cardiff</strong> - Greyfriars Road, Cardiff CF10 3AL | Tel: +44 (0) 2920 111 111 | <a href="https://www.parkplazacardiff.com" target="_blank">Website</a></li>
+            <li><strong>Holiday Inn Cardiff City Centre</strong> - Castle Street, Cardiff CF10 1XD | Tel: 0800 80 80 0800 | <a href="https://www.ihg.com/holidayinn/hotels/us/en/cardiff/cdfcy/hoteldetail" target="_blank">Website</a></li>
+            <li><strong>Angel Hotel</strong> - Castle St, Cardiff CF10 1SZ | <a href="https://www.thecairncollection.co.uk/hotels/the-angel/" target="_blank">Website</a></li>
+            <li><strong>Parkgate Hotel</strong> - Westgate St, Cardiff CF10 1DA | Tel: 02922745595 | <a href="https://www.theparkgatehotel.wales/" target="_blank">Website</a></li>
+        </ul>
+    </div>
+  
     
     <div class="content-card">
         <h2>How to get to Cardiff</h2>
