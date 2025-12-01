@@ -95,7 +95,7 @@ page-layout: full
         <table class="key-dates-table"> <!-- Changed to table -->
             <tbody>
                 <tr>
-                    <td class="date">26 November 2025</td>
+                    <td class="date">01 December 2025</td>
                     <td class="event">Application open</td>
                 </tr>
                 <tr>
