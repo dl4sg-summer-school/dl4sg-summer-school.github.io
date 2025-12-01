@@ -28,7 +28,7 @@ format:
 :::
 
 ::: {.sponsor-item}
-[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor4.com)
+[![](img/DTII.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
 :::
 
 ::: {.sponsor-item}
@@ -45,10 +45,6 @@ format:
 
 ::: {.sponsor-item}
 [![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor8.com)
-:::
-
-::: {.sponsor-item}
-[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor9.com)
 :::
 
 :::
