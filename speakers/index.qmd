@@ -18,9 +18,9 @@ page-layout: full
   <div class="speaker-grid">
     
     <div class="speaker-card">
-      <img src="img/sir_david.jpg" alt="Sir David Spiegelhalter" class="speaker-photo">
-      <div class="speaker-name">Sir David Spiegelhalter</div>
-      <div class="speaker-org">University of Cambridge</div>
+      <img src="https://via.placeholder.com/150" alt="TBA" class="speaker-photo">
+      <div class="speaker-name">TBA</div>
+      <div class="speaker-org">TBA</div>
       <div class="speaker-social">
         <a href="#"><i class="bi bi-globe"></i></a>
         <a href="#"><i class="bi bi-github"></i></a>
@@ -29,9 +29,9 @@ page-layout: full
     </div>
 
     <div class="speaker-card">
-      <img src="img/michelle.jpg" alt="Prof. Michelle D. Lazarus" class="speaker-photo">
-      <div class="speaker-name">Prof. Michelle D. Lazarus</div>
-      <div class="speaker-org">Monash University</div>
+      <img src="https://via.placeholder.com/150" alt="TBA" class="speaker-photo">
+      <div class="speaker-name">TBA</div>
+      <div class="speaker-org"> TBA</div>
       <div class="speaker-social">
         <a href="#"><i class="bi bi-globe"></i></a>
         <a href="#"><i class="bi bi-github"></i></a>
@@ -40,9 +40,9 @@ page-layout: full
     </div>
 
     <div class="speaker-card">
-      <img src="img/bill_sharpe.jpg" alt="Bill Sharpe" class="speaker-photo">
-      <div class="speaker-name">Bill Sharpe</div>
-      <div class="speaker-org">Independent Researcher</div>
+      <img src="https://via.placeholder.com/150" alt="TBA" class="speaker-photo">
+      <div class="speaker-name">TBA</div>
+      <div class="speaker-org">TBA</div>
       <div class="speaker-social">
         <a href="#"><i class="bi bi-globe"></i></a>
         <a href="#"><i class="bi bi-github"></i></a>
@@ -51,9 +51,9 @@ page-layout: full
     </div>
 
     <div class="speaker-card">
-      <img src="https://via.placeholder.com/150" alt="TBC" class="speaker-photo">
-      <div class="speaker-name">TBC</div>
-      <div class="speaker-org">To Be Announced</div>
+      <img src="https://via.placeholder.com/150" alt="TBA" class="speaker-photo">
+      <div class="speaker-name">TBA</div>
+      <div class="speaker-org">TBA</div>
       <div class="speaker-social">
         <a href="#"><i class="bi bi-globe"></i></a>
         <a href="#"><i class="bi bi-github"></i></a>

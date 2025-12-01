@@ -38,12 +38,12 @@ css: committe-cards.css
 
     <!-- Organising Committee Section -->
     <div class="content-card">
-        <h2>Organising Committee</h2>
+        <h2>Organising Committee Members</h2>
         <div class="committee-grid">
             <!-- Member 1 -->
             <div class="member-card">
                 <img src="img/peter.avif" alt="Prof. Peter Madden" class="member-avatar">
-                <div class="member-name">Prof. Peter Madden</div>
+                <div class="member-name">Prof. Peter Madden - Programme Support</div>
                 <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
                 <ul class="member-links">
                     <li><a href="https://profiles.cardiff.ac.uk/staff/maddenp1" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
@@ -55,7 +55,7 @@ css: committe-cards.css
             <!-- Member 2 -->
             <div class="member-card">
                 <img src="img/beverly.avif" alt="Mrs. Beverly Francis" class="member-avatar">
-                <div class="member-name">Mrs. Beverly Francis</div>
+                <div class="member-name">Mrs. Beverly Francis - Logistics Coordinator</div>
                 <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
                 <ul class="member-links">
                     <li><a href="https://profiles.cardiff.ac.uk/staff/francisbj" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
@@ -66,7 +66,7 @@ css: committe-cards.css
             <!-- Member 3 -->
             <div class="member-card">
                 <img src="img/thanos.jpeg" alt="Dr. Thanos Goltsos" class="member-avatar">
-                <div class="member-name">Dr. Thanos Goltsos</div>
+                <div class="member-name">Dr. Thanos Goltsos - Site Visit Coordinator</div>
                 <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
                 <ul class="member-links">
                     <li><a href="https://profiles.cardiff.ac.uk/staff/goltsosa" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
