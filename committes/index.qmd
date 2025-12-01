@@ -44,7 +44,7 @@ css: committe-cards.css
             <div class="member-card">
                 <img src="img/peter.avif" alt="Prof. Peter Madden" class="member-avatar">
                 <div class="member-name">Prof. Peter Madden - Programme Support</div>
-                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <div class="member-affiliation">School of Geography and Planning, Cardiff University, UK</div>
                 <ul class="member-links">
                     <li><a href="https://profiles.cardiff.ac.uk/staff/maddenp1" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/professor-peter-madden-obe-b5684020/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
@@ -160,7 +160,7 @@ css: committe-cards.css
             <div class="member-card">
                 <img src="img/peter.avif" alt="Prof. Peter Madden" class="member-avatar">
                 <div class="member-name">Prof. Peter Madden</div>
-                <div class="member-affiliation">Cardiff Business School, Cardiff University, UK</div>
+                <div class="member-affiliation">School of Geography and Planning, Cardiff University, UK</div>
                 <ul class="member-links">
                     <li><a href="https://profiles.cardiff.ac.uk/staff/maddenp1" target="_blank" class="website" title="Website"><i class="bi bi-globe"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/professor-peter-madden-obe-b5684020/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
