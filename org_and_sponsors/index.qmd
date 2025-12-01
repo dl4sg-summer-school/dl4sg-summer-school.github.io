@@ -28,7 +28,7 @@ format:
 :::
 
 ::: {.sponsor-item}
-[![](img/DTII.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
+[![](img/dtii.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
 :::
 
 ::: {.sponsor-item}
