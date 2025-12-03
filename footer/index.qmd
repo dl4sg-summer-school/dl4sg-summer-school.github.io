@@ -27,6 +27,7 @@ page-layout: full
 <!-- Footer Section -->
 <div class="footer-section">
     <p>Established and Hosted by the Data Lab for Social Good Research Group, Cardiff Business School, Cardiff University.</p>
+    <p><small>Our summer school logo is inspired by <a href="https://x.com/waitbutwhy/status/1367871165319049221" target="_blank">this tweet from Tim Urban</a>.</small></p>
     <p class="university-name">Data Lab for Social Good © 2025</p>
 </div>
 

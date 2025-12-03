@@ -26,6 +26,3 @@ page-layout: full
 {{< include footer/index.qmd >}}
 :::
 
-
-
-
