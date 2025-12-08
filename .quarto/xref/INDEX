@@ -43,5 +43,8 @@
   },
   "committes/index.qmd": {
     "index.html": "a504a06d"
+  },
+  "speakers/sir-david-spiegelhalter.qmd": {
+    "sir-david-spiegelhalter.html": "a1c02102"
   }
 }
