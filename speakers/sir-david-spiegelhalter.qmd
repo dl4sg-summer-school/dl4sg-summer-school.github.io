@@ -18,3 +18,5 @@ By cultivating imagination, humility, and resilience, we can better face an unpr
 Professor Sir David Spiegelhalter FRS OBE is Emeritus Professor of Statistics at the University of Cambridge. He is a regular media commentator on statistical issues, and was very busy over the Covid crisis. His bestselling book, The Art of Statistics, was published in 2019, and The Art of Uncertainty in 2024. His career highlights include appearing on Desert Island Discs in 2022, and in 2011 coming 7th in an episode of BBC1’s Winter Wipeout.
 
 He was elected Fellow of the Royal Society in 2005, awarded an OBE in 2006, and knighted in 2014 for services to medical statistics. He was President of the Royal Statistical Society for 2017-2018, and has been a Non-Executive Director of the UK Statistics Authority since 2020.
+
+# References
