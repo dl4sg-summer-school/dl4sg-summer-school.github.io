@@ -16,35 +16,35 @@ format:
 ::: {.sponsors-grid}
 
 ::: {.sponsor-item}
-[![](img/cardiff.svg){.sponsor-logo}](https://www.cardiff.ac.uk/)
+[![](org_and_sponsors/img/cardiff.svg){.sponsor-logo}](https://www.cardiff.ac.uk/)
 :::
 
 ::: {.sponsor-item}
-[![](img/carbs_logo1.jpg){.sponsor-logo}](https://www.cardiff.ac.uk/business-school)
+[![](org_and_sponsors/img/carbs_logo1.jpg){.sponsor-logo}](https://www.cardiff.ac.uk/business-school)
 :::
 
 ::: {.sponsor-item}
-[![](img/doctoral_academy.png){.sponsor-logo}](https://www.cardiff.ac.uk/study/postgraduate/research/doctoral-academy)
+[![](org_and_sponsors/img/doctoral_academy.png){.sponsor-logo}](https://www.cardiff.ac.uk/study/postgraduate/research/doctoral-academy)
 :::
 
 ::: {.sponsor-item}
-[![](img/dtii.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
+[![](org_and_sponsors/img/dtii.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
 :::
 
 ::: {.sponsor-item}
-[![](img/sams.png){.sponsor-logo}](http://www.socadms.org.uk/)
+[![](org_and_sponsors/img/sams.svg){.sponsor-logo}](http://www.socadms.org.uk/)
 :::
 
 ::: {.sponsor-item}
-[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor6.com)
+[![](org_and_sponsors/img/cardiff.svg){.sponsor-logo}](https://www.sponsor6.com)
 :::
 
 ::: {.sponsor-item}
-[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor7.com)
+[![](org_and_sponsors/img/cardiff.svg){.sponsor-logo}](https://www.sponsor7.com)
 :::
 
 ::: {.sponsor-item}
-[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor8.com)
+[![](org_and_sponsors/img/cardiff.svg){.sponsor-logo}](https://www.sponsor8.com)
 :::
 
 :::
