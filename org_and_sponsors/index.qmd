@@ -31,6 +31,7 @@ format:
 [![](org_and_sponsors/img/dtii.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
 :::
 
+
 ::: {.sponsor-item}
 [![](org_and_sponsors/img/sams.svg){.sponsor-logo}](http://www.socadms.org.uk/)
 :::
