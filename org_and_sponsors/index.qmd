@@ -32,7 +32,7 @@ format:
 :::
 
 ::: {.sponsor-item}
-[![](img/cardiff.svg){.sponsor-logo}](https://www.sponsor5.com)
+[![](img/sams.png){.sponsor-logo}](http://www.socadms.org.uk/)
 :::
 
 ::: {.sponsor-item}
