@@ -49,5 +49,11 @@
   },
   "speakers/bill-sharpe.qmd": {
     "bill-sharpe.html": "56ca1b1d"
+  },
+  "workshop/decision-quality.qmd": {
+    "decision-quality.html": "803543af"
+  },
+  "speakers/barbara-adam.qmd": {
+    "barbara-adam.html": "4048b518"
   }
 }
