@@ -25,8 +25,8 @@ css: workshop.css
           <a href="https://www.bradford.ac.uk/staff/mamohammed5/"><i class="bi bi-globe"></i></a>
         </div>
       
-            <button class="details-btn"
-          onclick="window.location.href='workshop/decision-quality.html">
+      <button class="details-btn"
+          onclick="window.location.href='workshop/decision-quality.html'">
           Workshop Details
       </button>
       
