@@ -28,12 +28,12 @@ This two hour interactive workshop will begin decision making and understanding 
 - No prior knowledge is assumed
 - Participants must have an interest in decision making
 
-# Technical Requirements
+# Pre-Reading (Optional)
 
-Nothing outside standard options for a lecture room
+- [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html
+https://en.wikipedia.org/wiki/Decision_quality)
 
-
-# Pre-Work or Pre-Reading 
+- [Decision Quality Value Creation from Better Business Decisions](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119176657)
 
 
 # Materials Provided to Participants
