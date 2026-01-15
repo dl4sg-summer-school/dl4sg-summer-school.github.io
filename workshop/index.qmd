@@ -26,7 +26,7 @@ css: workshop.css
         </div>
 
         <button class="details-btn"
-          onclick="window.location.href='{{< var site.base-url >}}/workshop/decision-quality.html'">
+          onclick="window.location.href='decision-quality.html'">
           Workshop Details
         </button>
       </div>
