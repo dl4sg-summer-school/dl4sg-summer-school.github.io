@@ -1,8 +1,8 @@
 ---
 title: "Decision Quality and Uncertainty"
-authors: "Prof. Mohammed A. Mohammed"
 page-layout: article
 ---
+**Instructor: Prof. Mohammed A. Mohammed, The Strategy Unit - NHS**
 
 # Speaker Bio
 
