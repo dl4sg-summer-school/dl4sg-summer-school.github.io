@@ -63,14 +63,17 @@ page-layout: full
     </div>
 
     <div class="speaker-card">
-      <img src="https://via.placeholder.com/150" alt="TBA" class="speaker-photo">
-      <div class="speaker-name">TBA</div>
-      <div class="speaker-org">TBA</div>
+      <img src="speakers/img/michelle.jpg" alt="Michelle Lazarus" class="speaker-photo">
+      <div class="speaker-name">Michelle Lazarus</div>
+      <div class="speaker-org">Monash University</div>
       <div class="speaker-social">
-        <a href="#"><i class="bi bi-globe"></i></a>
-        <a href="#"><i class="bi bi-github"></i></a>
-        <a href="#"><i class="bi bi-linkedin"></i></a>
+        <a href="https://research.monash.edu/en/persons/michelle-lazarus/"><i class="bi bi-globe"></i></a>
+        <a href="https://michelledlazarus.wordpress.com/"><i class="bi bi-globe"></i></a>
+        <a href="https://www.linkedin.com/in/michelle-lazarus-4b19ab222/?originalSubdomain=au"><i class="bi bi-linkedin"></i></a>
       </div>
+      <button class="details-btn"
+          onclick="window.location.href='speakers/michelle-lazarus.html'">
+          Talk Details
     </div>
 
   </div>
