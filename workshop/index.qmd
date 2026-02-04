@@ -49,9 +49,9 @@ css: workshop.css
     <h3 class="instructors-heading">Instructor(s)</h3>
     <div class="instructors-grid">
       <div class="instructor-card">
-        <img src="img/instructor2.jpg" alt="Instructor Name" class="instructor-photo">
-        <div class="instructor-name">Full Name</div>
-        <div class="instructor-org">University</div>
+        <img src="img-workshop/nicola.jpg" alt="Instructor Name" class="instructor-photo">
+        <div class="instructor-name">Nicola Rennie</div>
+        <div class="instructor-org">Office for National Statistics</div>
         <div class="instructor-social">
           <a href="#"><i class="bi bi-globe"></i></a>
           <a href="#"><i class="bi bi-github"></i></a>
@@ -59,14 +59,14 @@ css: workshop.css
         </div>
 
         <button class="details-btn"
-          onclick="window.location.href='{{< var site.base-url >}}/workshop/communicating-uncertainty.html'">
+          onclick="window.location.href='{{< var site.base-url >}}/workshop/visualisation.html'">
           Workshop Details
         </button>
       </div>
 
       <div class="instructor-card">
         <img src="img/instructor2b.jpg" alt="Instructor Name" class="instructor-photo">
-        <div class="instructor-name">Full Name</div>
+        <div class="instructor-name">TBC</div>
         <div class="instructor-org">University</div>
         <div class="instructor-social">
           <a href="#"><i class="bi bi-globe"></i></a>

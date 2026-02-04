@@ -1,0 +1,58 @@
+---
+title: "Communicating and Visualising Future Uncertainty"
+page-layout: article
+---
+
+**Instructor: Nicola Rennie, Data Visualisation Specialist at Office for National Statistics**
+
+
+
+# Speaker Bio
+
+Nicola Rennie is a data visualisation specialist with a background in statistics and operational research, who is interested in understanding how to effectively communicate complex quantitative ideas in an accessible way. She advocates for using open source tools, and has experience in D3, Svelte, R, and Python. Nicola co-authored the Royal Statistical Society’s Best Practices for Data Visualisation guidance and is a member of the Editorial Board of Significance magazine, particularly focused on data visualisation. 
+
+# Summary of the Workshop
+
+This interactive workshop will focus on best practices for communicating uncertainty through language and visual storytelling. The workshop brings together principles from data journalism, data visualisation, and content design to explore how uncertainty can be represented in ways that are both accurate and engaging.
+
+By the end of the session, participants will understand why it’s important to be upfront about uncertainty and be aware of best practice principles they can use to know when and how to discuss uncertainty from different sources. Participants will learn about approaches to communicating uncertainty without overwhelming or misleading audiences. They will also develop techniques for visualising uncertainty, using a variety of different chart types. 
+
+Through practical exercises, real‑world examples, and group discussion, the session will provide a toolkit for communicating complex data in a way that allows better evidence-based decision making.
+
+# Learning Outcomes
+
+By the end of this session, participants will:
+
+- Understand how communicating uncertainty can increase trustworthiness and know when it is important and appropriate to talk about uncertainty
+
+- Have an understanding of the language used to describe and communicate uncertainty, especially for non-technical audiences
+
+- Know when it is and isn’t appropriate to show uncertainty in visualisations
+
+- Be able to create a range of chart types for showing uncertainty and follow best practices when doing so
+
+# Structure of the session
+
+In this workshop
+
+- 15 mins: Introduction to communicating uncertainty 
+- 60 mins: Principles of communicating uncertainty and the language of uncertainty
+- 30 mins: Break
+- 60 mins: How we communicate uncertainty in data visualisations
+- 15 mins: Closing thoughts, further resources, and time for questions
+
+# Prerequisites
+
+- There are no specific prerequisites for participants.
+
+# Pre-Reading (Optional)
+
+- [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/RSS-data-vis-guide.pdf)
+
+- [Raftery, A. E. (2016). Use and communication of probabilistic forecasts. Statistical Analysis and Data Mining: The ASA Data Science Journal, 9(6), 397-410.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11302?casa_token=ksi3aFjU87wAAAAA%3AmU48JMAInNAOFAsocZ7oXeesDV65gCjrUqHT_8p7nltapn1OyenrNJBEcPRMwdAdSo6u14UTNsBmELs)
+
+
+# Materials Provided to Participants
+
+- Slides
+
