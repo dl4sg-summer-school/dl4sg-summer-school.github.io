@@ -55,9 +55,9 @@ css: workshop.css
         <div class="instructor-name">Nicola Rennie</div>
         <div class="instructor-org">Office for National Statistics</div>
         <div class="instructor-social">
-          <a href="#"><i class="bi bi-globe"></i></a>
-          <a href="#"><i class="bi bi-github"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
+          <a href="https://nrennie.rbind.io/"><i class="bi bi-globe"></i></a>
+          <a href="https://github.com/nrennie"><i class="bi bi-github"></i></a>
+          <a href="https://www.linkedin.com/in/nicola-rennie/"><i class="bi bi-linkedin"></i></a>
         </div>
 
       </div>
