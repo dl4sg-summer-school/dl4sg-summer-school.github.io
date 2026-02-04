@@ -219,23 +219,20 @@ ul.task-list li input[type="checkbox"] {
     <h3 class="instructors-heading anchored">Instructor(s)</h3>
     <div class="instructors-grid">
       <div class="instructor-card">
-        <img src="img/instructor2.jpg" alt="Instructor Name" class="instructor-photo">
-        <div class="instructor-name">Full Name</div>
-        <div class="instructor-org">University</div>
+        <img src="img-workshop/nicola.jpg" alt="Nicola Rennie" class="instructor-photo">
+        <div class="instructor-name">Nicola Rennie</div>
+        <div class="instructor-org">Office for National Statistics</div>
         <div class="instructor-social">
           <a href="#"><i class="bi bi-globe"></i></a>
           <a href="#"><i class="bi bi-github"></i></a>
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
 
-        <button class="details-btn" onclick="window.location.href='?var:site.base-url/workshop/communicating-uncertainty.html'">
-          Workshop Details
-        </button>
       </div>
 
       <div class="instructor-card">
         <img src="img/instructor2b.jpg" alt="Instructor Name" class="instructor-photo">
-        <div class="instructor-name">Full Name</div>
+        <div class="instructor-name">TBC</div>
         <div class="instructor-org">University</div>
         <div class="instructor-social">
           <a href="#"><i class="bi bi-globe"></i></a>
@@ -246,12 +243,17 @@ ul.task-list li input[type="checkbox"] {
     </div>
 
     <div class="workshop-details">
+    
+            <button class="details-btn" onclick="window.location.href='?var:site.base-url/workshop/visualisation.html'">
+          Workshop Details
+        </button>
+        
       <h3 class="anchored">Learning Outcomes</h3>
       <ul>
-        <li>Master effective techniques for visualising uncertainty in data</li>
-        <li>Learn best practices for communicating probabilistic information to diverse audiences</li>
-        <li>Create clear and intuitive uncertainty visualisations</li>
-        <li>Avoid common pitfalls in uncertainty communication</li>
+        <li>Understand how communicating uncertainty can increase trustworthiness</li>
+        <li>Have an understanding of the language used to describe and communicate uncertainty</li>
+        <li>Know when it is and isn’t appropriate to show uncertainty in visualisations</li>
+        <li>Be able to follow best practices</li>
       </ul>
     </div>
   </div>
@@ -455,7 +457,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/dl4sg-summer-school\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

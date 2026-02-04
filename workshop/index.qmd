@@ -25,14 +25,16 @@ css: workshop.css
           <a href="https://www.bradford.ac.uk/staff/mamohammed5/"><i class="bi bi-globe"></i></a>
         </div>
 
-        <button class="details-btn"
-          onclick="window.location.href='decision-quality.html'">
-          Workshop Details
-        </button>
       </div>
     </div>
 
     <div class="workshop-details">
+    
+            <button class="details-btn"
+          onclick="window.location.href='decision-quality.html'">
+          Workshop Details
+        </button>
+        
       <h3>Learning Outcomes</h3>
       <ul>
         <li>Understand the Role of Uncertainty in Decision-Making Processes</li>
@@ -49,7 +51,7 @@ css: workshop.css
     <h3 class="instructors-heading">Instructor(s)</h3>
     <div class="instructors-grid">
       <div class="instructor-card">
-        <img src="img-workshop/nicola.jpg" alt="Instructor Name" class="instructor-photo">
+        <img src="img-workshop/nicola.jpg" alt="Nicola Rennie" class="instructor-photo">
         <div class="instructor-name">Nicola Rennie</div>
         <div class="instructor-org">Office for National Statistics</div>
         <div class="instructor-social">
@@ -58,10 +60,6 @@ css: workshop.css
           <a href="#"><i class="bi bi-linkedin"></i></a>
         </div>
 
-        <button class="details-btn"
-          onclick="window.location.href='{{< var site.base-url >}}/workshop/visualisation.html'">
-          Workshop Details
-        </button>
       </div>
 
       <div class="instructor-card">
@@ -77,12 +75,18 @@ css: workshop.css
     </div>
 
     <div class="workshop-details">
+    
+            <button class="details-btn"
+          onclick="window.location.href='visualisation.html'">
+          Workshop Details
+        </button>
+        
       <h3>Learning Outcomes</h3>
       <ul>
-        <li>Master effective techniques for visualising uncertainty in data</li>
-        <li>Learn best practices for communicating probabilistic information to diverse audiences</li>
-        <li>Create clear and intuitive uncertainty visualisations</li>
-        <li>Avoid common pitfalls in uncertainty communication</li>
+        <li>Understand how communicating uncertainty can increase trustworthiness</li>
+        <li>Have an understanding of the language used to describe and communicate uncertainty</li>
+        <li>Know when it is and isn’t appropriate to show uncertainty in visualisations</li>
+        <li>Be able to follow best practices</li>
       </ul>
     </div>
   </div>

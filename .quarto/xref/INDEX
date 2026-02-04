@@ -55,5 +55,11 @@
   },
   "speakers/barbara-adam.qmd": {
     "barbara-adam.html": "4048b518"
+  },
+  "workshop/visualisation.qmd": {
+    "visualisation.html": "eb59634b"
+  },
+  "speakers/michelle-lazarus.qmd": {
+    "michelle-lazarus.html": "06305c45"
   }
 }

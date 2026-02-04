@@ -1,5 +1,6 @@
 ---
 title: "Decision Quality and Uncertainty"
+toc: true
 page-layout: article
 ---
 
