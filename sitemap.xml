@@ -1,79 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dl4sg-summer-school.github.io/registration/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.001Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/speakers/sir-david-spiegelhalter.html</loc>
-    <lastmod>2026-02-04T08:39:47.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/speakers/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/panels/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/home/index.html</loc>
-    <lastmod>2026-02-04T08:39:46.992Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/travel/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/workshop/decision-quality.html</loc>
-    <lastmod>2026-02-04T08:39:47.003Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/workshop/visualisation.html</loc>
-    <lastmod>2026-02-04T08:39:47.004Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/index.html</loc>
-    <lastmod>2026-02-04T08:39:46.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/org_and_sponsors/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/program/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/committes/index.html</loc>
-    <lastmod>2026-02-04T08:39:46.992Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/workshop/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.004Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dl4sg-summer-school.github.io/participants/index.html</loc>
-    <lastmod>2026-02-04T08:39:47.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://dl4sg-summer-school.github.io/footer/index.html</loc>
-    <lastmod>2026-02-04T08:39:46.992Z</lastmod>
+    <lastmod>2026-02-17T21:15:46.683Z</lastmod>
   </url>
   <url>
     <loc>https://dl4sg-summer-school.github.io/about/index.html</loc>
-    <lastmod>2026-02-04T08:39:46.980Z</lastmod>
+    <lastmod>2026-02-17T21:15:46.672Z</lastmod>
   </url>
   <url>
-    <loc>https://dl4sg-summer-school.github.io/speakers/bill-sharpe.html</loc>
-    <lastmod>2026-02-04T08:39:47.001Z</lastmod>
+    <loc>https://dl4sg-summer-school.github.io/committes/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.683Z</lastmod>
   </url>
   <url>
-    <loc>https://dl4sg-summer-school.github.io/speakers/barbara-adam.html</loc>
-    <lastmod>2026-02-04T08:39:47.001Z</lastmod>
+    <loc>https://dl4sg-summer-school.github.io/org_and_sponsors/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/speakers/sir-david-spiegelhalter.html</loc>
+    <lastmod>2026-02-17T21:15:46.694Z</lastmod>
   </url>
   <url>
     <loc>https://dl4sg-summer-school.github.io/speakers/michelle-lazarus.html</loc>
-    <lastmod>2026-02-04T08:39:47.002Z</lastmod>
+    <lastmod>2026-02-17T21:15:46.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/workshop/visualisation.html</loc>
+    <lastmod>2026-02-17T21:15:46.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/workshop/quantification.html</loc>
+    <lastmod>2026-02-17T21:15:46.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/workshop/longterm-planning.html</loc>
+    <lastmod>2026-02-17T21:15:46.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/program/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.693Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/home/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/panels/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.691Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/workshop/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/workshop/decision-quality.html</loc>
+    <lastmod>2026-02-17T21:15:46.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/speakers/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/speakers/bill-sharpe.html</loc>
+    <lastmod>2026-02-17T21:15:46.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/speakers/barbara-adam.html</loc>
+    <lastmod>2026-02-17T21:15:46.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/participants/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.692Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/travel/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dl4sg-summer-school.github.io/registration/index.html</loc>
+    <lastmod>2026-02-17T21:15:46.693Z</lastmod>
   </url>
 </urlset>
