@@ -98,7 +98,7 @@ css: workshop.css
     <h3 class="instructors-heading">Instructor(s)</h3>
     <div class="instructors-grid">
       <div class="instructor-card">
-        <img src="img-workshop/harsha.avif" alt="Bahman" class="instructor-photo">
+        <img src="img-workshop/bahman.JPG" alt="Bahman" class="instructor-photo">
         <div class="instructor-name">Prof. Bahman Rostami-Tabar</div>
         <div class="instructor-org">Cardiff University</div>
         <div class="instructor-social">
@@ -110,7 +110,7 @@ css: workshop.css
       </div>
 
       <div class="instructor-card">
-        <img src="img-workshop/bahman.JPG" alt="Harsha Halgamuwe Hewage " class="instructor-photo">
+        <img src="img-workshop/harsha.avif" alt="Harsha Halgamuwe Hewage " class="instructor-photo">
         <div class="instructor-name">Harsha Halgamuwe Hewage </div>
         <div class="instructor-org">Cardiff University</div>
         <div class="instructor-social">
@@ -141,12 +141,50 @@ css: workshop.css
 
   <!-- Workshop 4 -->
   <div class="workshop-section">
-    <h2 class="workshop-title">Workshop 4: Planning and Building for the Long-term When the Future Is Uncertain</h2>
+    <h2 class="workshop-title">Workshop 4: Educating for an Uncertain Future: Pedagogies That Prepare Learners to Adapt</h2>
 
     <h3 class="instructors-heading">Instructor</h3>
     <div class="instructors-grid">
       <div class="instructor-card">
-        <img src="img-workshop/peter.jpeg" alt="No-Photo by Instructor" class="instructor-photo">
+        <img src="img-workshop/michelle.jpg" alt="Michelle Lazarus" class="instructor-photo">
+        <div class="instructor-name">Prof. Michelle Lazarus </div>
+        <div class="instructor-org">Monash University</div>
+        <div class="instructor-social">
+          <a href="https://michelledlazarus.wordpress.com/"><i class="bi bi-globe"></i></a>
+          <a href="https://www.linkedin.com/in/michelle-lazarus-4b19ab222/?originalSubdomain=au"><i class="bi bi-linkedin"></i></a>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="workshop-details">
+    
+            <button class="details-btn"
+          onclick="window.location.href='educating.html'">
+          Workshop Details
+        </button>
+        
+      <h3>Learning Outcomes</h3>
+      <ul>
+        <li>Understand where and how uncertainty arises in educational settings and how learners typically experience it.</li>
+        <li>Interpret the evidence base on learners’ cognitive and emotional responses to uncertainty.</li>
+        <li>Apply effective, research-informed strategies to help learners develop adaptive skills for managing uncertainty.</li>
+        <li>Design a learning activity that intentionally incorporates uncertainty and supports learners in navigating that experience.</li>
+        
+
+
+      </ul>
+    </div>
+  </div>
+
+  <!-- Workshop 5 -->
+  <div class="workshop-section">
+    <h2 class="workshop-title">Workshop 5: Planning and Building for the Long-term When the Future Is Uncertain</h2>
+
+    <h3 class="instructors-heading">Instructor</h3>
+    <div class="instructors-grid">
+      <div class="instructor-card">
+        <img src="img-workshop/peter.jpeg" alt="Peter" class="instructor-photo">
         <div class="instructor-name">Prof. Peter Madden</div>
         <div class="instructor-org">Cardiff University</div>
         <div class="instructor-social">
@@ -173,40 +211,6 @@ css: workshop.css
         
 
 
-      </ul>
-    </div>
-  </div>
-
-  <!-- Workshop 5 -->
-  <div class="workshop-section">
-    <h2 class="workshop-title">Workshop 5: Educating for an Uncertain Future: Pedagogies That Prepare Learners to Adapt</h2>
-
-    <h3 class="instructors-heading">Instructor(s)</h3>
-    <div class="instructors-grid">
-      <div class="instructor-card">
-        <img src="img/instructor4.jpg" alt="Instructor Name" class="instructor-photo">
-        <div class="instructor-name">Full Name</div>
-        <div class="instructor-org">University</div>
-        <div class="instructor-social">
-          <a href="#"><i class="bi bi-globe"></i></a>
-          <a href="#"><i class="bi bi-github"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
-        </div>
-
-        <button class="details-btn"
-          onclick="window.location.href='{{< var site.base-url >}}/workshop/educating-uncertain-future.html'">
-          Workshop Details
-        </button>
-      </div>
-    </div>
-
-    <div class="workshop-details">
-      <h3>Learning Outcomes</h3>
-      <ul>
-        <li>Understand where and how uncertainty arises in educational settings and how learners typically experience it</li>
-        <li>Interpret the evidence base on learners’ cognitive and emotional responses to uncertainty</li>
-        <li>Apply effective, research-informed strategies to help learners develop adaptive skills for managing uncertainty</li>
-        <li>Design a learning activity that intentionally incorporates uncertainty and supports learners in navigating that experience</li>
       </ul>
     </div>
   </div>
