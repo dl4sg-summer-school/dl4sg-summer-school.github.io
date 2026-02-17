@@ -61,5 +61,11 @@
   },
   "speakers/michelle-lazarus.qmd": {
     "michelle-lazarus.html": "06305c45"
+  },
+  "workshop/quantification.qmd": {
+    "quantification.html": "ac829e43"
+  },
+  "workshop/longterm-planning.qmd": {
+    "longterm-planning.html": "60736ae5"
   }
 }
