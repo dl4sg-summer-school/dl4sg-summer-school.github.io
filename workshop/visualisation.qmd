@@ -42,11 +42,11 @@ In this workshop
 - 60 mins: How we communicate uncertainty in data visualisations
 - 15 mins: Closing thoughts, further resources, and time for questions
 
-# Prerequisites
+# Pre-Reading/Pre-work
 
-- There are no specific prerequisites for participants.
+- [Showing uncertainty in charts](https://service-manual.ons.gov.uk/data-visualisation/guidance/showing-uncertainty-in-charts)
 
-# Pre-Reading (Optional)
+- Spiegelhalter, David, Mike Pearson, and Ian Short. "[Visualizing uncertainty about the future](https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf)." science 333.6048 (2011): 1393-1400.
 
 - [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/RSS-data-vis-guide.pdf)
 

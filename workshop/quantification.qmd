@@ -1,0 +1,64 @@
+---
+title: "Quantifying Future Uncertainty"
+toc: true
+page-layout: article
+---
+
+**Instructors 1: Prof. Bahman Rostami-Tabar, Professor of Analytics & Decision Sciences, Cardiff University**
+
+**Instructors 2: Mr. Harsha Halgamuwe Hewage, PhD Student, Cardiff University**
+
+# Speaker Bio
+
+** Bahman Rostami-Tabar**
+
+Bahman is a Professor of Analytics and Decision Sciences at Cardiff Business School, Cardiff University. He founder and director of the Data Lab for Social Good Reserach Group, and lead the Uncertainty & the Future theme at DTII, where he works closely with academic, public, and industry partners on questions that matter for society. His work sits at the intersection of data, uncertainty, and decision-making, with a focus on how advanced analytical methods can support better choices in complex and uncertain futures. So far, his contributions to the field have been recognised with two medals from the OR Society: the Goodeve Medal in 2024, awarded for outstanding contributions to the philosophy, theory, and practice of OR, and the Lyn Thomas Impact Medal in 2025, recognising OR academic research that combines methodological innovation with clear, evidenced real-world impact.
+
+# Summary of the Workshop
+
+This workshop will focus on understanding, quantifying, and interpreting uncertainty in forecasts and predictive models. Drawing on concepts from statistics, and probabilistic forecasting, the session will explore how uncertainty arises, how it can be formally represented, how forecasts are generated, and and how probabilistic forecasts can support more informed analysis and decision-making.
+
+By the end of the workshop, participants will understand key sources of uncertainty and be familiar with practical methods for quantifying future uncertainty, including model based approaches, bootstrap, conformal prediction, and Bayesian  approaches. Participants will also learn how to evaluate forecast quality using statistical metrics, and how model assumptions influence the reliability and interpretation of results.
+
+Through practical examples, hands-on exercises, and discussion, the workshop will equip participants with the skills to generate and critically assess probabilistic forecasts and to interpret and use them appropriately in research and real-world applications.
+
+# Learning Outcomes
+
+By the end of this session, participants will:
+
+- Explain key sources and types of uncertainty and their implications for modelling.
+
+- Apply appropriate methods to quantify and represent future uncertainty.
+
+- Evaluate forecast quality using proper statistical metrics and scoring rules.
+
+- Critically assess the assumptions and limitations of uncertainty quantification methods
+
+- Interpret and use probabilistic forecasts to support analysis and decision-making.
+
+# Structure of the session
+
+In this workshop
+
+- 30 mins: Sources of uncertainty 
+- 60 mins: Approaches to quantify uncertainty
+- 30 mins: Break
+- 60 mins: Assessing forecast quality and use of probabilistic forecasts
+- 15 mins: Closing thoughts, further resources, and time for questions
+
+# Pre-Reading/Pre-work
+
+- [Showing uncertainty in charts](https://service-manual.ons.gov.uk/data-visualisation/guidance/showing-uncertainty-in-charts)
+
+- Spiegelhalter, David, Mike Pearson, and Ian Short. "[Visualizing uncertainty about the future](https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf)." science 333.6048 (2011): 1393-1400.
+
+- [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/RSS-data-vis-guide.pdf)
+
+- [Raftery, A. E. (2016). Use and communication of probabilistic forecasts. Statistical Analysis and Data Mining: The ASA Data Science Journal, 9(6), 397-410.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11302?casa_token=ksi3aFjU87wAAAAA%3AmU48JMAInNAOFAsocZ7oXeesDV65gCjrUqHT_8p7nltapn1OyenrNJBEcPRMwdAdSo6u14UTNsBmELs)
+
+
+# Materials Provided to Participants
+
+- Slides
+- Hands-on exercises and code examples in R and Python
+
