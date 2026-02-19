@@ -14,7 +14,11 @@ She is a Professor and the Director of the Centre for Human Anatomy Education an
 
 # Summary of the Workshop
 
-TBC
+This workshop introduces the concept of uncertainty tolerance and its importance in educational and professional learning environments. It begins by helping participants understand where uncertainty arises in learning, how learners cognitively and emotionally respond to it, and why developing tolerance for uncertainty is essential for effective decision-making, adaptability, and professional growth.
+
+Participants then examine research-informed strategies that support learners in managing uncertainty constructively. These strategies focus on helping learners reframe uncertainty as a normal and valuable part of learning, strengthening their confidence, emotional regulation, and problem-solving skills rather than avoiding ambiguous situations.
+
+The session includes an interactive workshop component where participants reflect on how uncertainty appears in their own teaching or professional contexts. They explore practical ways to design learning activities that intentionally incorporate uncertainty while providing appropriate support, enabling learners to build resilience and adaptive expertise.
 
 # Learning Outcomes
 
@@ -30,12 +34,32 @@ By the end of this session, participants will:
 
 # Structure of the session
 
-TBC
+- 30 mins: Define the uncertainty tolerance concept
+
+- 30 mins: Discuss evidence-based strategies for navigating uncertainty in different contexts
+
+- 30 mins: Break
+
+- 60 mins: Workshop- how uncertainty is presenting within your context and explore strategies for navigating these
 
 # Pre-Reading/Pre-work
 
-TBC
+- [The Uncertainty effect](https://www.amazon.com.au/Uncertainty-Effect-Survive-Through-Unexpected/dp/1922633410)
+
+- [Preparing Learners for Uncertainty in Health Professions (Sections 1 and 2)](https://oercollective.caul.edu.au/uncertainty-in-health-professions/)
+
+- [Balancing knowledge with uncertainty. Teach HQ, Monash University](https://www.monash.edu/learning-teaching/teachhq/be-inspired/teaching-practice-examples/balancing-knowledge-with-uncertainty)
+
+This webpage provides a broad overview of how uncertainty tolerance teaching practices can be integrated across diverse educational contexts and disciplines.
+
+- Lazarus, M. D. (2021). [Preparing todays learners for uncertainty](https://myfuture.edu.au/docs/default-source/insights/preparing-todays-learners-for-uncertainty.pdf?sfvrsn=57a3e0d8_2). 
+
+- Lazarus, M. D. (n.d.). Preparing today’s learners for uncertainty [Webinar](https://publish.viostream.com/play/c-dgcei17).
+
+- MacDonald, J. B., Quinlan, E., Truong, M., & Lazarus, M. (2024). [Managing uncertainty in professional practice](https://aifs.gov.au/sites/default/files/2024-06/2404_Managing%20uncertainty%20in%20professional%20practice.pdf).
+
+- Stephens, G. C., & Lazarus, M. D. (2024). [Twelve tips for developing healthcare learners’ uncertainty tolerance](https://www.tandfonline.com/doi/full/10.1080/0142159X.2024.2307500). Medical Teacher, 46(8), 1035–1043.
 
 # Materials Provided to Participants
 
-TBC
+All materials needed for workshop completion are provided (including card decks and worksheets)
