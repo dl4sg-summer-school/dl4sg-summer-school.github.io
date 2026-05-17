@@ -32,7 +32,7 @@ page-layout: full
             </a>
         </div>
     </div>
-    <a href="https://forms.gle/VChKXLDcmK4aAKmQA" class="btn-custom btn-primary"> <!-- ADD YOUR APPLICATION LINK --><i class="fas fa-external-link-alt"></i> Apply Now - Deadline: 1 March 2026
+    <a href="https://dl4sg-summer-school.github.io/" class="btn-custom btn-primary"> <!-- ADD YOUR APPLICATION LINK --><i class="fas fa-external-link-alt"></i> Applications are closed.
     </a>
   </div>
 </div>
