@@ -168,7 +168,6 @@ cat(
     '<div class="summary-card"><span class="summary-label">Location</span><span class="summary-value">Cardiff University</span></div>',
     '<div class="summary-card"><span class="summary-label">Sessions</span><span class="summary-value">', total_sessions, '</span></div>',
     '</div>',
-    '<div class="program-note">Schedule subject to minor adjustment. The time for Session 15 on Friday is inferred as 09:00 - 10:30 because the supplied final document left that time cell blank.</div>',
     '<nav class="program-nav">', nav_links, '</nav>',
     paste0(day_sections, collapse = ""),
     '</div>'
