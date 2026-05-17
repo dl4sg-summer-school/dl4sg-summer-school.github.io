@@ -1,14 +1,8 @@
-Time,Session,Type,Speaker,Links
-09:00–09:25,Presentation 14,Talk,Speaker,Abstract
-09:25–09:50,Presentation 15,Talk,Speaker,Abstract
-09:50–10:15,Presentation 16,Talk,Speaker,Abstract
-10:15–10:30,Transition,Break,,—
-10:30–11:00,Refreshment Break,Break,,—
-11:00–12:15,Workshop 4 – Session 1,Workshop,Speaker,Description
-12:15–12:30,Presentation 17,Talk,Speaker,Abstract
-12:30–13:30,Lunch,Lunch,,—
-13:30–14:45,Workshop 4 – Session 2,Workshop,Speaker,Description
-14:45–15:15,Refreshment Break,Break,,—
-15:15–15:40,Presentation 18,Talk,Speaker,Abstract
-15:40–16:05,Presentation 19,Talk,Speaker,Abstract
-16:05–17:00,Open Discussion Session,Discussion,Committee,—
+Time,Title,Type,Location,Details,Link
+09:00 - 10:30,Session 11: Workshop,Workshop,"Glamorgan, Room 1.68","Speaker: Bahman Rostami-Tabar || Title: Quantifying Future Uncertainty || Coordinator: Harsha Halgamuwe Hewage",../workshop/quantification.html
+10:30 - 11:00,Break,Break,"Glamorgan, Room 1.67",,
+11:00 - 12:00,Session 12: Keynote,Keynote,"Glamorgan, Room 0.81","Speaker: Barbara Adam || Title: Future Matters: Action, Knowledge, Ethics || Coordinator: Peter Madden",../speakers/barbara-adam.html
+12:30 - 13:30,Lunch,Lunch,"Glamorgan, Room 1.67",,
+13:30 - 14:45,Session 13: Panel 2,Panel,"Glamorgan, Room 0.81","Title: Advancing Uncertainty and Futures Research: What Editors Look For || Panelists: Prof. Pierre Pinson; Dr. Christopher Groves; Prof. Aris Syntetos || Chair: Bahman Rostami-Tabar",../panels/
+14:45 - 15:15,Break,Break,"Glamorgan, Room 1.67",,
+15:15 - 16:45,Session 14: Research presentations,Talk,"Glamorgan, Room 0.81","Steffan James, Cardiff University, UK || Elias Mwakilama, University of Malawi, Malawi || Patrik Dahl, Cardiff University, UK || Matunga Barwell, Cardiff University, UK || Coordinator: Harsha Halgamuwe Hewage",
