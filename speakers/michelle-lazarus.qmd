@@ -1,20 +1,40 @@
 ---
 title: "Michelle Lazarus"
-page-layout: article
+page-layout: full
 ---
 
-# **Discomfort of uncertainty or absurdity of certainty:  navigating uncertainty in an evolving world**
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Talk</p>
 
-# Summary of the Talk
+# Discomfort of uncertainty or absurdity of certainty: navigating uncertainty in an evolving world
 
-This talk will explore the concept of uncertainty tolerance which defines our thoughts, feelings and actions when faced with the unknown.  We will discuss the factors that influence our uncertainty tolerance, and why our brains seek the comfort of certainty, sometimes at the expense of joy.  Finally we will discuss practical steps we can engage to sit in the discomfort and navigate uncertainty to the betterment of ourselves and society.
+<p class="speaker-detail-byline">Speaker: Michelle Lazarus, Monash University</p>
+:::
 
-# Speaker Bio
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
 
-MICHELLE D. LAZARUS, SFHEA, PhD, is a Professor and the Director of the Centre for Human Anatomy Education. She is a globally sought after speaker and an award-winning educator having received the Australian Universities Teaching excellence award, and multi-book author having written the “The Uncertainty Effect:  How to Survive and Thrive through the Unexpected” and “The AI (R)evolution: Valuing Country, Culture and Community in a World of Algorithms" among others. An underlying motivation of her outputs are a focus on democratisation of knowledge - or accessible and available knowledge for all.  Her entire career is a journey into uncertainty.
+This talk explores uncertainty tolerance and the ways it shapes our thoughts, feelings, and actions when faced with the unknown. It considers why the brain often seeks the comfort of certainty, even when that certainty comes at the expense of curiosity, growth, or joy.
 
-# References
+The talk also discusses practical ways of sitting with discomfort and navigating uncertainty in ways that can benefit both individuals and society.
+:::
 
-- Lazarus, M. (2023). [The uncertainty effect: How to survive and thrive through the unexpected](https://amzn.eu/d/hXo81k5). Monash University Pub.
+::: {.content-card}
+## Speaker Bio
 
-- Lazarus, M. D., & Funtowicz, S. (2023). [Learning together: facing the challenges of sustainability transitions by engaging uncertainty tolerance and post-normal science.](https://link.springer.com/article/10.1186/s42055-023-00066-3) Sustainable Earth Reviews, 6(1), 18.
+Michelle D. Lazarus is Professor and Director of the Centre for Human Anatomy Education. She is an award-winning educator, globally invited speaker, and author whose work focuses on democratisation of knowledge and on how individuals and institutions respond to uncertainty.
+
+Her books include *The Uncertainty Effect: How to Survive and Thrive through the Unexpected* and *The AI (R)evolution: Valuing Country, Culture and Community in a World of Algorithms*. Her career has consistently explored how people learn, adapt, and act in uncertain conditions.
+:::
+
+::: {.content-card}
+## References
+
+- [The Uncertainty Effect: How to Survive and Thrive through the Unexpected](https://amzn.eu/d/hXo81k5)
+
+- [Learning together: facing the challenges of sustainability transitions by engaging uncertainty tolerance and post-normal science](https://link.springer.com/article/10.1186/s42055-023-00066-3)
+:::
+:::
+:::

@@ -1,43 +1,72 @@
 ---
 title: "Decision Quality and Uncertainty"
-toc: true
-page-layout: article
+page-layout: full
 ---
 
-**Instructor: Prof. Mohammed A. Mohammed, The Strategy Unit - NHS**
+::: {.page-container .workshop-detail-page}
+::: {.content-card .workshop-detail-hero}
+<p class="workshop-detail-kicker">Workshop</p>
 
-# Speaker Bio
+# Decision Quality and Uncertainty
 
-Professor Mohammed A Mohammed is an academic with extensive experience of applied health services research, including quality of care, patient safety and improvement science. Mohammed has 100+ peer reviewed publications, including landmark papers in the Lancet (on understanding variation in healthcare), BMJ (on bias in hospital mortality statistics), evaluation of a care bundle (JAMA Surgery) and a prize-winning study that developed an electronic frailty index for primary care (Age and Ageing). Mohammed led the development of the first primary care mortality monitoring system (BJGP) and was an expert witness to the Shipman Inquiry (BMJ). His current research projects include the development of automated risk equations for use in hospitals (BMJOpen). Mohammed has delivered scores of highly rated courses on variation, systems thinking, improvement science and mortality statistics to senior and front-line clinical staff in the NHS over the last ten years. Mohammed also founded the NHS-R community – which was written up as an exemplar case study for 21st Century data analytics in the NHS. Mohammed is currently working in the NHS as Head of Innovation & Academic Partnerships at the Strategy Unit. His main area of focus is innovative decision support systems. He is emeritus professor at the University of Bradford and Visiting Professor at Cardiff University.
+<p class="workshop-detail-instructors">Instructor: Prof. Mohammed A. Mohammed, The Strategy Unit - NHS</p>
+:::
 
-# Summary of the Workshop
+::: {.workshop-detail-grid}
+::: {.content-card}
+## Summary
 
-This workshop explores how to make high-quality decisions in complex and uncertain environments. Participants will learn the six elements of decision quality—clear objectives, meaningful alternatives, reliable information, sound reasoning, commitment to action, and alignment with values—and how these principles drive better outcomes. We will examine practical tools for assessing uncertainty and probabilistic thinking, to reduce risk and improve confidence in decision-making. Through interactive exercises and real-world examples, participants will gain insights enhacing decision quality and embracing uncertainty.
+This workshop explores how to make high-quality decisions in complex and uncertain environments. Participants will learn the six elements of decision quality, including clear objectives, meaningful alternatives, reliable information, sound reasoning, commitment to action, and alignment with values, and how these principles drive better outcomes.
 
-# Learning Outcomes
+The session examines practical tools for assessing uncertainty and probabilistic thinking to reduce risk and improve confidence in decision-making. Through interactive exercises and real-world examples, participants will gain insight into improving decision quality while working with uncertainty.
+:::
 
-- **Understand the Six Elements of Decision Quality:** Participants will be able to identify and apply the core components—clear objectives, meaningful alternatives, reliable information, sound reasoning, alignment, and commitment—to improve decision-making effectiveness.
+::: {.content-card}
+## Instructor Bio
 
-- **Analyze and Manage Uncertainty in Decision Processes:** Participants will learn practical techniques and probabilistic thinking to incorporate uncertainty into the decision making process.
+Professor Mohammed A. Mohammed is an academic with extensive experience in applied health services research, including quality of care, patient safety, and improvement science. He has published widely in leading journals and has delivered training on variation, systems thinking, improvement science, and mortality statistics to senior and front-line NHS staff.
 
-# Structure of the session
+He currently works in the NHS as Head of Innovation and Academic Partnerships at the Strategy Unit. His main focus is innovative decision-support systems, and he is also Emeritus Professor at the University of Bradford and Visiting Professor at Cardiff University.
+:::
 
-This two hour interactive workshop will begin decision making and understanding the dimensions of high quality decision making and explore the role of uncertainty and how it can be incorporated to enhance decision quality.
+::: {.content-card}
+## Learning Outcomes
 
-# Prerequisites
+- Understand the six elements of decision quality.
 
-- No prior knowledge is assumed
-- Participants must have an interest in decision making
+- Analyse and manage uncertainty in decision processes.
 
-# Pre-Reading (Optional)
+- Apply probabilistic thinking to improve decision-making effectiveness.
+:::
 
-- [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html
-https://en.wikipedia.org/wiki/Decision_quality)
+::: {.content-card}
+## Session Structure
 
-- [Decision Quality Value Creation from Better Business Decisions](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119176657)
+This two-hour interactive workshop introduces core ideas in decision-making and explores the role of uncertainty in enhancing decision quality.
+:::
 
+::: {.content-card}
+## Prerequisites
 
-# Materials Provided to Participants
+- No prior knowledge is assumed.
 
-Slides
+- Participants should have an interest in decision-making.
+:::
 
+::: {.content-card}
+## Pre-Reading
+
+- [Uncertainty Toolkit for Analysts in Government](https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/index.html)
+
+- [Decision quality overview](https://en.wikipedia.org/wiki/Decision_quality)
+
+- [Decision Quality: Value Creation from Better Business Decisions](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119176657)
+:::
+
+::: {.content-card}
+## Materials
+
+- Slides
+:::
+:::
+:::

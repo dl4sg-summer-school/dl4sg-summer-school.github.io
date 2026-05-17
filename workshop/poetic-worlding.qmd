@@ -1,0 +1,62 @@
+---
+title: "Agitate, anticipate, aggregate: Worlding new systems for learning and living through poetic engagement across disciplines"
+page-layout: full
+---
+
+::: {.page-container .workshop-detail-page}
+::: {.content-card .workshop-detail-hero}
+<p class="workshop-detail-kicker">Workshop</p>
+
+# Agitate, anticipate, aggregate: Worlding new systems for learning and living through poetic engagement across disciplines
+
+<p class="workshop-detail-instructors">Instructors: Dr Laura Barritt, Cardiff University; Dr Theo Humphries, Cardiff Metropolitan University</p>
+:::
+
+::: {.workshop-detail-grid}
+::: {.content-card}
+## Summary
+
+This workshop invites participants to collaborate in shared meaning-making activities that can inform new ways of worlding more ethical and responsible futures in transdisciplinary higher education spaces. Through creating and opening a shared ontological space, the session explores pedagogical strategies that correspond to the profound disruptions facing education in complex and uncertain times.
+
+Building on the work of scholars such as Biesta, Galea, Weber, and Haraway, the workshop encourages participants to stay with the trouble and engage poetically with the unknown in ways that may world different futures together. It foregrounds pedagogies of playfulness, humour, and hope as ways to agitate accepted understandings, anticipate what may have been overlooked, and aggregate new ways of shaping learning experiences.
+:::
+
+::: {.content-card}
+## Instructor Bio
+
+Laura Barritt is based at Cardiff University and works across interdisciplinary questions of learning, pedagogy, and creative practice. Theo Humphries is based at Cardiff Metropolitan University and contributes expertise in education, collaboration, and reflective practice. Together, they bring a shared interest in poetic and participatory approaches to learning in uncertain times.
+:::
+
+::: {.content-card}
+## Learning Outcomes
+
+- Understand how poetic engagement can support shared meaning-making in uncertain educational contexts.
+
+- Explore playfulness, humour, and hope as pedagogical tools for transdisciplinary collaboration.
+
+- Experiment with creative methods for reframing assumptions and imagining alternative futures.
+
+- Reflect on how poetic and collaborative practices can inform future pedagogical design.
+:::
+
+::: {.content-card}
+## Session Structure
+
+This session runs for approximately 1 to 1.5 hours and includes:
+
+- Activity briefing and discussion on the importance of poetic spaces in learning, including a starter story on learning paradigms.
+
+- Introduction to playfulness, humour, and hope as pedagogical tools for poetic engagement.
+
+- Creative activities involving drawing, collage, blackout poetry, and open-sentence exercises.
+
+- Collaborative engagement with other participants in small groups.
+
+- Collective and individual reflections.
+
+- Sharing and discussion of developments that emerge through the session, with attention to future pedagogical implications.
+
+- Debriefing and reflections.
+:::
+:::
+:::

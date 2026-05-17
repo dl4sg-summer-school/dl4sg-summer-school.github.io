@@ -1,59 +1,76 @@
 ---
 title: "Communicating and Visualising Future Uncertainty"
-toc: true
-page-layout: article
+page-layout: full
 ---
 
-**Instructor: Nicola Rennie, Data Visualisation Specialist at Office for National Statistics**
+::: {.page-container .workshop-detail-page}
+::: {.content-card .workshop-detail-hero}
+<p class="workshop-detail-kicker">Workshop</p>
 
+# Communicating and Visualising Future Uncertainty
 
+<p class="workshop-detail-instructors">Instructor: Dr Nicola Rennie, Data Visualisation Specialist, Office for National Statistics</p>
+:::
 
-# Speaker Bio
+::: {.workshop-detail-grid}
+::: {.content-card}
+## Summary
 
-Nicola Rennie is a data visualisation specialist with a background in statistics and operational research, who is interested in understanding how to effectively communicate complex quantitative ideas in an accessible way. She advocates for using open source tools, and has experience in D3, Svelte, R, and Python. Nicola co-authored the Royal Statistical Society’s Best Practices for Data Visualisation guidance and is a member of the Editorial Board of Significance magazine, particularly focused on data visualisation. 
+This interactive workshop focuses on best practices for communicating uncertainty through language and visual storytelling. It brings together principles from data journalism, data visualisation, and content design to explore how uncertainty can be represented in ways that are both accurate and engaging.
 
-# Summary of the Workshop
+Participants will learn when and how to discuss uncertainty from different sources, how to avoid overwhelming or misleading audiences, and how to use different chart types to visualise uncertainty effectively.
+:::
 
-This interactive workshop will focus on best practices for communicating uncertainty through language and visual storytelling. The workshop brings together principles from data journalism, data visualisation, and content design to explore how uncertainty can be represented in ways that are both accurate and engaging.
+::: {.content-card}
+## Instructor Bio
 
-By the end of the session, participants will understand why it’s important to be upfront about uncertainty and be aware of best practice principles they can use to know when and how to discuss uncertainty from different sources. Participants will learn about approaches to communicating uncertainty without overwhelming or misleading audiences. They will also develop techniques for visualising uncertainty, using a variety of different chart types. 
+Nicola Rennie is a data visualisation specialist with a background in statistics and operational research. She is interested in communicating complex quantitative ideas in accessible ways and advocates for open-source tools. Her experience includes D3, Svelte, R, and Python.
 
-Through practical exercises, real‑world examples, and group discussion, the session will provide a toolkit for communicating complex data in a way that allows better evidence-based decision making.
+She co-authored the Royal Statistical Society's best-practice guidance on data visualisation and serves on the editorial board of *Significance* magazine with a particular focus on visual communication.
+:::
 
-# Learning Outcomes
+::: {.content-card}
+## Learning Outcomes
 
-By the end of this session, participants will:
+- Understand how communicating uncertainty can increase trustworthiness.
 
-- Understand how communicating uncertainty can increase trustworthiness and know when it is important and appropriate to talk about uncertainty
+- Use language that explains uncertainty clearly, especially for non-technical audiences.
 
-- Have an understanding of the language used to describe and communicate uncertainty, especially for non-technical audiences
+- Know when it is and is not appropriate to show uncertainty in visualisations.
 
-- Know when it is and isn’t appropriate to show uncertainty in visualisations
+- Create a range of chart types for showing uncertainty and apply best practices.
+:::
 
-- Be able to create a range of chart types for showing uncertainty and follow best practices when doing so
+::: {.content-card}
+## Session Structure
 
-# Structure of the session
+- 15 mins: Introduction to communicating uncertainty.
 
-In this workshop
+- 60 mins: Principles of communicating uncertainty and the language of uncertainty.
 
-- 15 mins: Introduction to communicating uncertainty 
-- 60 mins: Principles of communicating uncertainty and the language of uncertainty
-- 30 mins: Break
-- 60 mins: How we communicate uncertainty in data visualisations
-- 15 mins: Closing thoughts, further resources, and time for questions
+- 30 mins: Break.
 
-# Pre-Reading/Pre-work
+- 60 mins: Visualising uncertainty in data communication.
+
+- 15 mins: Closing thoughts, further resources, and questions.
+:::
+
+::: {.content-card}
+## Pre-Reading
 
 - [Showing uncertainty in charts](https://service-manual.ons.gov.uk/data-visualisation/guidance/showing-uncertainty-in-charts)
 
-- Spiegelhalter, David, Mike Pearson, and Ian Short. "[Visualizing uncertainty about the future](https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf)." science 333.6048 (2011): 1393-1400.
+- [Visualizing uncertainty about the future](https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf)
 
 - [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/RSS-data-vis-guide.pdf)
 
-- [Raftery, A. E. (2016). Use and communication of probabilistic forecasts. Statistical Analysis and Data Mining: The ASA Data Science Journal, 9(6), 397-410.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11302?casa_token=ksi3aFjU87wAAAAA%3AmU48JMAInNAOFAsocZ7oXeesDV65gCjrUqHT_8p7nltapn1OyenrNJBEcPRMwdAdSo6u14UTNsBmELs)
+- [Use and communication of probabilistic forecasts](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11302?casa_token=ksi3aFjU87wAAAAA%3AmU48JMAInNAOFAsocZ7oXeesDV65gCjrUqHT_8p7nltapn1OyenrNJBEcPRMwdAdSo6u14UTNsBmELs)
+:::
 
-
-# Materials Provided to Participants
+::: {.content-card}
+## Materials
 
 - Slides
-
+:::
+:::
+:::

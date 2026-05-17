@@ -1,26 +1,42 @@
 ---
 title: "Bill Sharpe"
-page-layout: article
+page-layout: full
 ---
 
-# **Finding ourselves in the future**
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Talk</p>
 
-# Summary of the Talk
+# Finding ourselves in the future
 
-How are we to act in the face of the existential risks we face? How can we meet the uncertainty and complexity of the future with hope? If we are all to live well and thrive on one planet we must bring about profound changes in our ways of life. 
+<p class="speaker-detail-byline">Speaker: Bill Sharpe, Future Stewards</p>
+:::
 
-Whilst the need and urgency is rising, and many tools and methods are available, most people and organisations still lack even basic capacities to convene conversations for transformative action.
-This talk will introduce Three Horizons – a simple yet powerful futures practice that enables us to see patterns of life, our role in sustaining or changing them, and brings people together from a perspective of hope and agency.
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
 
-Over the last 20 years Three Horizons has established itself as an approach that can be used in any context to mobilise our capacity for ‘future consciousness’: an awareness of the future potential of the present moment and the ability to use that insight to get into practical transformative action.
+How are we to act in the face of existential risks? How can we meet the uncertainty and complexity of the future with hope? If we are all to live well and thrive on one planet, profound changes in our ways of life will be required.
 
+This talk introduces Three Horizons, a simple but powerful futures practice that helps people see patterns of life, understand their role in sustaining or changing them, and convene conversations for transformative action. It focuses on how futures practice can cultivate hope, agency, and future consciousness in practical settings.
+:::
 
-# Speaker Bio
+::: {.content-card}
+## Speaker Bio
 
-Bill is a futures practitioner and systems thinker, specialising in the intersection between science, technology, and society.  Following a career of innovation in the computer industry he has focussed on helping organisations meet the challenges of a complex and uncertain future.  He is known for pioneering the Three Horizons futures practice and is author of Three Horizons: the patterning of hope.   Bill is a co-founder of [Future Stewards](http://www.futurestewards.com/), the home of the Three Horizons Hub and Commons, working to build a regenerative future where we meet the needs of all life to flourish within the means of the planet.  
+Bill Sharpe is a futures practitioner and systems thinker specialising in the intersection of science, technology, and society. After a career of innovation in the computer industry, he turned his attention to helping organisations meet the challenges of a complex and uncertain future.
 
-# References
+He is known for pioneering the Three Horizons futures practice and is the author of *Three Horizons: The Patterning of Hope*. He is also a co-founder of [Future Stewards](http://www.futurestewards.com/), which works to build regenerative futures where all life can flourish within the means of the planet.
+:::
+
+::: {.content-card}
+## References
 
 - [Working with the future](https://www.youtube.com/watch?v=U-LTis8kVd4)
+
 - [Introduction to Three Horizons](https://www.youtube.com/watch?v=p90ZTg0svmM&feature=youtu.be)
+
 - [Three voices](https://www.youtube.com/watch?v=M1fUvIu0sYA&feature=youtu.be)
+:::
+:::
+:::

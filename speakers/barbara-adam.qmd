@@ -1,18 +1,38 @@
 ---
 title: "Barbara Adam"
-page-layout: article
+page-layout: full
 ---
 
-# **Future Matters: Action, Knowledge, Ethics**
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Talk</p>
 
-# Summary of the Talk
+# Future Matters: Action, Knowledge, Ethics
 
-Social lives are lived prospectively with intent and visions of what will, could and should be. However, this social futurity is not merely hoped for, expected and/or anticipated, it is also enacted continuously in everyday and institutional practices. Yet, to encompass this central feature of plans and actions poses great challenges for all evidence-based knowledge practices, where the future is assumed to be not-yet, thus not factual. In my reflections, on the Summer School’s theme of the ‘Art and Science of Uncertainty and the Future’, I examine some of the anomalies that arise for institutional practice that explicitly pursue responsible future making. I will explore some openings for change and encourage the participants to engage with challenges that arise in their respective spheres of influence.
+<p class="speaker-detail-byline">Speaker: Barbara Adam, Cardiff University</p>
+:::
 
-# Speaker Bio
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
 
-Barbara Adam is emerita Professor at Cardiff University. The social temporal has been the primary intellectual project of her academic career, resulting in six research monographs, numerous edited books and journals as well as a large number of journal articles. As the social theory of time(s) and futures transcends disciplines, her work is taught across the arts and humanities as well as the social and environmental sciences. She is the founding editor of the international journal Time & Society.
+Social lives are lived prospectively with intent and visions of what will, could, and should be. Yet social futurity is not merely hoped for or anticipated: it is enacted continuously in everyday and institutional practices. To account for this central feature of plans and actions poses major challenges for evidence-based knowledge practices, where the future is assumed to be not-yet and therefore not factual.
 
-# References
+This talk reflects on the summer school's theme of uncertainty and the future by examining anomalies that arise for institutional practices that explicitly pursue responsible future making. It explores openings for change and encourages participants to engage with the challenges that arise in their own spheres of influence.
+:::
 
-Adam, B. and Groves, C. 2007 Future Matters: Action, Knowledge, Ethics. Leiden, Brill.
+::: {.content-card}
+## Speaker Bio
+
+Barbara Adam is Emerita Professor at Cardiff University. The social temporal has been the primary intellectual project of her academic career, leading to six research monographs, numerous edited books and journals, and a large number of articles.
+
+Because her social theory of time and futures cuts across disciplines, her work is taught across the arts, humanities, social sciences, and environmental sciences. She is also the founding editor of the international journal *Time & Society*.
+:::
+
+::: {.content-card}
+## References
+
+- Adam, B. and Groves, C. (2007). *Future Matters: Action, Knowledge, Ethics*. Leiden: Brill.
+:::
+:::
+:::

@@ -1,54 +1,68 @@
 ---
 title: "Planning and Building for the Long-term When the Future Is Uncertain"
-toc: true
-page-layout: article
+page-layout: full
 ---
 
-**Instructor: Professor Peter Madden, Professor of Practice in Future Cities, Cardiff University**
+::: {.page-container .workshop-detail-page}
+::: {.content-card .workshop-detail-hero}
+<p class="workshop-detail-kicker">Workshop</p>
 
-# Speaker Bio
+# Planning and Building for the Long-term When the Future Is Uncertain
 
-Peter is Professor of Practice in Future Cities, helping to engage with businesses and city administrations to stimulate collaborative work and maximise research impact. His work explores how engagement with the future can help us create better places for people and planet. As well as his role with Cardiff University,  he is Founder Director of Vivid Futures providing strategic foresight and future-proofing for the built environment. Previously, he led Future Cities Catapult, Forum for the Future, and Green Alliance, as well as holding senior positions in government (DETR/Defra and Environment Agency). He has held Board roles with Building with Nature (Chair) The Crown Estate, Bristol Energy, Trane Technologies, Groundwork UK, and the South West RDA. He currently sits on the Advisory Board of Igloo Regeneration. He was awarded an OBE in 2015 for services to environmental protection and sustainable development.
+<p class="workshop-detail-instructors">Instructor: Prof. Peter Madden, Professor of Practice in Future Cities, Cardiff University</p>
+:::
 
-# Summary of the Workshop
+::: {.workshop-detail-grid}
+::: {.content-card}
+## Summary
 
-This interactive workshop will explore how planners, designers, and decision-makers can prepare for long-term change in the face of uncertainty and instability. Focusing on the built environment, the session will examine how uncertainty related to climate, technology, demographics, and socio-economic change affects decisions about homes, neighbourhoods, and infrastructure.
+This interactive workshop explores how planners, designers, and decision-makers can prepare for long-term change in the face of uncertainty and instability. Focusing on the built environment, it examines how climate, technology, demographics, and socio-economic change affect decisions about homes, neighbourhoods, and infrastructure.
 
-Participants will be introduced to practical and conceptual approaches for designing resilient and adaptable systems, including methods for stress-testing plans against uncertain futures and identifying strategies that remain effective across a range of possible scenarios. The workshop will highlight the importance of flexibility, robustness, and forward-looking thinking in long-term planning.
+Participants are introduced to practical and conceptual approaches for designing resilient and adaptable systems, including methods for stress-testing plans against uncertain futures and identifying strategies that remain effective across a range of possible scenarios.
+:::
 
-Through real-world case studies, discussion, and applied exercises, participants will develop skills to critically evaluate planning decisions and design approaches that are better able to perform under uncertain and changing future conditions.
+::: {.content-card}
+## Instructor Bio
 
+Peter Madden is Professor of Practice in Future Cities at Cardiff University and Founder Director of Vivid Futures. His work explores how engagement with the future can help create better places for people and planet.
 
-# Learning Outcomes
+Previously, he led Future Cities Catapult, Forum for the Future, and Green Alliance, and held senior positions in government and the Environment Agency. He has also served on a range of boards across environment, regeneration, and infrastructure. He was awarded an OBE in 2015 for services to environmental protection and sustainable development.
+:::
 
-By the end of this session, participants will:
+::: {.content-card}
+## Learning Outcomes
 
 - Understand how instability and uncertainty shape long-term decisions in the built environment.
 
 - Examine practical and theoretical approaches for planning and designing resilient homes, neighbourhoods, and infrastructure.
 
-- Evaluate strategies for making decisions today that remain robust under future conditions that are difficult to predict.
+- Evaluate strategies for making decisions today that remain robust under difficult-to-predict future conditions.
 
-- Apply insights from real-world case studies to develop more adaptive and forward-looking planning practices.
+- Apply case-study insights to develop more adaptive and forward-looking planning practices.
+:::
 
-# Structure of the session
+::: {.content-card}
+## Session Structure
 
-In this workshop
+- 15 mins: Introduction to uncertainty and instability in the built environment.
 
-- 15 minutes: Introduction to uncertainty and instability in the built environment, and their implications for long-term planning and design
+- 45 mins: Approaches for planning and designing resilient and adaptable homes, neighbourhoods, and infrastructure.
 
-- 45 minutes: Approaches for planning and designing resilient and adaptable homes, neighbourhoods, and infrastructure
+- 30 mins: Break.
 
-- 30 minutes: Break
+- 60 mins: Case studies and interactive exercises on robust and future-ready planning strategies.
+:::
 
-- 60 minutes: Case studies and interactive exercises on developing robust and future-ready planning strategies
+::: {.content-card}
+## Pre-Reading
 
+Pre-reading will be shared if required.
+:::
 
+::: {.content-card}
+## Materials
 
-# Pre-Reading/Pre-work
-
-
-
-# Materials Provided to Participants
-
-
+Materials will be provided during the session.
+:::
+:::
+:::

@@ -1,37 +1,28 @@
 ---
 format: html
-page-layout: full 
+page-layout: full
 ---
 
 ```{=html}
-
-<link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css)">
-
 <div class="full-width-hero">
-
-<!-- CTA Section -->
 <div class="cta-section">
     <h1>Ready to Shape the Future?</h1>
-    <p>Applications for our 2026 Summer School are now open. Join a diverse cohort of 40 participants in Cardiff for an intensive week of collaboration, learning, and creative exploration.</p>
-    <a href="https://forms.gle/VChKXLDcmK4aAKmQA" class="btn-custom">Apply Now</a>
+    <p>Applications for the 2026 Summer School are now closed. Contact the team if you would like to hear about future editions.</p>
+    <a href="mailto:halgamuwehewagehr@cardiff.ac.uk" class="btn-custom">Contact us</a>
 
-<br>
+    <br>
 
-<p>The summer school is aimed at PhD students, postdoctoral researchers, and early-career academics and practitioners from across disciplines.</p>
+    <p>The summer school is aimed at PhD students, postdoctoral researchers, and early-career academics and practitioners from across disciplines.</p>
 
     <p class="contact-info">
         Questions? Please contact <a href="mailto:halgamuwehewagehr@cardiff.ac.uk">halgamuwehewagehr@cardiff.ac.uk</a>.
     </p>
 </div>
 
-<!-- Footer Section -->
 <div class="footer-section">
-    <p>Established and Hosted by the Data Lab for Social Good Research Group, Cardiff Business School, Cardiff University.</p>
+    <p>Established and hosted by the Data Lab for Social Good Research Group, Cardiff Business School, Cardiff University.</p>
     <p><small>Our summer school logo is inspired by <a href="https://x.com/waitbutwhy/status/1367871165319049221" target="_blank">this tweet from Tim Urban</a>.</small></p>
-    <p class="university-name">Data Lab for Social Good © 2025</p>
+    <p class="university-name">Data Lab for Social Good Copyright 2025</p>
 </div>
-
 </div>
-
 ```
-

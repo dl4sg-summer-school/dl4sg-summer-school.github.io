@@ -1,219 +1,215 @@
 ---
 format: html
 page-layout: full
-css: workshop.css
 ---
 
 ```{=html}
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+<div class="page-container workshops-page">
 
-<div class="workshops-container">
-
-  <!-- Workshop 1 -->
-  <div class="workshop-section">
-    <h2 class="workshop-title">Workshop 1: Decision Quality and Uncertainty</h2>
-
-    <h3 class="instructors-heading">Instructor</h3>
-    <div class="instructors-grid">
-      <div class="instructor-card">
-        <img src="https://via.placeholder.com/150" alt="No-Photo by Instructor" class="instructor-photo">
-        <div class="instructor-name">Prof. Mohammed A. Mohammed</div>
-        <div class="instructor-org">Strategy Unit - NHS</div>
-        <div class="instructor-social">
-          <a href="https://www.strategyunitwm.nhs.uk/author/mohammed-amin-mohammed"><i class="bi bi-globe"></i></a>
-          <a href="https://orcid.org/0000-0003-0987-4268"><i class="bi bi-fingerprint"></i></a>
-          <a href="https://www.bradford.ac.uk/staff/mamohammed5/"><i class="bi bi-globe"></i></a>
+  <div class="workshops-list">
+    <section class="workshop-card">
+      <div class="workshop-card-header">
+        <div>
+          <p class="workshop-slot">Day 1</p>
+          <h2>Decision Quality and Uncertainty</h2>
         </div>
-
+        <div class="workshop-time">11:30-12:30 and 13:30-15:00</div>
       </div>
-    </div>
+      <div class="workshop-instructors">
+        <article class="workshop-person">
+          <div class="workshop-avatar workshop-avatar-placeholder" aria-hidden="true"></div>
+          <h3>Prof. Mohammed A. Mohammed</h3>
+          <p>The Strategy Unit - NHS</p>
+          <div class="workshop-links">
+            <a href="https://www.strategyunitwm.nhs.uk/author/mohammed-amin-mohammed" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+            <a href="https://orcid.org/0000-0003-0987-4268" title="ORCID" aria-label="ORCID"><i class="bi bi-fingerprint"></i></a>
+            <a href="https://www.bradford.ac.uk/staff/mamohammed5/" title="University page" aria-label="University page"><i class="bi bi-building"></i></a>
+          </div>
+        </article>
+      </div>
+      <div class="workshop-summary">
+        <a class="workshop-cta" href="decision-quality.html" title="Workshop details" aria-label="Workshop details"><i class="bi bi-file-earmark-text"></i><span>Workshop details</span></a>
+        <h3>Learning outcomes</h3>
+        <ul>
+          <li>Understand the role of uncertainty in decision-making processes.</li>
+          <li>Understand the six elements of decision quality.</li>
+          <li>Analyse and manage uncertainty in decision processes.</li>
+        </ul>
+      </div>
+    </section>
 
-    <div class="workshop-details">
-    
-            <button class="details-btn"
-          onclick="window.location.href='decision-quality.html'">
-          Workshop Details
-        </button>
-        
-      <h3>Learning Outcomes</h3>
-      <ul>
-        <li>Understand the Role of Uncertainty in Decision-Making Processes</li>
-        <li>Understand the Six Elements of Decision Quality</li>
-        <li>Analyze and Manage Uncertainty in Decision Processes</li>
-      </ul>
-    </div>
+    <section class="workshop-card">
+      <div class="workshop-card-header">
+        <div>
+          <p class="workshop-slot">Day 1</p>
+          <h2>Agitate, anticipate, aggregate: Worlding new systems for learning and living through poetic engagement across disciplines</h2>
+        </div>
+        <div class="workshop-time">15:30-17:00</div>
+      </div>
+      <div class="workshop-instructors">
+        <article class="workshop-person">
+          <img src="img-workshop/Laura.png" alt="Dr Laura Barritt" class="workshop-avatar">
+          <h3>Dr Laura Barritt</h3>
+          <p>Cardiff University</p>
+          <div class="workshop-links">
+            <a href="https://profiles.cardiff.ac.uk/staff/barrittl" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+          </div>
+        </article>
+        <article class="workshop-person">
+          <div class="workshop-avatar workshop-avatar-placeholder" aria-hidden="true"></div>
+          <h3>Dr Theo Humphries</h3>
+          <p>Cardiff Metropolitan University</p>
+          <div class="workshop-links">
+            <a href="https://www.cardiffmet.ac.uk/staff/theo-humphries/" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+          </div>
+        </article>
+      </div>
+      <div class="workshop-summary">
+        <a class="workshop-cta" href="poetic-worlding.html" title="Workshop details" aria-label="Workshop details"><i class="bi bi-file-earmark-text"></i><span>Workshop details</span></a>
+        <h3>Learning outcomes</h3>
+        <ul>
+          <li>Explore poetic engagement as a method for shared meaning-making across disciplines.</li>
+          <li>Use playfulness, humour, and hope as pedagogical tools for working with uncertainty.</li>
+          <li>Collaboratively generate new ways of imagining ethical and responsible futures in education.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="workshop-card">
+      <div class="workshop-card-header">
+        <div>
+          <p class="workshop-slot">Day 2</p>
+          <h2>Educating for an Uncertain Future: Pedagogies That Prepare Learners to Adapt</h2>
+        </div>
+        <div class="workshop-time">13:30-14:45 and 15:15-16:30</div>
+      </div>
+      <div class="workshop-instructors">
+        <article class="workshop-person">
+          <img src="img-workshop/michelle.jpg" alt="Prof. Michelle Lazarus" class="workshop-avatar">
+          <h3>Prof. Michelle Lazarus</h3>
+          <p>Monash University</p>
+          <div class="workshop-links">
+            <a href="https://michelledlazarus.wordpress.com/" title="Website" aria-label="Website"><i class="bi bi-globe"></i></a>
+            <a href="https://www.linkedin.com/in/michelle-lazarus-4b19ab222/?originalSubdomain=au" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+          </div>
+        </article>
+      </div>
+      <div class="workshop-summary">
+        <a class="workshop-cta" href="educating.html" title="Workshop details" aria-label="Workshop details"><i class="bi bi-file-earmark-text"></i><span>Workshop details</span></a>
+        <h3>Learning outcomes</h3>
+        <ul>
+          <li>Understand where and how uncertainty arises in educational settings and how learners experience it.</li>
+          <li>Interpret the evidence base on cognitive and emotional responses to uncertainty.</li>
+          <li>Apply research-informed strategies to help learners develop adaptive skills for managing uncertainty.</li>
+          <li>Design learning activities that intentionally incorporate uncertainty.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="workshop-card">
+      <div class="workshop-card-header">
+        <div>
+          <p class="workshop-slot">Day 3</p>
+          <h2>Communicating and Visualising Future Uncertainty</h2>
+        </div>
+        <div class="workshop-time">09:15-10:30 and 11:00-12:15</div>
+      </div>
+      <div class="workshop-instructors">
+        <article class="workshop-person">
+          <img src="img-workshop/nicola.jpg" alt="Dr Nicola Rennie" class="workshop-avatar">
+          <h3>Dr Nicola Rennie</h3>
+          <p>Office for National Statistics</p>
+          <div class="workshop-links">
+            <a href="https://nrennie.rbind.io/" title="Website" aria-label="Website"><i class="bi bi-globe"></i></a>
+            <a href="https://github.com/nrennie" title="GitHub" aria-label="GitHub"><i class="bi bi-github"></i></a>
+            <a href="https://www.linkedin.com/in/nicola-rennie/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+          </div>
+        </article>
+      </div>
+      <div class="workshop-summary">
+        <a class="workshop-cta" href="visualisation.html" title="Workshop details" aria-label="Workshop details"><i class="bi bi-file-earmark-text"></i><span>Workshop details</span></a>
+        <h3>Learning outcomes</h3>
+        <ul>
+          <li>Understand how communicating uncertainty can increase trustworthiness.</li>
+          <li>Use language that explains uncertainty clearly for non-technical audiences.</li>
+          <li>Know when visualising uncertainty is and is not appropriate.</li>
+          <li>Apply best practices for showing uncertainty in charts.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="workshop-card">
+      <div class="workshop-card-header">
+        <div>
+          <p class="workshop-slot">Day 4</p>
+          <h2>Quantifying Future Uncertainty</h2>
+        </div>
+        <div class="workshop-time">09:00-10:30</div>
+      </div>
+      <div class="workshop-instructors">
+        <article class="workshop-person">
+          <img src="img-workshop/bahman.JPG" alt="Prof. Bahman Rostami-Tabar" class="workshop-avatar">
+          <h3>Prof. Bahman Rostami-Tabar</h3>
+          <p>Cardiff University</p>
+          <div class="workshop-links">
+            <a href="https://profiles.cardiff.ac.uk/staff/rostami-tabarb" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+            <a href="https://github.com/bahmanrostamitabar" title="GitHub" aria-label="GitHub"><i class="bi bi-github"></i></a>
+            <a href="https://www.linkedin.com/in/bahman-rostami-tabar-1046171a/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+          </div>
+        </article>
+        <article class="workshop-person">
+          <img src="img-workshop/harsha.avif" alt="Harsha Halgamuwe Hewage" class="workshop-avatar">
+          <h3>Harsha Halgamuwe Hewage</h3>
+          <p>Cardiff University</p>
+          <div class="workshop-links">
+            <a href="https://profiles.cardiff.ac.uk/staff/halgamuwehewagehr" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+            <a href="https://github.com/chamara7h" title="GitHub" aria-label="GitHub"><i class="bi bi-github"></i></a>
+            <a href="https://www.linkedin.com/in/harshachamara/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+          </div>
+        </article>
+      </div>
+      <div class="workshop-summary">
+        <a class="workshop-cta" href="quantification.html" title="Workshop details" aria-label="Workshop details"><i class="bi bi-file-earmark-text"></i><span>Workshop details</span></a>
+        <h3>Learning outcomes</h3>
+        <ul>
+          <li>Explain key sources and types of uncertainty and their implications for modelling.</li>
+          <li>Apply appropriate methods to quantify and represent future uncertainty.</li>
+          <li>Evaluate forecast quality using proper statistical metrics and scoring rules.</li>
+          <li>Interpret and use probabilistic forecasts to support analysis and decision-making.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="workshop-card">
+      <div class="workshop-card-header">
+        <div>
+          <p class="workshop-slot">Day 5</p>
+          <h2>Planning and Building for the Long-term When the Future Is Uncertain</h2>
+        </div>
+        <div class="workshop-time">11:00-12:30</div>
+      </div>
+      <div class="workshop-instructors">
+        <article class="workshop-person">
+          <img src="img-workshop/peter.jpeg" alt="Prof. Peter Madden" class="workshop-avatar">
+          <h3>Prof. Peter Madden</h3>
+          <p>Cardiff University</p>
+          <div class="workshop-links">
+            <a href="https://profiles.cardiff.ac.uk/staff/maddenp1" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+            <a href="https://www.linkedin.com/in/professor-peter-madden-obe/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+          </div>
+        </article>
+      </div>
+      <div class="workshop-summary">
+        <a class="workshop-cta" href="longterm-planning.html" title="Workshop details" aria-label="Workshop details"><i class="bi bi-file-earmark-text"></i><span>Workshop details</span></a>
+        <h3>Learning outcomes</h3>
+        <ul>
+          <li>Understand how instability and uncertainty shape long-term decisions in the built environment.</li>
+          <li>Examine practical and theoretical approaches for planning and designing resilient homes, neighbourhoods, and infrastructure.</li>
+          <li>Evaluate strategies for making decisions today that remain robust under uncertain future conditions.</li>
+          <li>Apply case-study insights to build more adaptive and forward-looking planning practices.</li>
+        </ul>
+      </div>
+    </section>
   </div>
-
-  <!-- Workshop 2 -->
-  <div class="workshop-section">
-    <h2 class="workshop-title">Workshop 2: Communicating and Visualising Future Uncertainty</h2>
-
-    <h3 class="instructors-heading">Instructor(s)</h3>
-    <div class="instructors-grid">
-      <div class="instructor-card">
-        <img src="img-workshop/nicola.jpg" alt="Nicola Rennie" class="instructor-photo">
-        <div class="instructor-name">Dr. Nicola Rennie</div>
-        <div class="instructor-org">Office for National Statistics</div>
-        <div class="instructor-social">
-          <a href="https://nrennie.rbind.io/"><i class="bi bi-globe"></i></a>
-          <a href="https://github.com/nrennie"><i class="bi bi-github"></i></a>
-          <a href="https://www.linkedin.com/in/nicola-rennie/"><i class="bi bi-linkedin"></i></a>
-        </div>
-
-      </div>
-
-      <div class="instructor-card">
-        <img src="img/instructor2b.jpg" alt="Instructor Name" class="instructor-photo">
-        <div class="instructor-name">TBC</div>
-        <div class="instructor-org">University</div>
-        <div class="instructor-social">
-          <a href="#"><i class="bi bi-globe"></i></a>
-          <a href="#"><i class="bi bi-github"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
-        </div>
-      </div>
-    </div>
-
-    <div class="workshop-details">
-    
-            <button class="details-btn"
-          onclick="window.location.href='visualisation.html'">
-          Workshop Details
-        </button>
-        
-      <h3>Learning Outcomes</h3>
-      <ul>
-        <li>Understand how communicating uncertainty can increase trustworthiness</li>
-        <li>Have an understanding of the language used to describe and communicate uncertainty</li>
-        <li>Know when it is and isn’t appropriate to show uncertainty in visualisations</li>
-        <li>Be able to follow best practices</li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- Workshop 3 -->
-  <div class="workshop-section">
-    <h2 class="workshop-title">Workshop 3: Quantifying Future Uncertainty</h2>
-
-    <h3 class="instructors-heading">Instructor(s)</h3>
-    <div class="instructors-grid">
-      <div class="instructor-card">
-        <img src="img-workshop/bahman.JPG" alt="Bahman" class="instructor-photo">
-        <div class="instructor-name">Prof. Bahman Rostami-Tabar</div>
-        <div class="instructor-org">Cardiff University</div>
-        <div class="instructor-social">
-          <a href="https://profiles.cardiff.ac.uk/staff/rostami-tabarb"><i class="bi bi-globe"></i></a>
-          <a href="https://github.com/bahmanrostamitabar"><i class="bi bi-github"></i></a>
-          <a href="https://www.linkedin.com/in/bahman-rostami-tabar-1046171a/"><i class="bi bi-linkedin"></i></a>
-        </div>
-
-      </div>
-
-      <div class="instructor-card">
-        <img src="img-workshop/harsha.avif" alt="Harsha Halgamuwe Hewage " class="instructor-photo">
-        <div class="instructor-name">Harsha Halgamuwe Hewage </div>
-        <div class="instructor-org">Cardiff University</div>
-        <div class="instructor-social">
-          <a href="https://profiles.cardiff.ac.uk/staff/halgamuwehewagehr"><i class="bi bi-globe"></i></a>
-          <a href="https://github.com/chamara7h"><i class="bi bi-github"></i></a>
-          <a href="https://www.linkedin.com/in/harshachamara/"><i class="bi bi-linkedin"></i></a>
-        </div>
-      </div>
-    </div>
-
-    <div class="workshop-details">
-    
-            <button class="details-btn"
-          onclick="window.location.href='quantification.html'">
-          Workshop Details
-        </button>
-        
-      <h3>Learning Outcomes</h3>
-      <ul>
-        <li>Explain key sources and types of uncertainty and their implications for modelling</li>
-        <li>Apply appropriate methods to quantify and represent future uncertainty</li>
-        <li>Evaluate forecast quality using proper statistical metrics and scoring rules</li>
-        <li>Critically assess the assumptions and limitations of uncertainty quantification methods</li>
-        <li>Interpret and use probabilistic forecasts to support analysis and decision-making</li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- Workshop 4 -->
-  <div class="workshop-section">
-    <h2 class="workshop-title">Workshop 4: Educating for an Uncertain Future: Pedagogies That Prepare Learners to Adapt</h2>
-
-    <h3 class="instructors-heading">Instructor</h3>
-    <div class="instructors-grid">
-      <div class="instructor-card">
-        <img src="img-workshop/michelle.jpg" alt="Michelle Lazarus" class="instructor-photo">
-        <div class="instructor-name">Prof. Michelle Lazarus </div>
-        <div class="instructor-org">Monash University</div>
-        <div class="instructor-social">
-          <a href="https://michelledlazarus.wordpress.com/"><i class="bi bi-globe"></i></a>
-          <a href="https://www.linkedin.com/in/michelle-lazarus-4b19ab222/?originalSubdomain=au"><i class="bi bi-linkedin"></i></a>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="workshop-details">
-    
-            <button class="details-btn"
-          onclick="window.location.href='educating.html'">
-          Workshop Details
-        </button>
-        
-      <h3>Learning Outcomes</h3>
-      <ul>
-        <li>Understand where and how uncertainty arises in educational settings and how learners typically experience it.</li>
-        <li>Interpret the evidence base on learners’ cognitive and emotional responses to uncertainty.</li>
-        <li>Apply effective, research-informed strategies to help learners develop adaptive skills for managing uncertainty.</li>
-        <li>Design a learning activity that intentionally incorporates uncertainty and supports learners in navigating that experience.</li>
-        
-
-
-      </ul>
-    </div>
-  </div>
-
-  <!-- Workshop 5 -->
-  <div class="workshop-section">
-    <h2 class="workshop-title">Workshop 5: Planning and Building for the Long-term When the Future Is Uncertain</h2>
-
-    <h3 class="instructors-heading">Instructor</h3>
-    <div class="instructors-grid">
-      <div class="instructor-card">
-        <img src="img-workshop/peter.jpeg" alt="Peter" class="instructor-photo">
-        <div class="instructor-name">Prof. Peter Madden</div>
-        <div class="instructor-org">Cardiff University</div>
-        <div class="instructor-social">
-          <a href="https://profiles.cardiff.ac.uk/staff/maddenp1"><i class="bi bi-globe"></i></a>
-          <a href="https://www.linkedin.com/in/professor-peter-madden-obe/"><i class="bi bi-linkedin"></i></a>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="workshop-details">
-    
-            <button class="details-btn"
-          onclick="window.location.href='longterm-planning.html'">
-          Workshop Details
-        </button>
-        
-      <h3>Learning Outcomes</h3>
-      <ul>
-        <li>Understand how instability and uncertainty shape long-term decisions in the built environment.</li>
-        <li>Examine practical and theoretical approaches for planning and designing resilient homes, neighbourhoods, and infrastructure.</li>
-        <li>Evaluate strategies for making decisions today that remain robust under future conditions that are difficult to predict.</li>
-        <li>Apply insights from real-world case studies to develop more adaptive and forward-looking planning practices.</li>
-        
-
-
-      </ul>
-    </div>
-  </div>
-
 </div>
 ```

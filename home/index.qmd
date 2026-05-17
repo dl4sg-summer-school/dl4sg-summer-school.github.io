@@ -1,13 +1,10 @@
 ---
 format: html
-page-layout: full 
+page-layout: full
 ---
 
 ```{=html}
-
 <!-- HERO CARD Landing banner-->
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <div class="hero-split">
   <div class="hero-left">
@@ -38,61 +35,42 @@ page-layout: full
 </div>
 ```
 
-
 ```{=html}
-<!-- About page-->
-
 <div class="page-container">
-
-    <!-- Section Header from image -->
     <div class="section-header">
         <h1>Engage with Uncertainty. Shape the Future.</h1>
         <p>This summer school provides a unique opportunity to develop skills, strengthen networks, and advance creative and interdisciplinary research on uncertainty and the future.</p>
     </div>
 
-    <!-- Grid for the four info cards -->
     <div class="grid-container">
-
-        <!-- Card 1 -->
         <div class="info-card">
             <h3>Build Futures Capacity</h3>
             <p>Develop the knowledge, confidence, and collaborative mindset needed to navigate uncertainty and imagine alternative futures.</p>
         </div>
 
-        <!-- Card 2 -->
         <div class="info-card">
             <h3>Connect Ideas and Disciplines</h3>
             <p>Join a diverse international community to share knowledge, connect perspectives, and co-create new collaborations across disciplines and sectors.</p>
         </div>
 
-
-        <!-- Card 3 -->
         <div class="info-card">
             <h3>Advance Futures Research and Practice</h3>
             <p>Collaborate across disciplines to explore complex challenges and generate ideas that inform the creation of liveable futures.</p>
         </div>
-        
-        <!-- Card 4 -->
+
         <div class="info-card">
             <h3>Imagine Liveable Futures</h3>
             <p>Explore new ways of thinking and creating to envision more sustainable and inclusive futures.</p>
         </div>
-
-    </div> <!-- End grid-container -->
-
+    </div>
 </div>
-
 ```
 
-
 ```{=html}
-<!-- MAIN CONTENT AREA -->
 <div class="page-container">
-
-    <!-- NEW KEY DATES SECTION -->
     <div class="content-card">
         <h2>Important Dates</h2>
-        <table class="key-dates-table"> <!-- Changed to table -->
+        <table class="key-dates-table">
             <tbody>
                 <tr>
                     <td class="date">01 December 2025</td>
@@ -111,16 +89,15 @@ page-layout: full
                     <td class="event">Welcome reception drink</td>
                 </tr>
                 <tr>
-                    <td class="date">06–10 July 2026</td>
+                    <td class="date">06-10 July 2026</td>
                     <td class="event">Summer school</td>
                 </tr>
                 <tr>
-                    <td class="date">11 July 2026</td>
-                    <td class="event">Site visit</td>
+                    <td class="date">08 July 2026</td>
+                    <td class="event">Site visit in Wales</td>
                 </tr>
             </tbody>
-        </table> <!-- End of table -->
+        </table>
     </div>
-    
 </div>
 ```

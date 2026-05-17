@@ -1,65 +1,80 @@
 ---
 title: "Educating for an Uncertain Future: Pedagogies That Prepare Learners to Adapt"
-toc: true
-page-layout: article
+page-layout: full
 ---
 
-**Instructor: Prof. Michelle Lazarus, Professor, Anatomy & Developmental Biology, Monash University**
+::: {.page-container .workshop-detail-page}
+::: {.content-card .workshop-detail-hero}
+<p class="workshop-detail-kicker">Workshop</p>
 
+# Educating for an Uncertain Future: Pedagogies That Prepare Learners to Adapt
 
+<p class="workshop-detail-instructors">Instructor: Prof. Michelle Lazarus, Professor of Anatomy and Developmental Biology, Monash University</p>
+:::
 
-# Speaker Bio
+::: {.workshop-detail-grid}
+::: {.content-card}
+## Summary
 
-She is a Professor and the Director of the Centre for Human Anatomy Education and Deputy Director of the Centre for Scholarship in Health Education at Monash University, in Australia. She supports development and delivery of high-quality education in diverse learning contexts globally by working in consultation with secondary school teachers, caregivers, tertiary educators and the clinical workforce. She is an award-winning educator having received the Australian Universities Teaching excellence award, and author of the “The Uncertainty Effect: How to Survive and Thrive through the Unexpected”. My entire career is a journey into uncertainty. Her work focuses on enhancing our collective capacity for adaptively and effectively managing uncertainty, also known as uncertainty tolerance as this can influence our capacity for social inclusion, our interactions with emerging technologies (including artificial intelligence, our engagement with sustainable practices, and our own psychological wellbeing.
+This workshop introduces the concept of uncertainty tolerance and its importance in educational and professional learning environments. It helps participants understand where uncertainty arises in learning, how learners cognitively and emotionally respond to it, and why tolerance for uncertainty matters for adaptability, professional growth, and decision-making.
 
-# Summary of the Workshop
+Participants examine research-informed strategies that support learners in managing uncertainty constructively. The session also includes an interactive design component focused on building learning activities that intentionally incorporate uncertainty while providing appropriate support.
+:::
 
-This workshop introduces the concept of uncertainty tolerance and its importance in educational and professional learning environments. It begins by helping participants understand where uncertainty arises in learning, how learners cognitively and emotionally respond to it, and why developing tolerance for uncertainty is essential for effective decision-making, adaptability, and professional growth.
+::: {.content-card}
+## Instructor Bio
 
-Participants then examine research-informed strategies that support learners in managing uncertainty constructively. These strategies focus on helping learners reframe uncertainty as a normal and valuable part of learning, strengthening their confidence, emotional regulation, and problem-solving skills rather than avoiding ambiguous situations.
+Michelle Lazarus is Professor and Director of the Centre for Human Anatomy Education, and Deputy Director of the Centre for Scholarship in Health Education at Monash University. She works across diverse learning contexts and supports educators, caregivers, tertiary teachers, and clinical professionals in developing high-quality educational practice.
 
-The session includes an interactive workshop component where participants reflect on how uncertainty appears in their own teaching or professional contexts. They explore practical ways to design learning activities that intentionally incorporate uncertainty while providing appropriate support, enabling learners to build resilience and adaptive expertise.
+She is an award-winning educator and author of *The Uncertainty Effect: How to Survive and Thrive through the Unexpected*. Her work focuses on uncertainty tolerance and its implications for learning, wellbeing, emerging technologies, social inclusion, and sustainable practice.
+:::
 
-# Learning Outcomes
+::: {.content-card}
+## Learning Outcomes
 
-By the end of this session, participants will:
+- Understand where and how uncertainty arises in educational settings.
 
-- Understand where and how uncertainty arises in educational settings and how learners typically experience it.
+- Interpret evidence on learners' cognitive and emotional responses to uncertainty.
 
-- Interpret the evidence base on learners’ cognitive and emotional responses to uncertainty
+- Apply research-informed strategies to help learners develop adaptive skills.
 
-- Apply effective, research-informed strategies to help learners develop adaptive skills for managing uncertainty.
+- Design a learning activity that intentionally incorporates uncertainty.
+:::
 
-- Design a learning activity that intentionally incorporates uncertainty and supports learners in navigating that experience.
+::: {.content-card}
+## Session Structure
 
-# Structure of the session
+- 30 mins: Define the uncertainty tolerance concept.
 
-- 30 mins: Define the uncertainty tolerance concept
+- 30 mins: Discuss evidence-based strategies for navigating uncertainty in different contexts.
 
-- 30 mins: Discuss evidence-based strategies for navigating uncertainty in different contexts
+- 30 mins: Break.
 
-- 30 mins: Break
+- 60 mins: Workshop activity focused on how uncertainty appears in participants' own contexts and how to respond to it.
+:::
 
-- 60 mins: Workshop- how uncertainty is presenting within your context and explore strategies for navigating these
+::: {.content-card}
+## Pre-Reading
 
-# Pre-Reading/Pre-work
+- [The Uncertainty Effect](https://www.amazon.com.au/Uncertainty-Effect-Survive-Through-Unexpected/dp/1922633410)
 
-- [The Uncertainty effect](https://www.amazon.com.au/Uncertainty-Effect-Survive-Through-Unexpected/dp/1922633410)
+- [Preparing Learners for Uncertainty in Health Professions](https://oercollective.caul.edu.au/uncertainty-in-health-professions/)
 
-- [Preparing Learners for Uncertainty in Health Professions (Sections 1 and 2)](https://oercollective.caul.edu.au/uncertainty-in-health-professions/)
+- [Balancing knowledge with uncertainty](https://www.monash.edu/learning-teaching/teachhq/be-inspired/teaching-practice-examples/balancing-knowledge-with-uncertainty)
 
-- [Balancing knowledge with uncertainty. Teach HQ, Monash University](https://www.monash.edu/learning-teaching/teachhq/be-inspired/teaching-practice-examples/balancing-knowledge-with-uncertainty)
+- [Preparing today's learners for uncertainty](https://myfuture.edu.au/docs/default-source/insights/preparing-todays-learners-for-uncertainty.pdf?sfvrsn=57a3e0d8_2)
 
-This webpage provides a broad overview of how uncertainty tolerance teaching practices can be integrated across diverse educational contexts and disciplines.
+- [Preparing today's learners for uncertainty webinar](https://publish.viostream.com/play/c-dgcei17)
 
-- Lazarus, M. D. (2021). [Preparing todays learners for uncertainty](https://myfuture.edu.au/docs/default-source/insights/preparing-todays-learners-for-uncertainty.pdf?sfvrsn=57a3e0d8_2). 
+- [Managing uncertainty in professional practice](https://aifs.gov.au/sites/default/files/2024-06/2404_Managing%20uncertainty%20in%20professional%20practice.pdf)
 
-- Lazarus, M. D. (n.d.). Preparing today’s learners for uncertainty [Webinar](https://publish.viostream.com/play/c-dgcei17).
+- [Twelve tips for developing healthcare learners' uncertainty tolerance](https://www.tandfonline.com/doi/full/10.1080/0142159X.2024.2307500)
+:::
 
-- MacDonald, J. B., Quinlan, E., Truong, M., & Lazarus, M. (2024). [Managing uncertainty in professional practice](https://aifs.gov.au/sites/default/files/2024-06/2404_Managing%20uncertainty%20in%20professional%20practice.pdf).
+::: {.content-card}
+## Materials
 
-- Stephens, G. C., & Lazarus, M. D. (2024). [Twelve tips for developing healthcare learners’ uncertainty tolerance](https://www.tandfonline.com/doi/full/10.1080/0142159X.2024.2307500). Medical Teacher, 46(8), 1035–1043.
-
-# Materials Provided to Participants
-
-All materials needed for workshop completion are provided (including card decks and worksheets)
+- Workshop materials, including card decks and worksheets.
+:::
+:::
+:::

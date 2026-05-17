@@ -1,7 +1,6 @@
 ---
 format: html
 page-layout: full
-css: schedule.css
 execute:
   echo: false
   warning: false
@@ -159,7 +158,7 @@ cat(
   paste0(
     '<div id="top" class="page-container program-page">',
     '<div class="section-header program-header">',
-    '<p class="program-kicker">Summer School 2026: Program Schedule</p>',
+    '<p class="program-intro">Programme schedule for 6-10 July 2026.</p>',
     '</div>',
     '<div class="program-summary">',
     '<div class="summary-card"><span class="summary-label">Dates</span><span class="summary-value">6-10 July 2026</span></div>',

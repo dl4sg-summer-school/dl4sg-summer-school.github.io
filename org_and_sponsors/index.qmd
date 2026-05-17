@@ -1,14 +1,12 @@
 ---
-format: 
-  html:
-    css: sponsors.css
+format: html
 ---
 
 ```{=html}
 
 <div class="section-header">
-<br>
-            <h3>We are grateful for the support of our sponsors:</h3>
+            <h1>Sponsors</h1>
+            <p>We are grateful for the support of our sponsors.</p>
         </div>
         
 ```
@@ -28,24 +26,12 @@ format:
 :::
 
 ::: {.sponsor-item}
-[![](org_and_sponsors/img/dtii.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
+[![](org_and_sponsors/img/DTII.png){.sponsor-logo}](https://www.cardiff.ac.uk/digital-transformation-innovation-institute)
 :::
 
 
 ::: {.sponsor-item}
 [![](org_and_sponsors/img/sams.svg){.sponsor-logo}](http://www.socadms.org.uk/)
-:::
-
-::: {.sponsor-item}
-[![](org_and_sponsors/img/cardiff.svg){.sponsor-logo}](https://www.sponsor6.com)
-:::
-
-::: {.sponsor-item}
-[![](org_and_sponsors/img/cardiff.svg){.sponsor-logo}](https://www.sponsor7.com)
-:::
-
-::: {.sponsor-item}
-[![](org_and_sponsors/img/cardiff.svg){.sponsor-logo}](https://www.sponsor8.com)
 :::
 
 :::

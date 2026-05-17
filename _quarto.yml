@@ -26,7 +26,7 @@ website:
         href: registration/index.qmd
       - text: Speakers
         href: index.html#speakers
-      - text: Program
+      - text: Programme
         menu:
           - text: Schedule
             href: program/index.qmd

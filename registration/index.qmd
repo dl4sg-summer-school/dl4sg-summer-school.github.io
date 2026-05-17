@@ -1,21 +1,15 @@
 ---
 format: html
-page-layout: full 
+page-layout: full
 ---
 
 ```{=html}
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-
-
 <div class="page-container">
 
-    <!-- Card: Registration Fees -->
     <div class="content-card">
       <h2>Registration & Fees</h2>
-            <p>If you are offered a place, you will receive a confirmation email with a registration link, and you must complete the registration to secure your participation.</p>
-            
+      <p>If you are offered a place, you will receive a confirmation email with a registration link, and you must complete registration to secure your participation.</p>
+
       <p>All fees are in GBP and include access to all lectures, materials, coffee breaks, and the welcome reception.</p>
       <table class="key-dates-table fees-table">
         <thead>
@@ -27,27 +21,21 @@ page-layout: full
         <tbody>
           <tr>
             <td class="category">PhD Students &amp; Early Career Researchers</td>
-            <td class="fee">£250</td>
+            <td class="fee">GBP 250</td>
           </tr>
           <tr>
             <td class="category">Practitioners</td>
-            <td class="fee">£350</td>
+            <td class="fee">GBP 350</td>
           </tr>
         </tbody>
       </table>
-      
+
       <h3>Additional Options &amp; Notes</h3>
       <ul>
-        <li>All fees are non-refundable after <strong>15 June 2026</strong>. Before that date, 100% refund less a £25 administration fee.</li>
+        <li>All fees are non-refundable after <strong>15 June 2026</strong>. Before that date, refunds are available less a GBP 25 administration fee.</li>
         <li>The event is in-person only at Cardiff University; no virtual attendance option.</li>
         <li>For any queries, please contact <a href="mailto:halgamuwehewagehr@cardiff.ac.uk">halgamuwehewagehr@cardiff.ac.uk</a>.</li>
       </ul>
-
     </div>
-
 </div>
-
-
-
-
 ```
