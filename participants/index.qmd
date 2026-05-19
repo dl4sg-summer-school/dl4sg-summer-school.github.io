@@ -13,6 +13,18 @@ page-layout: full
         <div class="participants-grid">
             <div class="participant-card">
                 <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
+                <div class="participant-name">Chloe Arnold Lowe</div>
+                <div class="participant-affiliation">Aberystwyth University</div>
+            </div>
+
+            <div class="participant-card">
+                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
+                <div class="participant-name">Mustafa Aslan</div>
+                <div class="participant-affiliation">Cardiff University</div>
+            </div>
+
+            <div class="participant-card">
+                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
                 <div class="participant-name">Matunga Barwell</div>
                 <div class="participant-affiliation">Cardiff</div>
             </div>
@@ -140,7 +152,7 @@ page-layout: full
             <div class="participant-card">
                 <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
                 <div class="participant-name">Oussema Omri</div>
-                <div class="participant-affiliation">CentraleSup&eacute;lec &amp; Kedge BS</div>
+                <div class="participant-affiliation">CentraleSup&#233;lec &amp; Kedge BS</div>
             </div>
 
             <div class="participant-card">
@@ -153,6 +165,12 @@ page-layout: full
                 <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
                 <div class="participant-name">U&#287;ur &#350;ahan</div>
                 <div class="participant-affiliation">CoreXas</div>
+            </div>
+
+            <div class="participant-card">
+                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
+                <div class="participant-name">Udeshi Salgado</div>
+                <div class="participant-affiliation">Cardiff Business School</div>
             </div>
 
             <div class="participant-card">
@@ -195,18 +213,6 @@ page-layout: full
                 <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
                 <div class="participant-name">Rui Xu</div>
                 <div class="participant-affiliation">Logistics, operations and management</div>
-            </div>
-
-            <div class="participant-card">
-                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
-                <div class="participant-name">Mustafa Aslan</div>
-                <div class="participant-affiliation">Data Lab for Social Good</div>
-            </div>
-
-            <div class="participant-card">
-                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
-                <div class="participant-name">Udeshi Salgado</div>
-                <div class="participant-affiliation">Data Lab for Social Good</div>
             </div>
         </div>
     </div>
