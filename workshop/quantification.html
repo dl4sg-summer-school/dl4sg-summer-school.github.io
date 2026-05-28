@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Quantifying Future Uncertainty</title>
+<title>Predictive Inconsistency in Algorithmic Risk Assessment Tools</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-a7ff429525780dc8209568ebce96c936.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e34e02f6925d3f22d3ee52515896642a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Quantifying Future Uncertainty">
+<meta property="og:title" content="Predictive Inconsistency in Algorithmic Risk Assessment Tools">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -173,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Quantifying Future Uncertainty</h1>
+<h1 class="title">Predictive Inconsistency in Algorithmic Risk Assessment Tools</h1>
 </div>
 
 
@@ -195,58 +195,53 @@ ul.task-list li input[type="checkbox"] {
 <p class="workshop-detail-kicker">
 Workshop
 </p>
-<section id="quantifying-future-uncertainty" class="level1">
-<h1>Quantifying Future Uncertainty</h1>
+<section id="predictive-inconsistency-in-algorithmic-risk-assessment-tools" class="level1">
+<h1>Predictive Inconsistency in Algorithmic Risk Assessment Tools</h1>
 <p class="workshop-detail-instructors">
-Instructors: Prof.&nbsp;Bahman Rostami-Tabar, Cardiff University; Harsha Halgamuwe Hewage, Cardiff University
+Instructor: Prof.&nbsp;Galit Shmueli, Chair Professor, National Tsing Hua University
 </p>
 </section>
 </div>
 <div class="workshop-detail-grid">
 <section id="summary" class="level2 content-card">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>This workshop focuses on understanding, quantifying, and interpreting uncertainty in forecasts and predictive models. Drawing on statistics and probabilistic forecasting, it explores how uncertainty arises, how it can be formally represented, and how probabilistic forecasts can support better analysis and decision-making.</p>
-<p>Through practical examples, hands-on exercises, and discussion, participants will learn to generate, assess, interpret, and use probabilistic forecasts in both research and applied settings.</p>
+<p>This workshop examines the use of Algorithmic Risk Assessment Instruments (ARAIs) in decision-making and introduces the concept of predictive inconsistency. It uses criminal justice as the core case, but the issues are applicable across many domains where predictive tools are used.</p>
+<p>The session explores how conceptually justified but technically different choices made by ARAI designers can lead to disparate predicted risk scores for the exact same individual. It traces the garden of forking paths across the ARAI development process, highlighting data science challenges such as operationalizing legal constructs, handling missing values, and selecting performance metrics. Finally, it introduces an adaptation of multiverse analysis for visualizing and evaluating predictive inconsistency, with an emphasis on more reproducible and democratically accountable ARAI development.</p>
 </section>
 <section id="instructor-bio" class="level2 content-card">
 <h2 class="anchored" data-anchor-id="instructor-bio">Instructor Bio</h2>
-<p>Bahman Rostami-Tabar is Professor of Analytics and Decision Sciences at Cardiff Business School and founder of the Data Lab for Social Good Research Group. His work focuses on how advanced analytical methods can support better choices in complex and uncertain futures, and his contributions have been recognised by the OR Society with the Goodeve Medal and the Lyn Thomas Impact Medal.</p>
-<p>Harsha Halgamuwe Hewage is a PhD student at Cardiff University and contributes to the workshop’s practical and applied perspective on forecasting, modelling, and uncertainty.</p>
+<p>Prof.&nbsp;Galit Shmueli is Chair Professor at National Tsing Hua University.</p>
 </section>
 <section id="learning-outcomes" class="level2 content-card">
 <h2 class="anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h2>
 <ul>
-<li><p>Explain key sources and types of uncertainty and their implications for modelling.</p></li>
-<li><p>Apply appropriate methods to quantify and represent future uncertainty.</p></li>
-<li><p>Evaluate forecast quality using proper statistical metrics and scoring rules.</p></li>
-<li><p>Critically assess the assumptions and limitations of uncertainty-quantification methods.</p></li>
-<li><p>Interpret and use probabilistic forecasts to support analysis and decision-making.</p></li>
+<li><p>Understand what Algorithmic Risk Assessment Instruments (ARAIs) are and their role in criminal justice decision-making contexts.</p></li>
+<li><p>Define predictive inconsistency and identify how it stems from varying data science choices made during the model development process.</p></li>
+<li><p>Recognize specific data science challenges that introduce uncertainty at different stages of model building, including non-sampling errors, the reference class problem, and predictive generalization.</p></li>
+<li><p>Consider adaptations of multiverse analysis for evaluating and visualizing predictive inconsistency.</p></li>
 </ul>
 </section>
 <section id="session-structure" class="level2 content-card">
 <h2 class="anchored" data-anchor-id="session-structure">Session Structure</h2>
 <ul>
-<li><p>30 mins: Sources of uncertainty.</p></li>
-<li><p>60 mins: Approaches to quantifying uncertainty.</p></li>
-<li><p>30 mins: Break.</p></li>
-<li><p>60 mins: Assessing forecast quality and using probabilistic forecasts.</p></li>
-<li><p>15 mins: Closing thoughts, resources, and questions.</p></li>
+<li><p>Introduction: what are ARAIs.</p></li>
+<li><p>Context: the role of prediction in sentencing and the concept of legal consistency.</p></li>
+<li><p>Core concept: defining and exploring predictive inconsistency throughout the steps of ARAI development.</p></li>
+<li><p>Evaluation: methods for visualizing and evaluating predictive inconsistency using adapted multiverse analysis.</p></li>
+<li><p>Conclusions.</p></li>
 </ul>
 </section>
 <section id="pre-reading" class="level2 content-card">
 <h2 class="anchored" data-anchor-id="pre-reading">Pre-Reading</h2>
 <ul>
-<li><p><a href="https://service-manual.ons.gov.uk/data-visualisation/guidance/showing-uncertainty-in-charts">Showing uncertainty in charts</a></p></li>
-<li><p><a href="https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf">Visualizing uncertainty about the future</a></p></li>
-<li><p><a href="https://royal-statistical-society.github.io/datavisguide/RSS-data-vis-guide.pdf">Best Practices for Data Visualisation</a></p></li>
-<li><p><a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11302?casa_token=ksi3aFjU87wAAAAA%3AmU48JMAInNAOFAsocZ7oXeesDV65gCjrUqHT_8p7nltapn1OyenrNJBEcPRMwdAdSo6u14UTNsBmELs">Use and communication of probabilistic forecasts</a></p></li>
+<li><p>Familiarity with the data science modelling pipeline, including data collection, preprocessing, variable selection, and model testing or deployment.</p></li>
+<li><p>A basic understanding of predictive modelling and familiarity with machine learning algorithms such as classification and regression trees.</p></li>
 </ul>
 </section>
-<section id="materials" class="level2 content-card">
-<h2 class="anchored" data-anchor-id="materials">Materials</h2>
+<section id="suggested-reading" class="level2 content-card">
+<h2 class="anchored" data-anchor-id="suggested-reading">Suggested Reading</h2>
 <ul>
-<li><p>Slides</p></li>
-<li><p>Hands-on exercises and code examples in R and Python</p></li>
+<li>Greene, T., Shmueli, G., Fell, J., Lin, C. F., &amp; Liu, H. W. (2022). <em>Forks over knives: Predictive inconsistency in criminal justice algorithmic risk assessment tools</em>. Journal of the Royal Statistical Society Series A: Statistics in Society, 185(S2), S692-S723.</li>
 </ul>
 </section>
 </div>
