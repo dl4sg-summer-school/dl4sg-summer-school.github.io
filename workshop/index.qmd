@@ -142,29 +142,17 @@ page-layout: full
       <div class="workshop-card-header">
         <div>
           <p class="workshop-slot">Day 4</p>
-          <h2>Quantifying Future Uncertainty</h2>
+          <h2>Predictive Inconsistency in Algorithmic Risk Assessment Tools</h2>
         </div>
         <div class="workshop-time">09:00-10:30</div>
       </div>
       <div class="workshop-instructors">
         <article class="workshop-person">
-          <img src="img-workshop/bahman.JPG" alt="Prof. Bahman Rostami-Tabar" class="workshop-avatar">
-          <h3>Prof. Bahman Rostami-Tabar</h3>
-          <p>Cardiff University</p>
+          <img src="img-workshop/Galit Shmueli.png" alt="Prof. Galit Shmueli" class="workshop-avatar">
+          <h3>Prof. Galit Shmueli</h3>
+          <p>National Tsing Hua University</p>
           <div class="workshop-links">
-            <a href="https://profiles.cardiff.ac.uk/staff/rostami-tabarb" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
-            <a href="https://github.com/bahmanrostamitabar" title="GitHub" aria-label="GitHub"><i class="bi bi-github"></i></a>
-            <a href="https://www.linkedin.com/in/bahman-rostami-tabar-1046171a/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
-          </div>
-        </article>
-        <article class="workshop-person">
-          <img src="img-workshop/harsha.avif" alt="Harsha Halgamuwe Hewage" class="workshop-avatar">
-          <h3>Harsha Halgamuwe Hewage</h3>
-          <p>Cardiff University</p>
-          <div class="workshop-links">
-            <a href="https://profiles.cardiff.ac.uk/staff/halgamuwehewagehr" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
-            <a href="https://github.com/chamara7h" title="GitHub" aria-label="GitHub"><i class="bi bi-github"></i></a>
-            <a href="https://www.linkedin.com/in/harshachamara/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+            <a href="https://www.galitshmueli.com/" title="Website" aria-label="Website"><i class="bi bi-globe"></i></a>
           </div>
         </article>
       </div>
@@ -172,10 +160,10 @@ page-layout: full
         <a class="workshop-cta" href="quantification.html" title="Workshop details" aria-label="Workshop details"><i class="bi bi-file-earmark-text"></i><span>Workshop details</span></a>
         <h3>Learning outcomes</h3>
         <ul>
-          <li>Explain key sources and types of uncertainty and their implications for modelling.</li>
-          <li>Apply appropriate methods to quantify and represent future uncertainty.</li>
-          <li>Evaluate forecast quality using proper statistical metrics and scoring rules.</li>
-          <li>Interpret and use probabilistic forecasts to support analysis and decision-making.</li>
+          <li>Understand what Algorithmic Risk Assessment Instruments are and how they are used in decision-making contexts.</li>
+          <li>Define predictive inconsistency and identify how it emerges from modelling choices made during development.</li>
+          <li>Recognize data science challenges that introduce uncertainty across the modelling pipeline.</li>
+          <li>Consider multiverse-style approaches for evaluating and visualizing predictive inconsistency.</li>
         </ul>
       </div>
     </section>

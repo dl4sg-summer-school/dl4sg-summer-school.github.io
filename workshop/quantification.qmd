@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Future Uncertainty"
+title: "Predictive Inconsistency in Algorithmic Risk Assessment Tools"
 page-layout: full
 ---
 
@@ -7,74 +7,64 @@ page-layout: full
 ::: {.content-card .workshop-detail-hero}
 <p class="workshop-detail-kicker">Workshop</p>
 
-# Quantifying Future Uncertainty
+# Predictive Inconsistency in Algorithmic Risk Assessment Tools
 
-<p class="workshop-detail-instructors">Instructors: Prof. Bahman Rostami-Tabar, Cardiff University; Harsha Halgamuwe Hewage, Cardiff University</p>
+<p class="workshop-detail-instructors">Instructor: Prof. Galit Shmueli, Chair Professor, National Tsing Hua University</p>
 :::
 
 ::: {.workshop-detail-grid}
 ::: {.content-card}
 ## Summary
 
-This workshop focuses on understanding, quantifying, and interpreting uncertainty in forecasts and predictive models. Drawing on statistics and probabilistic forecasting, it explores how uncertainty arises, how it can be formally represented, and how probabilistic forecasts can support better analysis and decision-making.
+This workshop examines the use of Algorithmic Risk Assessment Instruments (ARAIs) in decision-making and introduces the concept of predictive inconsistency. It uses criminal justice as the core case, but the issues are applicable across many domains where predictive tools are used.
 
-Through practical examples, hands-on exercises, and discussion, participants will learn to generate, assess, interpret, and use probabilistic forecasts in both research and applied settings.
+The session explores how conceptually justified but technically different choices made by ARAI designers can lead to disparate predicted risk scores for the exact same individual. It traces the garden of forking paths across the ARAI development process, highlighting data science challenges such as operationalizing legal constructs, handling missing values, and selecting performance metrics. Finally, it introduces an adaptation of multiverse analysis for visualizing and evaluating predictive inconsistency, with an emphasis on more reproducible and democratically accountable ARAI development.
 :::
 
 ::: {.content-card}
 ## Instructor Bio
 
-Bahman Rostami-Tabar is Professor of Analytics and Decision Sciences at Cardiff Business School and founder of the Data Lab for Social Good Research Group. His work focuses on how advanced analytical methods can support better choices in complex and uncertain futures, and his contributions have been recognised by the OR Society with the Goodeve Medal and the Lyn Thomas Impact Medal.
-
-Harsha Halgamuwe Hewage is a PhD student at Cardiff University and contributes to the workshop's practical and applied perspective on forecasting, modelling, and uncertainty.
+Prof. Galit Shmueli is Chair Professor at National Tsing Hua University.
 :::
 
 ::: {.content-card}
 ## Learning Outcomes
 
-- Explain key sources and types of uncertainty and their implications for modelling.
+- Understand what Algorithmic Risk Assessment Instruments (ARAIs) are and their role in criminal justice decision-making contexts.
 
-- Apply appropriate methods to quantify and represent future uncertainty.
+- Define predictive inconsistency and identify how it stems from varying data science choices made during the model development process.
 
-- Evaluate forecast quality using proper statistical metrics and scoring rules.
+- Recognize specific data science challenges that introduce uncertainty at different stages of model building, including non-sampling errors, the reference class problem, and predictive generalization.
 
-- Critically assess the assumptions and limitations of uncertainty-quantification methods.
-
-- Interpret and use probabilistic forecasts to support analysis and decision-making.
+- Consider adaptations of multiverse analysis for evaluating and visualizing predictive inconsistency.
 :::
 
 ::: {.content-card}
 ## Session Structure
 
-- 30 mins: Sources of uncertainty.
+- Introduction: what are ARAIs.
 
-- 60 mins: Approaches to quantifying uncertainty.
+- Context: the role of prediction in sentencing and the concept of legal consistency.
 
-- 30 mins: Break.
+- Core concept: defining and exploring predictive inconsistency throughout the steps of ARAI development.
 
-- 60 mins: Assessing forecast quality and using probabilistic forecasts.
+- Evaluation: methods for visualizing and evaluating predictive inconsistency using adapted multiverse analysis.
 
-- 15 mins: Closing thoughts, resources, and questions.
+- Conclusions.
 :::
 
 ::: {.content-card}
 ## Pre-Reading
 
-- [Showing uncertainty in charts](https://service-manual.ons.gov.uk/data-visualisation/guidance/showing-uncertainty-in-charts)
+- Familiarity with the data science modelling pipeline, including data collection, preprocessing, variable selection, and model testing or deployment.
 
-- [Visualizing uncertainty about the future](https://www.stat.berkeley.edu/~aldous/157/Papers/spiegelhalter_visualizing.pdf)
-
-- [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/RSS-data-vis-guide.pdf)
-
-- [Use and communication of probabilistic forecasts](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sam.11302?casa_token=ksi3aFjU87wAAAAA%3AmU48JMAInNAOFAsocZ7oXeesDV65gCjrUqHT_8p7nltapn1OyenrNJBEcPRMwdAdSo6u14UTNsBmELs)
+- A basic understanding of predictive modelling and familiarity with machine learning algorithms such as classification and regression trees.
 :::
 
 ::: {.content-card}
-## Materials
+## Suggested Reading
 
-- Slides
-
-- Hands-on exercises and code examples in R and Python
+- Greene, T., Shmueli, G., Fell, J., Lin, C. F., & Liu, H. W. (2022). *Forks over knives: Predictive inconsistency in criminal justice algorithmic risk assessment tools*. Journal of the Royal Statistical Society Series A: Statistics in Society, 185(S2), S692-S723.
 :::
 :::
 :::
