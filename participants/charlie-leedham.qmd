@@ -1,0 +1,31 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# How Do Heat Risk Perceptions Vary Across Tenure Groups?
+
+<p class="speaker-detail-byline">Presenter: Charlie Leedham, DECIPHer, School of Social Sciences, Cardiff University</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+As climate change increases the frequency, intensity, and seasonal unpredictability of heatwaves, understanding public perceptions of heat-related risks is becoming increasingly important. Housing conditions are a key determinant of exposure to extreme heat, with renters often facing greater vulnerability due to poorer housing quality and reduced capacity to implement adaptive measures.
+
+This exploratory study analysed data from the British Public Perceptions of Climate Risk, Adaptation Options and Resilience survey, a nationally representative two-wave survey conducted across the United Kingdom between 2019 and 2020. Using multiple linear regression and mixed-effects models, the results indicated that renters perceived themselves as more vulnerable to the direct health impacts of heatwaves than homeowners.
+
+However, tenure differences were substantially weaker for risks framed as collective societal impacts or future climate-related threats. The findings suggest that housing tenure is associated primarily with perceptions of personal heat vulnerability rather than broader climate risks, highlighting housing tenure as an important yet often overlooked factor in public perceptions of extreme heat.
+:::
+
+::: {.content-card}
+## Presenter
+
+Charlie Leedham is a participant in the summer school and is affiliated with DECIPHer, School of Social Sciences, Cardiff University.
+:::
+:::
+:::

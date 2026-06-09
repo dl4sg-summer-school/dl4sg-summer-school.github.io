@@ -1,0 +1,31 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# Unanticipated or unintended consequences? Disentangling conflated concepts
+
+<p class="speaker-detail-byline">Presenter: Steffan James, Cardiff Business School, Cardiff University</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+This research examines the often-conflated concepts of unintended and unanticipated consequences in operations and supply chain management. Drawing on social theory and literature from multiple disciplines, it develops a framework based on intentionality and anticipation to give a more holistic understanding of actions and their consequences.
+
+By distinguishing between anticipated and unanticipated unintended consequences, the research provides greater conceptual clarity and offers practical guidance for when existing tools, such as forecasting or risk management, are effective.
+:::
+
+::: {.content-card}
+## Presenter
+
+Steffan James is a participant in the summer school and is affiliated with Cardiff Business School, Cardiff University.
+
+[Profile](https://www.linkedin.com/in/steffan-james/)
+:::
+:::
+:::

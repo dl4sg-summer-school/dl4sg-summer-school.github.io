@@ -1,0 +1,33 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# How Floods and Rising Sea Levels Disrupt Healthcare Service Delivery: A Mixed-Methods Framework
+
+<p class="speaker-detail-byline">Presenter: Amirhossein Ghadiri, DL4SG Research Group, Cardiff Business School, Cardiff University</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+Flood risk in Wales is rising due to climate change, yet how floods disrupt healthcare delivery remains poorly understood, with little published evidence and no centralised disruption data. This study investigates the mechanisms, scale, and timing of flood-induced healthcare disruption in Wales.
+
+Using a parallel-triangulation mixed-methods design, it combines natural language processing of news, reports, social media, and video transcripts with semi-structured interviews of healthcare staff and stakeholders in flood-exposed areas such as Monmouth. Expert surveys then translate qualitative findings into probabilistic effect-size estimates.
+
+The research will deliver a classified catalogue of disruption mechanisms and uncertainty-aware estimates for the most serious impacts, directly informing NHS Wales, government, and emergency planners in prioritising resilience investments. The outputs will also seed quantitative modelling of facility vulnerability, demand surges, resource allocation, and sea-level rise adaptation.
+:::
+
+::: {.content-card}
+## Presenter
+
+Amirhossein Ghadiri is a participant in the summer school and is affiliated with the DL4SG Research Group, Cardiff Business School, Cardiff University.
+
+[Profile](https://www.linkedin.com/in/amirhossein-ghadiri-8296781a6/)
+:::
+:::
+:::

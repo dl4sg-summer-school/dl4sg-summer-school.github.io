@@ -1088,17 +1088,32 @@ body {
 }
 
 .participant-name {
+  width: 100%;
+  min-height: 2.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
   font-size: 1rem;
   font-weight: 600;
+  line-height: 1.3;
   color: #333;
   margin-bottom: 0.3rem;
 }
 
 .participant-affiliation {
+  width: 100%;
   font-size: 0.85rem;
   color: #666;
   margin-bottom: 0.8rem;
   line-height: 1.3;
+}
+
+.participant-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.55rem;
 }
 
 .participant-email {
@@ -1313,7 +1328,8 @@ body {
 }
 
 .panel-person-links,
-.speaker-links {
+.speaker-links,
+.participant-links {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -1322,7 +1338,9 @@ body {
 
 .panel-person-links a,
 .speaker-links a,
-.speaker-cta {
+.participant-links a,
+.speaker-cta,
+.participant-cta {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1345,9 +1363,21 @@ body {
   font-weight: 600;
 }
 
+.participant-cta {
+  width: auto;
+  height: auto;
+  padding: 0.55rem 0.9rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  gap: 0.5rem;
+  margin-top: 0.9rem;
+}
+
 .panel-person-links a:hover,
 .speaker-links a:hover,
-.speaker-cta:hover {
+.participant-links a:hover,
+.speaker-cta:hover,
+.participant-cta:hover {
   color: #ca224b;
   border-color: #ca224b;
   transform: translateY(-1px);
@@ -1355,7 +1385,9 @@ body {
 
 .panel-person-links a i,
 .speaker-links a i,
-.speaker-cta i {
+.participant-links a i,
+.speaker-cta i,
+.participant-cta i {
   line-height: 1;
 }
 

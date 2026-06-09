@@ -1,0 +1,35 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# Decision-Making Under Uncertainty: Governance, Legality, and the Monitoring Officer in England and Wales
+
+<p class="speaker-detail-byline">Presenter: Matunga (Mattie) Barwell, School of Law and Politics, Cardiff University</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+This research examines how uncertainty is navigated within contemporary local government governance, focusing on the role of the Monitoring Officer as a statutory legal and constitutional safeguard operating within increasingly complex and resource-constrained institutions.
+
+Local authorities are required to make high-impact decisions within environments characterised by financial instability, political volatility, organisational restructuring, regulatory complexity, and growing public expectations. Yet governance systems are frequently expected to provide certainty, accountability, and legal compliance despite operating under conditions where information is incomplete, risks are evolving, and institutional pressures are significant.
+
+The research explores how uncertainty is managed not only through formal legal rules and procedures, but through institutional practices of anticipation, interpretation, negotiation, and organisational judgement. Drawing on socio-legal and public administration scholarship, it argues that legality within local government is often produced through ongoing internal governance processes before disputes reach courts, auditors, or formal regulatory intervention.
+
+Using England and Wales as a comparative framework, the paper analyses how different governance structures, accountability systems, and devolved policy environments shape approaches to institutional risk, ethical governance, and decision-making under uncertainty. It contributes to wider debates by showing that governance institutions rarely eliminate uncertainty; rather, they manage, mediate, and distribute it across complex organisational environments.
+:::
+
+::: {.content-card}
+## Presenter
+
+Matunga (Mattie) Barwell is a participant in the summer school and is affiliated with the School of Law and Politics, Cardiff University.
+
+[Profile](https://www.linkedin.com/in/matungaoriaro)
+:::
+:::
+:::

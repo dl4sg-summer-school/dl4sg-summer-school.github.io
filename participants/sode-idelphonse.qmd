@@ -1,0 +1,31 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# Integrating Presence-only and Abundance Data to Predict African Baobab Distribution: A Bayesian Data Fusion Framework
+
+<p class="speaker-detail-byline">Presenter: Sode Idelphonse, University of Abomey-Calavi</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+Species distribution models are vital tools for conservation and landscape management, yet combining opportunistic citizen science data with planned surveys to improve estimates of species distributions remains a challenge. This study proposes a Bayesian spatial data fusion framework to jointly analyse presence-only and abundance data for the African baobab in Benin, optimising prediction precision across disparate datasets.
+
+Using Integrated Nested Laplace Approximations and the Stochastic Partial Differential Equations approach for fast computation, the study evaluates multiple data-fusion strategies. The results reveal a heterogeneous baobab distribution with a spatial autocorrelation range of 34.4 km, driven heavily by annual temperature, rainfall of the driest month, soil texture, and slope.
+
+A spatial fusion model with a shared latent component and common covariate effects outperformed alternative formulations, yielding the highest mean composite validation scores across AUC, accuracy, and True Skill Statistic. By effectively capturing the underlying dependence structure between data types, this framework demonstrates the power of joint spatial modelling to reduce prediction uncertainty and offers a robust probabilistic infrastructure for data-limited contexts.
+:::
+
+::: {.content-card}
+## Presenter
+
+Sode Idelphonse is a participant in the summer school and is affiliated with the University of Abomey-Calavi.
+:::
+:::
+:::

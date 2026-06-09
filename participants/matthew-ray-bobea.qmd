@@ -1,0 +1,33 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# Navigating Uncertainty Through Forecasting Failure Prediction
+
+<p class="speaker-detail-byline">Presenter: Matthew Ray Bobea, Institute of Service Science at National Tsing Hua University</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+Navigating uncertainty through forecasting failure prediction requires more than measuring accuracy metrics and confidence intervals. This research talk asks a significant yet previously unaddressed question: when are models likely to fail?
+
+Guided by principles of pattern-based error prediction, the research develops TreeAlert, a method designed to identify patterns of extreme forecasting errors and predict the timing of future failures. TreeAlert uses regression trees to detect failure-prone conditions, linking them to temporal and contextual patterns.
+
+By forecasting the timings of future failures, TreeAlert transforms retrospective error analysis into a forward-looking tool that helps decision-makers proactively anticipate vulnerabilities and helps data scientists improve algorithmic weaknesses. The work introduces a generalizable framework for predicting pattern-based model failures, presents TreeAlert as a model-agnostic and interpretable method, proposes the lift metric for model tuning and evaluation, and shifts error analysis from error magnitude to predicting the timing of likely extreme failures.
+:::
+
+::: {.content-card}
+## Presenter
+
+Matthew Ray Bobea is a participant in the summer school and is affiliated with the Institute of Service Science at National Tsing Hua University.
+
+[Profile](https://mattbobea.com/)
+:::
+:::
+:::

@@ -1,0 +1,31 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# Pitching socio-technical futures. Pitch presentations and the materialisation of digital technologies
+
+<p class="speaker-detail-byline">Presenter: Patrik Dahl, Cardiff University</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+Digital technologies that are still in development are difficult communicative objects. They usually do not have a stable material existence but instead gain their material existence through what users do with them. Nevertheless, there are many moments where contemporary societies need to make decisions about and therefore examine, assess, and evaluate such digital technologies in the making.
+
+This talk presents one such communicative practice: the pitch presentation and the live demonstration of technology within it. Based on ethnographic research in a hackathon setting, it shows how pitch presentations enable speakers to present technologies in ways that allow juries to examine, assess, evaluate, and rank them.
+
+The talk also shows how presenters' situated descriptions imagine the societies that need these technologies as solutions to their problems, and how the live demonstration brings the technologies to life on stage by materialising them as tangible objects. This socio-technical work is key to understanding how pitches make future technologies available for assessment in the present and how contemporary societies navigate the uncertainty of socio-technical futures.
+:::
+
+::: {.content-card}
+## Presenter
+
+Patrik Dahl is a participant in the summer school and is affiliated with Cardiff University.
+:::
+:::
+:::
