@@ -9,7 +9,7 @@ page-layout: full
 
 # Finding ourselves in the future
 
-<p class="speaker-detail-byline">Speaker: Bill Sharpe, Future Stewards</p>
+<p class="speaker-detail-byline">Speaker: Bill Sharpe, Future Stewards<br>Chair: <a href="https://profiles.cardiff.ac.uk/staff/ashworthre">Rachel Ashworth</a></p>
 :::
 
 ::: {.speaker-detail-grid}

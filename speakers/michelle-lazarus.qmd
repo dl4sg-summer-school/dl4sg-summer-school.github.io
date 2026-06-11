@@ -9,7 +9,7 @@ page-layout: full
 
 # Discomfort of uncertainty or absurdity of certainty: navigating uncertainty in an evolving world
 
-<p class="speaker-detail-byline">Speaker: Michelle Lazarus, Monash University</p>
+<p class="speaker-detail-byline">Speaker: Michelle Lazarus, Monash University<br>Chair: <a href="https://www.cardiff.ac.uk/about/organisation/university-executive-board/deputy-vice-chancellor">Damian Walford Davies</a></p>
 :::
 
 ::: {.speaker-detail-grid}
