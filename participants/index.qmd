@@ -80,7 +80,7 @@ page-layout: full
             </div>
 
             <div class="participant-card">
-                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
+                <img src="img/Xiaohao Fang.png" alt="Xiaohao Fang" class="participant-avatar">
                 <div class="participant-name">Xiaohao Fang</div>
                 <div class="participant-affiliation">School of Social Sciences, Cardiff University</div>
             </div>
@@ -176,9 +176,12 @@ page-layout: full
             </div>
 
             <div class="participant-card">
-                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
+                <img src="img/Shuangyi Li.jpg" alt="Shuangyi Li" class="participant-avatar">
                 <div class="participant-name">Shuangyi Li</div>
-                <div class="participant-affiliation">UCL</div>
+                <div class="participant-affiliation">University College London</div>
+                <div class="participant-links">
+                    <a href="https://profiles.ucl.ac.uk/101213-shuangyi-li" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+                </div>
             </div>
 
             <div class="participant-card">
@@ -209,6 +212,9 @@ page-layout: full
                 <div class="participant-links">
                     <a href="https://www.unima.ac.mw/staff/search?staff=dr.+elias+peter+mwakilama" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
                 </div>
+                <a class="participant-cta" href="elias-peter-mwakilama.html" aria-label="View Elias Peter Mwakilama's talk details">
+                    <i class="bi bi-mic"></i><span>Talk details</span>
+                </a>
             </div>
 
             <div class="participant-card">

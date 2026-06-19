@@ -1,0 +1,33 @@
+---
+page-layout: full
+---
+
+::: {.page-container .speaker-detail-page}
+::: {.content-card .speaker-detail-hero}
+<p class="speaker-detail-kicker">Participant Talk</p>
+
+# Forecasting of future well-being: Big data analysis approach
+
+<p class="speaker-detail-byline">Presenter: Elias Peter Mwakilama, University of Malawi</p>
+:::
+
+::: {.speaker-detail-grid}
+::: {.content-card}
+## Summary
+
+Effective forecasting of human well-being requires hybrid models that integrate micro-level psychological mechanisms with macro-level economic and environmental scenarios. Although machine learning methods show promise for nowcasting and short-term forecasting of mental well-being using behavioural signals, long-term societal projections remain uncertain because of adaptation effects, cultural variation, and unpredictable shocks.
+
+This talk discusses emerging approaches that use machine learning, big data, and longitudinal cohort studies to predict individual- and population-level well-being trajectories. It considers methodologies ranging from affective forecasting biases, which reveal systematic errors in predicting emotional adaptation, to advanced predictive models incorporating the exposome, genomics, personality, social determinants, and environmental factors.
+
+Advancing well-being forecasting can inform policy and intervention design while helping to reorient measures of societal progress towards sustainable human flourishing in an era of rapid global transformation.
+:::
+
+::: {.content-card}
+## Presenter
+
+Elias Peter Mwakilama is affiliated with the University of Malawi.
+
+[Profile](https://www.unima.ac.mw/staff/search?staff=dr.+elias+peter+mwakilama)
+:::
+:::
+:::
