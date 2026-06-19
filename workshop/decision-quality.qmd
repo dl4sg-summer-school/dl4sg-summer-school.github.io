@@ -1,5 +1,4 @@
 ---
-title: "Decision Quality and Uncertainty"
 page-layout: full
 ---
 

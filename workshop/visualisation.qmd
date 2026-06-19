@@ -1,5 +1,4 @@
 ---
-title: "Communicating and Visualising Future Uncertainty"
 page-layout: full
 ---
 

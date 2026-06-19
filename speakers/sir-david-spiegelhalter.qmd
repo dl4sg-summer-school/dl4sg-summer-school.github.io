@@ -1,5 +1,4 @@
 ---
-title: "Professor Sir David Spiegelhalter"
 page-layout: full
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: "Bill Sharpe"
 page-layout: full
 ---
 

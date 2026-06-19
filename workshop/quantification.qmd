@@ -1,5 +1,4 @@
 ---
-title: "Predictive Inconsistency in Algorithmic Risk Assessment Tools"
 page-layout: full
 ---
 

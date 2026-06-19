@@ -86,14 +86,21 @@ render_location <- function(value) {
   )
 }
 
-render_link <- function(value) {
+render_link <- function(value, session_type) {
   if (is.na(value) || !nzchar(value)) {
     return("")
   }
 
+  label <- if (identical(tolower(session_type), "visit")) {
+    "Visit details"
+  } else {
+    "Session details"
+  }
+
   sprintf(
-    '<a class="session-link" href="%s">Session details</a>',
-    escape_html(value, attribute = TRUE)
+    '<a class="session-link" href="%s">%s</a>',
+    escape_html(value, attribute = TRUE),
+    label
   )
 }
 
@@ -111,7 +118,7 @@ render_session <- function(row) {
     '</div>',
     '<h3 class="session-title">', escape_html(row[["Title"]]), '</h3>',
     render_details(row[["Details"]]),
-    render_link(row[["Link"]]),
+    render_link(row[["Link"]], session_type),
     '</div>',
     '</article>'
   )
@@ -158,7 +165,6 @@ cat(
   paste0(
     '<div id="top" class="page-container program-page">',
     '<div class="section-header program-header">',
-    '<p class="program-intro">Programme schedule for 6-10 July 2026.</p>',
     '</div>',
     '<div class="program-summary">',
     '<div class="summary-card"><span class="summary-label">Dates</span><span class="summary-value">6-10 July 2026</span></div>',
