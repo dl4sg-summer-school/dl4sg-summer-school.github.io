@@ -1545,6 +1545,38 @@ body {
   margin-bottom: 2rem;
 }
 
+.program-handbook {
+  display: flex;
+  justify-content: flex-end;
+  margin: -0.75rem 0 1.25rem;
+}
+
+.program-handbook-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.75rem 1.05rem;
+  border: 1px solid #ca224b;
+  border-radius: 999px;
+  background: #ca224b;
+  color: #fff;
+  font-weight: 650;
+  text-decoration: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.program-handbook-button:hover {
+  background: #a61b3c;
+  border-color: #a61b3c;
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.program-handbook-button:focus-visible {
+  outline: 3px solid rgba(202, 34, 75, 0.25);
+  outline-offset: 3px;
+}
+
 .program-kicker {
   margin: 0 0 0.5rem;
   font-size: 0.8rem;
