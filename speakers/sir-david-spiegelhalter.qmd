@@ -8,7 +8,7 @@ page-layout: full
 
 # The Art of Uncertainty: planning for a future that is hard to imagine
 
-<p class="speaker-detail-byline">Speaker: Professor Sir David Spiegelhalter, University of Cambridge</p>
+<p class="speaker-detail-byline">Speaker: Professor Sir David Spiegelhalter, University of Cambridge<br>Chair: <a href="https://profiles.cardiff.ac.uk/staff/mintor">Rachel Minto</a></p>
 :::
 
 ::: {.speaker-detail-grid}
