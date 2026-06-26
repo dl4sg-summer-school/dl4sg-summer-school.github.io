@@ -188,9 +188,12 @@ page-layout: full
             </div>
 
             <div class="participant-card">
-                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
+                <img src="img/xinru liang.jpeg" alt="Xinru Liang" class="participant-avatar">
                 <div class="participant-name">Xinru Liang</div>
-                <div class="participant-affiliation">Cardiff University</div>
+                <div class="participant-affiliation">School of Engineering, Cardiff University</div>
+                <div class="participant-links">
+                    <a href="https://profiles.cardiff.ac.uk/staff/liangx21" title="Profile" aria-label="Profile"><i class="bi bi-globe"></i></a>
+                </div>
             </div>
 
             <div class="participant-card">
@@ -236,12 +239,6 @@ page-layout: full
                 <div class="participant-links">
                     <a href="https://www.linkedin.com/in/oussema-omri/" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
                 </div>
-            </div>
-
-            <div class="participant-card">
-                <div class="participant-avatar participant-avatar-placeholder" aria-hidden="true"></div>
-                <div class="participant-name">Wilmar Guillermo Rodriguez Lopez</div>
-                <div class="participant-affiliation">Universidad Pedagogica y Tecnologica de Colombia - UPTC</div>
             </div>
 
             <div class="participant-card">
