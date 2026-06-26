@@ -8,7 +8,7 @@ page-layout: full
 
 # How Do Heat Risk Perceptions Vary Across Tenure Groups?
 
-<p class="speaker-detail-byline">Presenter: Charlie Leedham, DECIPHer, School of Social Sciences, Cardiff University</p>
+<p class="speaker-detail-byline">Presenter: Charlie Leedham, Cardiff University</p>
 :::
 
 ::: {.speaker-detail-grid}
@@ -25,7 +25,9 @@ However, tenure differences were substantially weaker for risks framed as collec
 ::: {.content-card}
 ## Presenter
 
-Charlie Leedham is a participant in the summer school and is affiliated with DECIPHer, School of Social Sciences, Cardiff University.
+Charlie Leedham is a participant in the summer school and is affiliated with Cardiff University.
+
+[Profile](https://www.linkedin.com/in/charlie-leedham-378756182)
 :::
 :::
 :::
