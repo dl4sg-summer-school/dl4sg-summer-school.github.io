@@ -1778,6 +1778,25 @@ body {
   text-decoration: underline;
 }
 
+.session-slides-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.55rem 0.8rem;
+  border: 1px solid #ca224b;
+  border-radius: 0.45rem;
+  background: #ca224b;
+  color: #fff;
+  line-height: 1;
+}
+
+.session-slides-link:hover {
+  background: #a61b3c;
+  border-color: #a61b3c;
+  color: #fff;
+  text-decoration: none;
+}
+
 .type-keynote {
   border-left: 4px solid #ca224b;
 }

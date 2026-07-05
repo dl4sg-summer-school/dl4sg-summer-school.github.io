@@ -69,7 +69,7 @@ page-layout: full
       <div class="panel-session-summary">
         <p>This panel brings together editors from leading journals in uncertainty, futures, foresight, and decision-making. The discussion examines how to frame contributions that genuinely advance our understanding of uncertain environments, how methodological innovation and conceptual clarity are assessed, and what editors prioritise when evaluating novelty, rigour, and relevance.</p>
       </div>
-      <p class="panel-session-meta"><strong>Chair:</strong> Bahman Rostami-Tabar</p>
+      <p class="panel-session-meta"><strong>Chair:</strong> Dr. Thanos Goltsos</p>
       <div class="panel-people-grid">
         <article class="panel-person-card">
           <img src="img-panel2/pierre.jpeg" alt="Prof. Pierre Pinson" class="panel-person-avatar">

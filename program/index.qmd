@@ -86,20 +86,31 @@ render_location <- function(value) {
   )
 }
 
-render_link <- function(value, session_type) {
+render_link <- function(value, session_type, session_title) {
   if (is.na(value) || !nzchar(value)) {
     return("")
   }
 
-  label <- if (identical(tolower(session_type), "visit")) {
+  is_slides <- identical(tolower(session_title), "welcome and opening")
+
+  label <- if (is_slides) {
+    "View slides"
+  } else if (identical(tolower(session_type), "visit")) {
     "Visit details"
   } else {
     "Session details"
   }
 
+  link_class <- if (is_slides) "session-link session-slides-link" else "session-link"
+  target <- if (is_slides) ' target="_blank" rel="noopener"' else ""
+  icon <- if (is_slides) '<i class="bi bi-bookmark" aria-hidden="true"></i>' else ""
+
   sprintf(
-    '<a class="session-link" href="%s">%s</a>',
+    '<a class="%s" href="%s"%s>%s<span>%s</span></a>',
+    link_class,
     escape_html(value, attribute = TRUE),
+    target,
+    icon,
     label
   )
 }
@@ -118,7 +129,7 @@ render_session <- function(row) {
     '</div>',
     '<h3 class="session-title">', escape_html(row[["Title"]]), '</h3>',
     render_details(row[["Details"]]),
-    render_link(row[["Link"]], session_type),
+    render_link(row[["Link"]], session_type, row[["Title"]]),
     '</div>',
     '</article>'
   )
