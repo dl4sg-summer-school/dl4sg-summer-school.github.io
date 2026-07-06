@@ -181,8 +181,10 @@ Event code: [**#UF2026**]{style="color: #C7172D;"}
 <li class="fragment">Toilets are signposted and located on each floor of the conference venues</li>
 <li class="fragment">Smoking is not permitted in any Cardiff University building or near any campus building entrances</li>
 <li class="fragment">All breaks: Glamorgan Room 1.67. Please check the programme for lunch locations.</li>
-<li class="fragment">Quiet space: Room 1.67 is available outside catering times.</li>
-<li class="fragment">Prayer spaces: Glamorgan Room -1.77, available 13:00-14:00.</li>
+<li class="fragment">Quiet space: Room 1.67 is available outside catering times</li>
+<li class="fragment">Prayer spaces: Glamorgan Room -1.77, available 13:00-14:00</li>
+<li class="fragment">Please return your name tag at the end of the summer school</li>
+<li class="fragment">Certificates will be given to participants who successfully complete the programme with full attendance</li>
 </ul>
 
 :::
@@ -214,8 +216,6 @@ Cardiff tour
 - Please stay with the group
 
 - Monday: 17:15 – 19:00
-
-<br>
 
 ::: {.fragment}
 
